@@ -4,6 +4,7 @@ package ws;
  * Created by zhengyu on 07/07/2017.
  */
 public class PlayerLiveStatistics {
+    public int teamId;
     public int id;
     public int shirtNo;
     public String name;

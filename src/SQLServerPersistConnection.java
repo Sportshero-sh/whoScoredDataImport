@@ -29,8 +29,8 @@ public class SQLServerPersistConnection {
     private static final String QUERY_MATCH_PLAYER_STATS_SQL = "SELECT * FROM match_player_stats WHERE match_id =? and player_id = ?";
     private static final String QUERY_MATCH_PLAYER_STATSES_SQL = "SELECT * FROM match_player_stats WHERE match_id =? and player_id in(";
     private static final String INSERT_MATCH_PLAYER_STATS_SQL = "INSERT INTO match_player_stats"
-            + "(match_id, player_id, position, rating, isSub, isMoM) VALUES"
-            + "(?,?,?,?,?,?)";
+            + "(match_id, team_id, player_id, position, rating, isSub, isMoM) VALUES"
+            + "(?,?,?,?,?,?,?)";
 
     private Connection mConnection = null;
 
@@ -283,11 +283,12 @@ public class SQLServerPersistConnection {
 
                 for (PlayerLiveStatistics playerLiveStatistics : stats) {
                     batchInsert.setInt(1, matchId);
-                    batchInsert.setInt(2, playerLiveStatistics.id);
-                    batchInsert.setString(3, playerLiveStatistics.stats.position);
-                    batchInsert.setFloat(4, playerLiveStatistics.rating);
-                    batchInsert.setBoolean(5, playerLiveStatistics.isSub);
-                    batchInsert.setBoolean(6, playerLiveStatistics.isMoM);
+                    batchInsert.setInt(2, playerLiveStatistics.teamId);
+                    batchInsert.setInt(3, playerLiveStatistics.id);
+                    batchInsert.setString(4, playerLiveStatistics.stats.position);
+                    batchInsert.setFloat(5, playerLiveStatistics.rating);
+                    batchInsert.setBoolean(6, playerLiveStatistics.isSub);
+                    batchInsert.setBoolean(7, playerLiveStatistics.isMoM);
                     batchInsert.addBatch();
                 }
 
@@ -305,6 +306,26 @@ public class SQLServerPersistConnection {
             e.printStackTrace();
         }
     }
+
+//    public void addTeamId(int matchId, ArrayList<PlayerLiveStatistics> stats) {
+//        String sql = "update match_player_stats set team_id =? where match_id =? and player_id =?";
+//
+//        try {
+//            PreparedStatement batchUpdate = mConnection.prepareStatement(sql);
+//            for (PlayerLiveStatistics playerLiveStatistics: stats) {
+//                batchUpdate.setInt(1, playerLiveStatistics.teamId);
+//                batchUpdate.setInt(2, matchId);
+//                batchUpdate.setInt(3, playerLiveStatistics.id);
+//                batchUpdate.addBatch();
+//            }
+//
+//            batchUpdate.executeBatch();
+//            batchUpdate.close();
+//            mConnection.commit();
+//        } catch (SQLException e) {
+//            e.printStackTrace();
+//        }
+//    }
 
 
     public void close() {
