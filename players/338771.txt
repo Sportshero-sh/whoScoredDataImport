@@ -1,0 +1,1 @@
+{"info":{"regionCode":"hn","regionName":"Honduras","name":"Rigoberto Rivas","dateOfBirth":"1998-07-30T23:00:00.0000000Z","age":18,"position":"FW","height":178,"weight":70,"currentTeamId":75,"currentTeamName":"Inter","currentTeamRegionCode":"it"},"id":338771,"lastModified":"2017-07-10T07:48:37.4434551Z","maxAge":60,"autoRefresh":false}

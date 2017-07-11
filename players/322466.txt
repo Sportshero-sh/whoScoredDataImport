@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Leonardo Sarzi Maddidini","dateOfBirth":"1998-09-20T23:00:00.0000000Z","age":18,"position":"M","height":178,"weight":74,"currentTeamId":2889,"currentTeamName":"Sassuolo","currentTeamRegionCode":"it"},"id":322466,"lastModified":"2017-07-10T07:55:56.4947932Z","maxAge":60,"autoRefresh":false}

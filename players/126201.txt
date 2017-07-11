@@ -1,0 +1,1 @@
+{"info":{"regionCode":"ar","regionName":"Argentina","name":"Sebastián Moyano","dateOfBirth":"1990-08-25T23:00:00.0000000Z","age":26,"position":"GK","height":188,"weight":78,"currentTeamId":3802,"currentTeamName":"Godoy Cruz","currentTeamRegionCode":"ar"},"id":126201,"lastModified":"2017-07-10T04:29:35.4527246Z","maxAge":60,"autoRefresh":false}

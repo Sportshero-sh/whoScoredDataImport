@@ -1,0 +1,1 @@
+{"name":"","tournamentParticipations":[],"relatedPastTournaments":[],"id":25319,"lastModified":"2017-07-10T07:45:45.2331123Z","maxAge":60,"autoRefresh":false}

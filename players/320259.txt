@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Leonardo Loria","dateOfBirth":"1999-03-20T00:00:00.0000000Z","age":18,"position":"GK","height":195,"weight":75,"currentTeamId":87,"currentTeamName":"Juventus","currentTeamRegionCode":"it"},"id":320259,"lastModified":"2017-07-10T07:59:18.5639018Z","maxAge":60,"autoRefresh":false}

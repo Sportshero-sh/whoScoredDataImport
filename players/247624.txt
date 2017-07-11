@@ -1,0 +1,1 @@
+{"info":{"regionCode":"ar","regionName":"Argentina","name":"Mauricio Aquino","dateOfBirth":"1993-10-26T23:00:00.0000000Z","age":23,"position":"GK","height":188,"weight":70,"currentTeamId":1746,"currentTeamName":"Arsenal Sarandi","currentTeamRegionCode":"ar"},"id":247624,"lastModified":"2017-07-10T04:42:08.3406809Z","maxAge":60,"autoRefresh":false}

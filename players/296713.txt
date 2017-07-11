@@ -1,0 +1,1 @@
+{"info":{"regionCode":"ar","regionName":"Argentina","name":"Tomás Figueroa","dateOfBirth":"1995-04-19T23:00:00.0000000Z","age":22,"position":"GK","height":180,"weight":73,"currentTeamId":895,"currentTeamName":"Velez Sarsfield","currentTeamRegionCode":"ar"},"id":296713,"lastModified":"2017-07-10T04:43:14.3045034Z","maxAge":60,"autoRefresh":false}

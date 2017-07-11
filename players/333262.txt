@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Andrea Mastino","dateOfBirth":"1999-11-02T00:00:00.0000000Z","age":17,"position":"D","height":176,"weight":70,"currentTeamId":78,"currentTeamName":"Cagliari","currentTeamRegionCode":"it"},"id":333262,"lastModified":"2017-07-10T07:50:35.9112002Z","maxAge":60,"autoRefresh":false}

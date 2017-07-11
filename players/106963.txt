@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Andrea Tozzo","dateOfBirth":"1992-08-29T23:00:00.0000000Z","age":24,"position":"GK","height":187,"weight":79,"currentTeamId":271,"currentTeamName":"Sampdoria","currentTeamRegionCode":"it"},"id":106963,"lastModified":"2017-07-10T07:55:27.7135237Z","maxAge":60,"autoRefresh":false}

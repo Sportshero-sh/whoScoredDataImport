@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Luca Zanimacchia","dateOfBirth":"1998-07-18T23:00:00.0000000Z","age":18,"position":"M","height":178,"weight":70,"currentTeamId":278,"currentTeamName":"Genoa","currentTeamRegionCode":"it"},"id":322584,"lastModified":"2017-07-10T08:01:37.8895179Z","maxAge":60,"autoRefresh":false}

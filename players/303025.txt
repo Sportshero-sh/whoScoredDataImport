@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Alessandro Confente","dateOfBirth":"1998-06-06T23:00:00.0000000Z","age":19,"position":"GK","height":194,"weight":73,"currentTeamId":267,"currentTeamName":"Chievo","currentTeamRegionCode":"it"},"id":303025,"lastModified":"2017-07-10T07:54:40.6779934Z","maxAge":60,"autoRefresh":false}

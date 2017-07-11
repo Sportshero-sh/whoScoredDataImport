@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Marco Tumminello","dateOfBirth":"1998-11-06T00:00:00.0000000Z","age":18,"position":"FW","height":180,"weight":76,"currentTeamId":84,"currentTeamName":"Roma","currentTeamRegionCode":"it"},"id":300624,"lastModified":"2017-07-10T07:54:32.0209892Z","maxAge":60,"autoRefresh":false}

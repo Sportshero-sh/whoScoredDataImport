@@ -1,0 +1,1 @@
+{"info":{"regionCode":"ar","regionName":"Argentina","name":"Nahuel Pájaro","dateOfBirth":"1997-05-08T23:00:00.0000000Z","age":20,"position":"M","height":172,"weight":68,"currentTeamId":6145,"currentTeamName":"Aldosivi","currentTeamRegionCode":"ar"},"id":315386,"lastModified":"2017-07-10T04:28:52.8407334Z","maxAge":60,"autoRefresh":false}

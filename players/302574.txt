@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Nicholas Pierini","dateOfBirth":"1998-08-05T23:00:00.0000000Z","age":18,"position":"FW","height":176,"weight":70,"currentTeamId":2889,"currentTeamName":"Sassuolo","currentTeamRegionCode":"it"},"id":302574,"lastModified":"2017-07-10T07:55:57.5868070Z","maxAge":60,"autoRefresh":false}

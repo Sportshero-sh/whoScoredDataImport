@@ -1,0 +1,1 @@
+{"info":{"regionName":"Undefined","name":"Aaron Tabacchi","dateOfBirth":"1998-06-25T23:00:00.0000000Z","age":19,"position":"FW","height":180,"weight":70,"currentTeamId":71,"currentTeamName":"Bologna","currentTeamRegionCode":"it"},"id":315710,"lastModified":"2017-07-10T07:56:48.5994678Z","maxAge":60,"autoRefresh":false}

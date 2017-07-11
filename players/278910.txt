@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Samuele Perisan","dateOfBirth":"1997-08-20T23:00:00.0000000Z","age":19,"position":"GK","height":185,"weight":75,"currentTeamId":86,"currentTeamName":"Udinese","currentTeamRegionCode":"it"},"id":278910,"lastModified":"2017-07-10T07:56:33.9197002Z","maxAge":60,"autoRefresh":false}

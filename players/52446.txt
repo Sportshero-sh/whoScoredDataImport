@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Gabriele Aldegani","dateOfBirth":"1976-05-09T23:00:00.0000000Z","age":41,"position":"GK","height":195,"weight":90,"currentTeamId":277,"currentTeamName":"Pescara","currentTeamRegionCode":"it"},"id":52446,"lastModified":"2017-07-10T07:58:27.8796520Z","maxAge":60,"autoRefresh":false}

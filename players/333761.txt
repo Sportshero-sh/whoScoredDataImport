@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fi","regionName":"Finland","name":"Abukar Mohamed","dateOfBirth":"1999-01-01T00:00:00.0000000Z","age":18,"position":"M","height":186,"weight":78,"currentTeamId":77,"currentTeamName":"Lazio","currentTeamRegionCode":"it"},"id":333761,"lastModified":"2017-07-10T07:51:42.6501653Z","maxAge":60,"autoRefresh":false}

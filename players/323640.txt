@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Simone Giuliano","dateOfBirth":"1997-04-27T23:00:00.0000000Z","age":20,"position":"D","height":180,"weight":74,"currentTeamId":1285,"currentTeamName":"Palermo","currentTeamRegionCode":"it"},"id":323640,"lastModified":"2017-07-10T07:52:47.8574802Z","maxAge":60,"autoRefresh":false}

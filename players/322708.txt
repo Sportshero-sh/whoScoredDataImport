@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Marco Acatullo","dateOfBirth":"1998-01-03T00:00:00.0000000Z","age":19,"position":"FW","height":184,"weight":75,"currentTeamId":277,"currentTeamName":"Pescara","currentTeamRegionCode":"it"},"id":322708,"lastModified":"2017-07-10T08:01:43.3959516Z","maxAge":60,"autoRefresh":false}

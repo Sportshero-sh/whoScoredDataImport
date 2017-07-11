@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Bryan Costa","dateOfBirth":"1998-07-27T23:00:00.0000000Z","age":18,"position":"GK","height":188,"weight":75,"currentTeamId":2889,"currentTeamName":"Sassuolo","currentTeamRegionCode":"it"},"id":300741,"lastModified":"2017-07-10T07:56:45.0737486Z","maxAge":60,"autoRefresh":false}

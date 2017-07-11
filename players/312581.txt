@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Giacomo Satalino","dateOfBirth":"1999-05-19T23:00:00.0000000Z","age":18,"position":"GK","height":188,"weight":75,"currentTeamId":73,"currentTeamName":"Fiorentina","currentTeamRegionCode":"it"},"id":312581,"lastModified":"2017-07-10T07:53:49.4938286Z","maxAge":60,"autoRefresh":false}

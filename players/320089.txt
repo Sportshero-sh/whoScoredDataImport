@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Lorenzo Crisanto","dateOfBirth":"1998-04-19T23:00:00.0000000Z","age":19,"position":"GK","height":187,"weight":75,"currentTeamId":84,"currentTeamName":"Roma","currentTeamRegionCode":"it"},"id":320089,"lastModified":"2017-07-10T07:58:26.7096419Z","maxAge":60,"autoRefresh":false}

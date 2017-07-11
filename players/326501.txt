@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Alessandro Plizzari","dateOfBirth":"2000-03-12T00:00:00.0000000Z","age":17,"position":"GK","height":187,"weight":73,"currentTeamId":80,"currentTeamName":"AC Milan","currentTeamRegionCode":"it"},"id":326501,"lastModified":"2017-07-10T07:56:04.1545152Z","maxAge":60,"autoRefresh":false}

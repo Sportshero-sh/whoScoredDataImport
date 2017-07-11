@@ -1,0 +1,1 @@
+{"info":{"regionCode":"ar","regionName":"Argentina","name":"Nicolás Bazzana","dateOfBirth":"1996-02-24T00:00:00.0000000Z","age":21,"position":"D","height":183,"weight":81,"currentTeamId":901,"currentTeamName":"Estudiantes","currentTeamRegionCode":"ar"},"id":334656,"lastModified":"2017-07-10T04:43:40.5440181Z","maxAge":60,"autoRefresh":false}

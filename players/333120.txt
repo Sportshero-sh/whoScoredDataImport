@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Gianluca Frabotta","dateOfBirth":"1999-06-23T23:00:00.0000000Z","age":18,"position":"D","height":176,"weight":70,"currentTeamId":71,"currentTeamName":"Bologna","currentTeamRegionCode":"it"},"id":333120,"lastModified":"2017-07-10T08:01:15.2376925Z","maxAge":60,"autoRefresh":false}

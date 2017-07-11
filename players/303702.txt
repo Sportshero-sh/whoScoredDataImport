@@ -1,0 +1,1 @@
+{"info":{"regionCode":"ar","regionName":"Argentina","name":"Alejandro Almada","dateOfBirth":"1990-01-05T00:00:00.0000000Z","age":27,"position":"M","height":170,"weight":70,"currentTeamId":9310,"currentTeamName":"Patronato de Parana","currentTeamRegionCode":"ar"},"id":303702,"lastModified":"2017-07-10T06:26:25.7854867Z","maxAge":60,"autoRefresh":false}

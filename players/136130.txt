@@ -1,0 +1,1 @@
+{"info":{"regionCode":"ar","regionName":"Argentina","name":"Jeremías Ledesma","dateOfBirth":"1993-02-13T00:00:00.0000000Z","age":24,"position":"GK","height":186,"weight":70,"currentTeamId":903,"currentTeamName":"Rosario Central","currentTeamRegionCode":"ar"},"id":136130,"lastModified":"2017-07-10T04:34:48.1348287Z","maxAge":60,"autoRefresh":false}

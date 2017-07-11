@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Stefano Mazzini","dateOfBirth":"1998-12-06T00:00:00.0000000Z","age":18,"position":"GK","height":191,"weight":75,"currentTeamId":300,"currentTeamName":"Atalanta","currentTeamRegionCode":"it"},"id":323243,"lastModified":"2017-07-10T07:57:18.5830099Z","maxAge":60,"autoRefresh":false}

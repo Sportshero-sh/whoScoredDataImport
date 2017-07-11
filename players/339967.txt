@@ -1,0 +1,1 @@
+{"info":{"regionCode":"ar","regionName":"Argentina","name":"Leandro Cuomo","dateOfBirth":"1996-01-16T00:00:00.0000000Z","age":21,"position":"M","height":177,"weight":69,"currentTeamId":898,"currentTeamName":"Huracan","currentTeamRegionCode":"ar"},"id":339967,"lastModified":"2017-07-10T04:27:55.2996895Z","maxAge":60,"autoRefresh":false}

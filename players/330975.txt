@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Francesco Mele","dateOfBirth":"1998-06-22T23:00:00.0000000Z","age":19,"position":"M","currentTeamId":277,"currentTeamName":"Pescara","currentTeamRegionCode":"it"},"id":330975,"lastModified":"2017-07-10T07:55:33.6250135Z","maxAge":60,"autoRefresh":false}

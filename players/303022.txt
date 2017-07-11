@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Leonardo Marson","dateOfBirth":"1998-01-05T00:00:00.0000000Z","age":19,"position":"GK","height":185,"weight":70,"currentTeamId":1285,"currentTeamName":"Palermo","currentTeamRegionCode":"it"},"id":303022,"lastModified":"2017-07-10T07:52:45.7826199Z","maxAge":60,"autoRefresh":false}

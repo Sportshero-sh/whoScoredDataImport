@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Mirko Bizzi","dateOfBirth":"1999-01-01T00:00:00.0000000Z","age":18,"position":"GK","height":185,"weight":75,"currentTeamId":78,"currentTeamName":"Cagliari","currentTeamRegionCode":"it"},"id":312787,"lastModified":"2017-07-10T07:55:07.7131183Z","maxAge":60,"autoRefresh":false}

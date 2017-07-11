@@ -1,0 +1,1 @@
+{"info":{"regionCode":"lt","regionName":"Lithuania","name":"Titas Krapikas","dateOfBirth":"1999-01-03T00:00:00.0000000Z","age":18,"position":"GK","height":195,"weight":85,"currentTeamId":271,"currentTeamName":"Sampdoria","currentTeamRegionCode":"it"},"id":322991,"lastModified":"2017-07-10T07:50:07.5188810Z","maxAge":60,"autoRefresh":false}

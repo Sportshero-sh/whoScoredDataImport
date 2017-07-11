@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Eros De Santis","dateOfBirth":"1997-10-30T00:00:00.0000000Z","age":19,"position":"D","height":183,"weight":75,"currentTeamId":84,"currentTeamName":"Roma","currentTeamRegionCode":"it"},"id":302972,"lastModified":"2017-07-10T07:58:52.3874858Z","maxAge":60,"autoRefresh":false}

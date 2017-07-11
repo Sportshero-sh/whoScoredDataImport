@@ -1,0 +1,1 @@
+{"info":{"regionCode":"ci","regionName":"Ivory Coast","name":"Guy Yao","dateOfBirth":"1996-01-20T00:00:00.0000000Z","age":21,"position":"D","height":182,"weight":71,"currentTeamId":75,"currentTeamName":"Inter","currentTeamRegionCode":"it"},"id":323245,"lastModified":"2017-07-10T07:48:35.9614387Z","maxAge":60,"autoRefresh":false}
