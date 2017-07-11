@@ -73,14 +73,13 @@ public class SQLServerPersistConnection {
         return false;
     }
 
-    public void persistMatch(int id, Match match) {
-        System.out.println("Persist match: " + match);
+    public void persistMatch(Match match) {
         try {
 
             boolean isExist = false;
 
             PreparedStatement ps = mConnection.prepareStatement(QUERY_MATCH_SQL);
-            ps.setInt(1, id);
+            ps.setInt(1, match.id);
             ResultSet rs = ps.executeQuery();
 
             while (rs.next()) {
@@ -91,7 +90,7 @@ public class SQLServerPersistConnection {
             if (!isExist) {
                 ps = mConnection.prepareStatement(INSERT_MATCH_SQL);
                 MatchInfo info = match.info;
-                ps.setInt(1, id);
+                ps.setInt(1, match.id);
                 ps.setString(2, info.tournamentName);
                 ps.setInt(3, info.homeId);
                 ps.setInt(4, info.awayId);
@@ -142,7 +141,6 @@ public class SQLServerPersistConnection {
     }
 
     public void persistTeam(ArrayList<Team> teams) {
-        System.out.println("Persist teams.");
         try {
             boolean needCommit = false;
 
@@ -208,7 +206,6 @@ public class SQLServerPersistConnection {
     }
 
     public void persistPlayer(ArrayList<Player> players) {
-        System.out.println("Persist players.");
         try {
             // Remove those players already exists.
             PreparedStatement ps = mConnection.prepareStatement(getBatchQueryString(QUERY_PLAYERS_SQL, players.size()));
@@ -228,8 +225,6 @@ public class SQLServerPersistConnection {
             }
 
             if (players.size() > 0) {
-                System.out.println("Batch insert.");
-
                 PreparedStatement batchInsert = mConnection.prepareStatement(INSERT_PLAYER_SQL);
                 for (Player p : players) {
                     batchInsert.setInt(1, p.id);
@@ -262,8 +257,6 @@ public class SQLServerPersistConnection {
      * @param stats
      */
     public void persistMatchPlayerStats(int matchId, ArrayList<PlayerLiveStatistics> stats) {
-        System.out.println("Persist match player stats.");
-
         try  {
             // Remove those match-player-stats already exists.
             PreparedStatement ps = mConnection.prepareStatement(getBatchQueryString(QUERY_MATCH_PLAYER_STATSES_SQL, stats.size()));
@@ -286,8 +279,6 @@ public class SQLServerPersistConnection {
             }
 
             if (stats.size() > 0) {
-                System.out.println("Batch insert.");
-
                 PreparedStatement batchInsert = mConnection.prepareStatement(INSERT_MATCH_PLAYER_STATS_SQL);
 
                 for (PlayerLiveStatistics playerLiveStatistics : stats) {

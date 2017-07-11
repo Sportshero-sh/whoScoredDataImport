@@ -11,8 +11,12 @@ public class Main {
 //        }
 
         // Parser WS data
-        WSDataParser parser = new WSDataParser();
-        parser.parserMatch(1122333);
-        parser.close();
+//        WSDataParser parser = new WSDataParser();
+//        int startAt = 1109659;
+//        for (int i = startAt; i > startAt - 5000  ; i --) {
+//            parser.parserMatch(i);
+//        }
+//
+//        parser.close();
     }
 }

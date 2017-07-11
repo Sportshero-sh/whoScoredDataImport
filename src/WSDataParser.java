@@ -27,12 +27,27 @@ public class WSDataParser {
         String responseString = mFileConnection.getMatch(id);
 
         Match match = gson.fromJson(responseString, Match.class);
-        mDBConnection.persistMatch(id, match);
+
+        if (match.liveMatch == null || match.liveMatch.liveStatistics == null
+                || match.liveMatch.liveStatistics.home == null || match.liveMatch.liveStatistics.away == null)
+        {
+            System.out.println("Match has no rating for player: " + id);
+            return ;
+        }
+
+        if (mDBConnection.isMatchExist(id)) {
+            System.out.println("Match already exist: "+ id);
+            return ;
+        }
+
+        System.out.println("Persist match: " + match.id);
+        mDBConnection.persistMatch(match);
 
         parserTeam(match.info.homeId, match.info.awayId);
 
         parserPlayers(match);
         parserMatchPlayerStats(match);
+
     }
 
     public void parserTeam(int homeId, int awayId) {
