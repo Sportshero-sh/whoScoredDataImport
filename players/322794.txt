@@ -1,0 +1,1 @@
+{"info":{"regionCode":"es","regionName":"Spain","name":"Caro","dateOfBirth":"1994-05-02T23:00:00.0000000Z","age":23,"position":"GK","height":184,"weight":73,"currentTeamId":67,"currentTeamName":"Sevilla","currentTeamRegionCode":"es"},"id":322794,"lastModified":"2017-07-12T09:55:48.7757544Z","maxAge":60,"autoRefresh":false}

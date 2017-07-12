@@ -1,0 +1,1 @@
+{"info":{"regionCode":"gq","regionName":"Equatorial Guinea","name":"Yoiver González","dateOfBirth":"1989-11-22T00:00:00.0000000Z","age":27,"position":"D","height":178,"weight":80,"currentTeamId":220,"currentTeamName":"Gaziantepspor","currentTeamRegionCode":"tr"},"id":333259,"lastModified":"2017-07-12T08:59:24.4706160Z","maxAge":60,"autoRefresh":false}

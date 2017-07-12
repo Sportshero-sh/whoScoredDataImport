@@ -1,0 +1,1 @@
+{"info":{"regionCode":"tr","regionName":"Turkey","name":"Rustu Hanli","dateOfBirth":"1997-01-03T00:00:00.0000000Z","age":20,"position":"D","currentTeamId":221,"currentTeamName":"Bursaspor","currentTeamRegionCode":"tr"},"id":333719,"lastModified":"2017-07-12T08:55:59.2125577Z","maxAge":60,"autoRefresh":false}

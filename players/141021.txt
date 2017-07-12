@@ -1,0 +1,1 @@
+{"info":{"regionCode":"ar","regionName":"Argentina","name":"Mariano Barbosa","dateOfBirth":"1984-07-26T23:00:00.0000000Z","age":32,"position":"GK","height":188,"weight":81,"currentTeamId":839,"currentTeamName":"Villarreal","currentTeamRegionCode":"es"},"id":141021,"lastModified":"2017-07-12T09:52:56.8748893Z","maxAge":60,"autoRefresh":false}

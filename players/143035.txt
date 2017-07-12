@@ -1,0 +1,1 @@
+{"info":{"regionCode":"pt","regionName":"Portugal","name":"Paulo Henrique","dateOfBirth":"1996-10-22T23:00:00.0000000Z","age":20,"position":"D","height":182,"weight":76,"currentTeamId":786,"currentTeamName":"Pacos de Ferreira","currentTeamRegionCode":"pt"},"id":143035,"lastModified":"2017-07-12T09:39:44.6085083Z","maxAge":60,"autoRefresh":false}

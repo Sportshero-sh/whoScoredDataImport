@@ -1,0 +1,1 @@
+{"info":{"regionCode":"tr","regionName":"Turkey","name":"Ugurcan Cakir","dateOfBirth":"1996-04-04T23:00:00.0000000Z","age":21,"position":"GK","height":191,"weight":78,"currentTeamId":226,"currentTeamName":"Trabzonspor","currentTeamRegionCode":"tr"},"id":258840,"lastModified":"2017-07-12T08:57:27.6565611Z","maxAge":60,"autoRefresh":false}

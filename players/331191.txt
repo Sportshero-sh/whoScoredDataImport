@@ -1,0 +1,1 @@
+{"info":{"regionCode":"pt","regionName":"Portugal","name":"Daniel Figueira","dateOfBirth":"1998-07-19T23:00:00.0000000Z","age":18,"position":"GK","height":189,"weight":72,"currentTeamId":11669,"currentTeamName":"Vitoria de Guimaraes B","currentTeamRegionCode":"pt"},"id":331191,"lastModified":"2017-07-12T09:39:28.7232289Z","maxAge":60,"autoRefresh":false}

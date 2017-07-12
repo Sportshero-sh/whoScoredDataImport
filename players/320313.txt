@@ -1,0 +1,1 @@
+{"info":{"regionCode":"br","regionName":"Brazil","name":"Caio Henrique","dateOfBirth":"1997-07-30T23:00:00.0000000Z","age":19,"position":"M","height":178,"weight":68,"currentTeamId":63,"currentTeamName":"Atletico Madrid","currentTeamRegionCode":"es"},"id":320313,"lastModified":"2017-07-12T09:55:52.3144723Z","maxAge":60,"autoRefresh":false}

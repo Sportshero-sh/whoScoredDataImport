@@ -1,0 +1,1 @@
+{"info":{"regionCode":"pt","regionName":"Portugal","name":"Miguel Batista","dateOfBirth":"1995-08-05T23:00:00.0000000Z","age":21,"position":"GK","height":180,"weight":76,"currentTeamId":8071,"currentTeamName":"Tondela","currentTeamRegionCode":"pt"},"id":299766,"lastModified":"2017-07-12T09:39:48.8517740Z","maxAge":60,"autoRefresh":false}

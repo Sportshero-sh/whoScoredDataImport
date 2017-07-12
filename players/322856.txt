@@ -1,0 +1,1 @@
+{"info":{"regionCode":"pt","regionName":"Portugal","name":"Vieirinha","dateOfBirth":"1996-10-28T00:00:00.0000000Z","age":20,"position":"M","height":178,"weight":62,"currentTeamId":2187,"currentTeamName":"Feirense","currentTeamRegionCode":"pt"},"id":322856,"lastModified":"2017-07-12T09:40:38.6942802Z","maxAge":60,"autoRefresh":false}

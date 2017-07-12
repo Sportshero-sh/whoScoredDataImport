@@ -1,5 +1,7 @@
 package ws;
 
+import java.sql.Date;
+
 /**
  * Created by zhengyu on 05/07/2017.
  */
@@ -12,4 +14,5 @@ public class MatchInfo {
     public int homeScore;
     public int awayScore;
     public String startTimeUtc;
+    public Date startTimeDate;
 }

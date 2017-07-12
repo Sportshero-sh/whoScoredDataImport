@@ -1,0 +1,1 @@
+{"info":{"regionCode":"es","regionName":"Spain","name":"Juan Pérez","dateOfBirth":"1996-07-14T23:00:00.0000000Z","age":20,"position":"GK","height":187,"weight":83,"currentTeamId":131,"currentTeamName":"Osasuna","currentTeamRegionCode":"es"},"id":276903,"lastModified":"2017-07-12T09:55:42.0988761Z","maxAge":60,"autoRefresh":false}

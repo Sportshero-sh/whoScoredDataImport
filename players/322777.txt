@@ -1,0 +1,1 @@
+{"info":{"age":0,"position":"","currentTeamId":0},"id":322777,"lastModified":"2017-07-12T09:40:41.3150373Z","maxAge":60,"autoRefresh":false}

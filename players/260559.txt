@@ -1,0 +1,1 @@
+{"info":{"regionCode":"pt","regionName":"Portugal","name":"Dénis Duarte","dateOfBirth":"1994-05-03T23:00:00.0000000Z","age":23,"position":"D","height":190,"weight":82,"currentTeamId":11669,"currentTeamName":"Vitoria de Guimaraes B","currentTeamRegionCode":"pt"},"id":260559,"lastModified":"2017-07-12T09:37:19.4445540Z","maxAge":60,"autoRefresh":false}

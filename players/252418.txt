@@ -1,0 +1,1 @@
+{"info":{"regionCode":"pt","regionName":"Portugal","name":"Carlos Alves","dateOfBirth":"1998-02-18T00:00:00.0000000Z","age":19,"position":"GK","height":187,"weight":80,"currentTeamId":121,"currentTeamName":"Rio Ave","currentTeamRegionCode":"pt"},"id":252418,"lastModified":"2017-07-12T09:36:31.1510380Z","maxAge":60,"autoRefresh":false}

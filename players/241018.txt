@@ -1,0 +1,1 @@
+{"info":{"regionCode":"es","regionName":"Spain","name":"Ander Bardaji","dateOfBirth":"1995-05-02T23:00:00.0000000Z","age":22,"position":"GK","height":192,"weight":78,"currentTeamId":68,"currentTeamName":"Real Sociedad","currentTeamRegionCode":"es"},"id":241018,"lastModified":"2017-07-12T09:57:58.9099227Z","maxAge":60,"autoRefresh":false}

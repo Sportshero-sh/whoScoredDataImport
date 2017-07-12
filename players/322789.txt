@@ -1,0 +1,1 @@
+{"info":{"regionCode":"pt","regionName":"Portugal","name":"Marcos Valente","dateOfBirth":"1994-02-04T00:00:00.0000000Z","age":23,"position":"D","height":196,"weight":89,"currentTeamId":11669,"currentTeamName":"Vitoria de Guimaraes B","currentTeamRegionCode":"pt"},"id":322789,"lastModified":"2017-07-12T09:40:40.4373149Z","maxAge":60,"autoRefresh":false}

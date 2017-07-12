@@ -1,0 +1,1 @@
+{"info":{"regionCode":"tr","regionName":"Turkey","name":"Burak Yildir","dateOfBirth":"1996-12-18T00:00:00.0000000Z","age":20,"position":"M","currentTeamId":153,"currentTeamName":"Adanaspor","currentTeamRegionCode":"tr"},"id":329875,"lastModified":"2017-07-12T09:02:16.5717756Z","maxAge":60,"autoRefresh":false}

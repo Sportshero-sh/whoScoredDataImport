@@ -1,0 +1,1 @@
+{"info":{"regionCode":"tr","regionName":"Turkey","name":"Adnan Karabulut","dateOfBirth":"1998-07-09T23:00:00.0000000Z","age":19,"position":"GK","currentTeamId":220,"currentTeamName":"Gaziantepspor","currentTeamRegionCode":"tr"},"id":338763,"lastModified":"2017-07-12T09:00:10.6939401Z","maxAge":60,"autoRefresh":false}

@@ -1,4 +1,6 @@
 import com.google.gson.Gson;
+import utils.FilePersistConnection;
+import utils.SQLServerPersistConnection;
 import ws.*;
 
 import java.util.ArrayList;
@@ -31,12 +33,12 @@ public class WSDataParser {
         if (match.liveMatch == null || match.liveMatch.liveStatistics == null
                 || match.liveMatch.liveStatistics.home == null || match.liveMatch.liveStatistics.away == null)
         {
-            System.out.println("Match has no rating for player: " + id);
+            System.out.println("MatchForPrediction has no rating for player: " + id);
             return ;
         }
 
         if (mDBConnection.isMatchExist(id)) {
-            System.out.println("Match already exist: "+ id);
+            System.out.println("MatchForPrediction already exist: "+ id);
             return ;
         }
 
@@ -136,7 +138,7 @@ public class WSDataParser {
         mDBConnection.persistMatchPlayerStats(match.id, stats);
     }
 
-//    public void updateTeamId(Match match) {
+//    public void updateTeamId(MatchForPrediction match) {
 //        System.out.println("update team_id for match: " + match.id);
 //
 //        ArrayList<PlayerLiveStatistics> stats = new ArrayList<>();

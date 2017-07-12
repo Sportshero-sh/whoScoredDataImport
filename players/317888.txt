@@ -1,0 +1,1 @@
+{"info":{"regionCode":"tr","regionName":"Turkey","name":"Bunyamin Kasal","dateOfBirth":"1997-01-13T00:00:00.0000000Z","age":20,"position":"D","currentTeamId":221,"currentTeamName":"Bursaspor","currentTeamRegionCode":"tr"},"id":317888,"lastModified":"2017-07-12T09:01:24.4600973Z","maxAge":60,"autoRefresh":false}

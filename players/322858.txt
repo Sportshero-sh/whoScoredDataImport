@@ -1,0 +1,1 @@
+{"info":{"regionCode":"pt","regionName":"Portugal","name":"Mica","dateOfBirth":"1995-03-19T00:00:00.0000000Z","age":22,"position":"D","height":175,"weight":68,"currentTeamId":7814,"currentTeamName":"Sanjoanense","currentTeamRegionCode":"pt"},"id":322858,"lastModified":"2017-07-12T09:40:38.2262533Z","maxAge":60,"autoRefresh":false}

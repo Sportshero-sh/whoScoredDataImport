@@ -1,0 +1,1 @@
+{"info":{"regionCode":"tr","regionName":"Turkey","name":"Ercüment Kafkasyali","dateOfBirth":"1985-09-12T23:00:00.0000000Z","age":31,"position":"GK","height":187,"weight":75,"currentTeamId":2812,"currentTeamName":"Karabukspor","currentTeamRegionCode":"tr"},"id":67264,"lastModified":"2017-07-12T08:59:54.5009610Z","maxAge":60,"autoRefresh":false}

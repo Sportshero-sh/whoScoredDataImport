@@ -1,0 +1,1 @@
+{"info":{"regionCode":"pt","regionName":"Portugal","name":"Cristiano","dateOfBirth":"1989-07-09T23:00:00.0000000Z","age":28,"position":"D","height":185,"weight":80,"currentTeamId":264,"currentTeamName":"Maritimo","currentTeamRegionCode":"pt"},"id":67151,"lastModified":"2017-07-12T09:32:44.9020668Z","maxAge":60,"autoRefresh":false}

@@ -1,0 +1,1 @@
+{"info":{"regionCode":"es","regionName":"Spain","name":"Roberto Núñez","dateOfBirth":"1996-01-03T00:00:00.0000000Z","age":21,"position":"FW","height":182,"weight":77,"currentTeamId":63,"currentTeamName":"Atletico Madrid","currentTeamRegionCode":"es"},"id":331055,"lastModified":"2017-07-12T09:55:16.3898717Z","maxAge":60,"autoRefresh":false}

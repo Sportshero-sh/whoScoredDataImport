@@ -1,0 +1,1 @@
+{"info":{"age":0,"position":"","currentTeamId":0},"character":{"styles":[],"strengths":[],"weaknesses":[{"name":"Long passing","isOffensive":true,"level":2},{"name":"Discipline","isOffensive":false,"level":2}]},"id":41375,"lastModified":"2017-07-12T09:53:21.5231244Z","maxAge":60,"autoRefresh":false}

@@ -1,0 +1,1 @@
+{"info":{"regionCode":"tr","regionName":"Turkey","name":"Onur Ural","dateOfBirth":"1997-02-22T00:00:00.0000000Z","age":20,"position":"D","currentTeamId":3475,"currentTeamName":"Kasimpasa","currentTeamRegionCode":"tr"},"id":328950,"lastModified":"2017-07-12T09:02:53.5992883Z","maxAge":60,"autoRefresh":false}

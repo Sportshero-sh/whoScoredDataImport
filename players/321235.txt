@@ -1,0 +1,1 @@
+{"info":{"regionCode":"es","regionName":"Spain","name":"Àlex Carbonell","dateOfBirth":"1997-09-14T23:00:00.0000000Z","age":19,"position":"M","height":182,"weight":75,"currentTeamId":65,"currentTeamName":"Barcelona","currentTeamRegionCode":"es"},"id":321235,"lastModified":"2017-07-12T09:55:24.1743523Z","maxAge":60,"autoRefresh":false}

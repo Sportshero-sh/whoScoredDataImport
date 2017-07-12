@@ -1,0 +1,1 @@
+{"info":{"regionCode":"es","regionName":"Spain","name":"Andrés Prieto","dateOfBirth":"1993-10-16T23:00:00.0000000Z","age":23,"position":"GK","height":193,"weight":93,"currentTeamId":70,"currentTeamName":"Espanyol","currentTeamRegionCode":"es"},"id":261287,"lastModified":"2017-07-12T09:55:25.5003263Z","maxAge":60,"autoRefresh":false}

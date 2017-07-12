@@ -1,0 +1,1 @@
+{"info":{"age":0,"position":"","currentTeamId":0},"character":{"styles":[{"name":"Commits fouls often","isOffensive":false,"level":2}],"strengths":[{"name":"Blocking the ball","isOffensive":false,"level":4}],"weaknesses":[{"name":"Aerial Duels","isOffensive":true,"level":1}]},"id":110253,"lastModified":"2017-07-12T09:02:42.4056705Z","maxAge":60,"autoRefresh":false}

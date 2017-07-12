@@ -1,0 +1,1 @@
+{"info":{"regionCode":"tr","regionName":"Turkey","name":"Ahmet Ozden","dateOfBirth":"1996-10-10T23:00:00.0000000Z","age":20,"position":"GK","height":188,"currentTeamId":227,"currentTeamName":"Antalyaspor","currentTeamRegionCode":"tr"},"id":141428,"lastModified":"2017-07-12T09:00:13.3233484Z","maxAge":60,"autoRefresh":false}

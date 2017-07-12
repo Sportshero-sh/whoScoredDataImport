@@ -1,0 +1,1 @@
+{"info":{"regionCode":"tr","regionName":"Turkey","name":"Eray Iscan","dateOfBirth":"1991-07-18T23:00:00.0000000Z","age":25,"position":"GK","height":197,"weight":86,"currentTeamId":294,"currentTeamName":"Galatasaray","currentTeamRegionCode":"tr"},"id":81570,"lastModified":"2017-07-12T08:59:46.8412676Z","maxAge":60,"autoRefresh":false}

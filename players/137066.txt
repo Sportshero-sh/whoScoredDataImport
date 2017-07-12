@@ -1,0 +1,1 @@
+{"info":{"regionCode":"pt","regionName":"Portugal","name":"Igor Rocha","dateOfBirth":"1993-03-04T00:00:00.0000000Z","age":24,"position":"GK","height":184,"weight":80,"currentTeamId":5948,"currentTeamName":"Arouca","currentTeamRegionCode":"pt"},"id":137066,"lastModified":"2017-07-12T09:37:41.2737096Z","maxAge":60,"autoRefresh":false}

@@ -1,0 +1,1 @@
+{"info":{"regionCode":"tr","regionName":"Turkey","name":"Devlet Karatas","dateOfBirth":"1997-10-24T23:00:00.0000000Z","age":19,"position":"D","currentTeamId":2200,"currentTeamName":"Kayserispor","currentTeamRegionCode":"tr"},"id":339052,"lastModified":"2017-07-12T09:00:32.6519688Z","maxAge":60,"autoRefresh":false}
