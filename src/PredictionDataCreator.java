@@ -17,9 +17,9 @@ public class PredictionDataCreator {
         mDBConnection = new SQLServerPersistConnection("fhvm-dev.eastasia.cloudapp.azure.com", "footballhero_sa", "password99__**01", "whoscored");
     }
 
-    public void createPredictionData(int id) {
+    public boolean createPredictionData(int id, String fileName) {
         if (! mFileConnection.isMatchExist(id)) {
-            return;
+            return false;
         }
 
         Gson gson = new Gson();
@@ -32,7 +32,7 @@ public class PredictionDataCreator {
                 || match.liveMatch.liveStatistics.home == null || match.liveMatch.liveStatistics.away == null)
         {
             System.out.println("MatchForPrediction has no rating for player: " + id);
-            return ;
+            return false;
         }
 
         // Create the match prediction data.
@@ -49,9 +49,13 @@ public class PredictionDataCreator {
         matchForPrediction.homeSquad = mDBConnection.getPlayerStatsPreMatch(matchFromDB, matchFromDB.info.homeId);
         matchForPrediction.awaySquad = mDBConnection.getPlayerStatsPreMatch(matchFromDB, matchFromDB.info.awayId);
 
-        if (matchForPrediction.homeSquad.length == 14 && matchForPrediction.awaySquad.length == 14) {
-            String jsonMatchForPrediction = gson.toJson(matchForPrediction);
-            mFileConnection.persistMatchForPrediction(id, jsonMatchForPrediction);
+        if (matchForPrediction.homeSquad.length > 0 && matchForPrediction.awaySquad.length > 0) {
+
+            mFileConnection.persistPredictionMatch(fileName, matchForPrediction.toString());
+
+            return true;
+        } else {
+            return false;
         }
     }
 }

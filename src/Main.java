@@ -1,3 +1,6 @@
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
+
 public class Main {
 
 
@@ -6,21 +9,33 @@ public class Main {
             return;
         }
 
+        // All start from 1122333
         switch (args[0]) {
             case "fetch_from_ws":
                 // Fetch data from WS
+//                WSFetcher fetcher = new WSFetcher();
+//
+//                int startAt = 1084037;
+//                for (int i = startAt; i > startAt - 3000  ; i --) {
+//                    fetcher.fetchMatch(i);
+//                }
+                ExecutorService exec = Executors.newCachedThreadPool();
+
+                int startAt = 1081037;
+
                 WSFetcher fetcher = new WSFetcher();
 
-                int startAt = 1099097;
-                for (int i = startAt; i > startAt - 3000  ; i --) {
-                    fetcher.fetchMatch(i);
+                for (int i = startAt; i > startAt - 30  ; i --) {
+                    final int number = i;
+                    exec.submit(() -> fetcher.fetchMatch(number));
                 }
+
                 break;
 
             case "parser_ws_data":
                 // Parser WS data
                 WSDataParser parser = new WSDataParser();
-                startAt = 1109659;
+                startAt = 1096064;
                 for (int i = startAt; i > startAt - 5000  ; i --) {
                     parser.parserMatch(i);
                 }
@@ -33,9 +48,19 @@ public class Main {
                 PredictionDataCreator creator = new PredictionDataCreator();
 
                 startAt = 1122333;
-                for (int i = startAt; i > startAt - 5000  ; i --) {
-                    creator.createPredictionData(i);
+                int totalNumber = 0;
+                for (int i = startAt; i > startAt - 1  ; i --) {
+                    String fileName = "Sample";
+                    if (totalNumber % 50 == 0) {
+                        fileName = "Test";
+                    }
+
+                    if (creator.createPredictionData(i, fileName)) {
+                        totalNumber ++;
+                    }
                 }
+
+                System.out.println("Total Number is: " + totalNumber);
                 break;
         }
     }

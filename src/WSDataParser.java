@@ -50,6 +50,8 @@ public class WSDataParser {
         parserPlayers(match);
         parserMatchPlayerStats(match);
 
+//        updatePlayerStats(match);
+
     }
 
     public void parserTeam(int homeId, int awayId) {
@@ -138,34 +140,34 @@ public class WSDataParser {
         mDBConnection.persistMatchPlayerStats(match.id, stats);
     }
 
-//    public void updateTeamId(MatchForPrediction match) {
-//        System.out.println("update team_id for match: " + match.id);
-//
-//        ArrayList<PlayerLiveStatistics> stats = new ArrayList<>();
-//
-//        if (match.liveMatch != null &&
-//                match.liveMatch.liveStatistics != null) {
-//            TeamLiveStatistics homeTeamLiveStats = match.liveMatch.liveStatistics.home;
-//            if (homeTeamLiveStats != null && homeTeamLiveStats.players != null) {
-//
-//                for (PlayerLiveStatistics playerLiveStatistics : homeTeamLiveStats.players) {
-//                    playerLiveStatistics.teamId = match.info.homeId;
-//                }
-//                Collections.addAll(stats, homeTeamLiveStats.players);
-//            }
-//
-//            TeamLiveStatistics awayTeamLiveStats = match.liveMatch.liveStatistics.away;
-//            if (awayTeamLiveStats != null && awayTeamLiveStats.players != null) {
-//
-//                for (PlayerLiveStatistics playerLiveStatistics : awayTeamLiveStats.players) {
-//                    playerLiveStatistics.teamId = match.info.awayId;
-//                }
-//                Collections.addAll(stats, awayTeamLiveStats.players);
-//            }
-//        }
-//
-//        mDBConnection.addTeamId(match.id, stats);
-//    }
+    public void updatePlayerStats(Match match) {
+        System.out.println("update player stats for match: " + match.id);
+
+        ArrayList<PlayerLiveStatistics> stats = new ArrayList<>();
+
+        if (match.liveMatch != null &&
+                match.liveMatch.liveStatistics != null) {
+            TeamLiveStatistics homeTeamLiveStats = match.liveMatch.liveStatistics.home;
+            if (homeTeamLiveStats != null && homeTeamLiveStats.players != null) {
+
+                for (PlayerLiveStatistics playerLiveStatistics : homeTeamLiveStats.players) {
+                    playerLiveStatistics.teamId = match.info.homeId;
+                }
+                Collections.addAll(stats, homeTeamLiveStats.players);
+            }
+
+            TeamLiveStatistics awayTeamLiveStats = match.liveMatch.liveStatistics.away;
+            if (awayTeamLiveStats != null && awayTeamLiveStats.players != null) {
+
+                for (PlayerLiveStatistics playerLiveStatistics : awayTeamLiveStats.players) {
+                    playerLiveStatistics.teamId = match.info.awayId;
+                }
+                Collections.addAll(stats, awayTeamLiveStats.players);
+            }
+        }
+
+        mDBConnection.updatePlayerStats(match.id, stats);
+    }
 
     public void close() {
         mDBConnection.close();

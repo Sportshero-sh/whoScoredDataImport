@@ -56,13 +56,17 @@ public class FilePersistConnection {
     }
 
 
-    public void persistMatchForPrediction(int matchId, String jsonContent) {
-        persistToFile(jsonContent, "predictions/" + matchId + ".txt");
+    public void persistPredictionMatch(String fileName, String jsonContent) {
+        writeToFile(jsonContent, "predictions/" + fileName + ".txt", true);
     }
 
     private void persistToFile(String responseString, String name) {
+        writeToFile(responseString, name, false);
+    }
+
+    private void writeToFile(String responseString, String name, boolean append) {
         try {
-            FileOutputStream out = new FileOutputStream(name);
+            FileOutputStream out = new FileOutputStream(name, append);
             PrintStream p = new PrintStream(out);
             p.print(responseString);
             p.close();

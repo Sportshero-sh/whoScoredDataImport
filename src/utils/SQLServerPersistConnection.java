@@ -35,8 +35,11 @@ public class SQLServerPersistConnection {
     private static final String QUERY_MATCH_PLAYER_STATS_SQL = "SELECT * FROM match_player_stats WHERE match_id =? and player_id = ?";
     private static final String QUERY_MATCH_PLAYER_STATSES_SQL = "SELECT * FROM match_player_stats WHERE match_id =? and player_id in(";
     private static final String INSERT_MATCH_PLAYER_STATS_SQL = "INSERT INTO match_player_stats"
-            + "(match_id, team_id, player_id, position, rating, isSub, isMoM) VALUES"
-            + "(?,?,?,?,?,?,?)";
+            + "(match_id, team_id, player_id, position, rating, isSub, isMoM, man_of_the_match, formation_place, total_sub_on, total_sub_off," +
+            " totalPasses, passAccuracy, aerialsWon, touches, fouls, shots, dribblesWon, tackles, saves, assist, goal_penalty, goals, goal_own," +
+            " penalty_missed, minutes_played, shots_blocked, was_dribbled, interceptions, was_fouled, offsides, dispossessed, turnovers, crosses," +
+            " long_balls, through_balls, shotsOnTarget, yellow, red, secondYellow, penaltySave, error_lead_to_goal, last_man_tackle, clearance_off_line, hit_woodwork) VALUES"
+            + "(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)";
 
     private Connection mConnection = null;
 
@@ -300,13 +303,55 @@ public class SQLServerPersistConnection {
                 PreparedStatement batchInsert = mConnection.prepareStatement(INSERT_MATCH_PLAYER_STATS_SQL);
 
                 for (PlayerLiveStatistics playerLiveStatistics : stats) {
-                    batchInsert.setInt(1, matchId);
-                    batchInsert.setInt(2, playerLiveStatistics.teamId);
-                    batchInsert.setInt(3, playerLiveStatistics.id);
-                    batchInsert.setString(4, playerLiveStatistics.stats.position);
-                    batchInsert.setFloat(5, playerLiveStatistics.rating);
-                    batchInsert.setBoolean(6, playerLiveStatistics.isSub);
-                    batchInsert.setBoolean(7, playerLiveStatistics.isMoM);
+                    PlayerLiveStatisticsDetail detail = playerLiveStatistics.stats;
+                    int index = 1;
+                    batchInsert.setInt(index++, matchId);
+                    batchInsert.setInt(index++, playerLiveStatistics.teamId);
+                    batchInsert.setInt(index++, playerLiveStatistics.id);
+                    batchInsert.setString(index++, detail.position);
+                    batchInsert.setFloat(index++, playerLiveStatistics.rating);
+                    batchInsert.setBoolean(index++, playerLiveStatistics.isSub);
+                    batchInsert.setBoolean(index++, playerLiveStatistics.isMoM);
+                    batchInsert.setInt(index++, detail.man_of_the_match);
+                    batchInsert.setInt(index++, detail.formation_place);
+                    batchInsert.setInt(index++, detail.total_sub_on);
+                    batchInsert.setInt(index++, detail.total_sub_off);
+                    batchInsert.setInt(index++, detail.totalPasses);
+                    batchInsert.setInt(index++, detail.passAccuracy);
+                    batchInsert.setInt(index++, detail.aerialsWon);
+                    batchInsert.setInt(index++, detail.touches);
+                    batchInsert.setInt(index++, detail.fouls);
+                    batchInsert.setInt(index++, detail.shots);
+                    batchInsert.setInt(index++, detail.dribblesWon);
+                    batchInsert.setInt(index++, detail.tackles);
+                    batchInsert.setInt(index++, detail.saves);
+                    batchInsert.setInt(index++, detail.assist);
+                    batchInsert.setInt(index++, detail.goal_penalty);
+                    batchInsert.setInt(index++, detail.goals);
+                    batchInsert.setInt(index++, detail.goal_own);
+                    batchInsert.setInt(index++, detail.penalty_missed);
+                    batchInsert.setInt(index++, detail.minutes_played);
+                    batchInsert.setInt(index++, detail.shots_blocked);
+                    batchInsert.setInt(index++, detail.was_dribbled);
+                    batchInsert.setInt(index++, detail.interceptions);
+                    batchInsert.setInt(index++, detail.was_fouled);
+                    batchInsert.setInt(index++, detail.offsides);
+                    batchInsert.setInt(index++, detail.dispossessed);
+                    batchInsert.setInt(index++, detail.turnovers);
+                    batchInsert.setInt(index++, detail.crosses);
+                    batchInsert.setInt(index++, detail.long_balls);
+                    batchInsert.setInt(index++, detail.through_balls);
+                    batchInsert.setInt(index++, detail.shotsOnTarget);
+                    batchInsert.setInt(index++, detail.yellow);
+                    batchInsert.setInt(index++, detail.red);
+                    batchInsert.setInt(index++, detail.secondYellow);
+                    batchInsert.setInt(index++, detail.penaltySave);
+                    batchInsert.setInt(index++, detail.error_lead_to_goal);
+                    batchInsert.setInt(index++, detail.last_man_tackle);
+                    batchInsert.setInt(index++, detail.clearance_off_line);
+                    batchInsert.setInt(index++, detail.hit_woodwork);
+
+
                     batchInsert.addBatch();
                 }
 
@@ -327,24 +372,60 @@ public class SQLServerPersistConnection {
 
     public TeamSquad[] getPlayerStatsPreMatch(Match match, int teamId) {
         Date matchStartDate = match.info.startTimeDate;
-        String sql = "select top 200 mps.player_id, count(*), avg(mps.rating) from match_player_stats mps " +
-                "join match m on mps.match_id = m.id_ws " +
-                "where startTimeUtc <? and team_id =? and rating > 0" +
-                "group by player_id";
+        String sql = "select * from match_player_stats " +
+                "where isSub = 'false' and match_id in (" +
+                "select top 5 id_ws from match where (home_id =? or away_id =?) and startTimeUtc <?" +
+                ")";
 
         ArrayList<TeamSquad> teamSquads = new ArrayList<>();
 
         try {
             PreparedStatement ps = mConnection.prepareStatement(sql);
-            ps.setDate(1, match.info.startTimeDate);
+            ps.setInt(1, teamId);
             ps.setInt(2, teamId);
+            ps.setDate(3, match.info.startTimeDate);
 
             ResultSet rs = ps.executeQuery();
 
             while(rs.next()) {
                 TeamSquad squad = new TeamSquad();
-                squad.appearance = rs.getInt(2);
-                squad.rating = rs.getFloat(3);
+                squad.rating = rs.getFloat("rating");
+                squad.man_of_the_match = rs.getInt("man_of_the_match");
+                squad.formation_place = rs.getInt("formation_place");
+                squad.totalPasses = rs.getInt("totalPasses");
+                squad.passAccuracy = rs.getInt("passAccuracy");
+                squad.aerialsWon = rs.getInt("aerialsWon");
+                squad.touches = rs.getInt("touches");
+                squad.fouls = rs.getInt("fouls");
+                squad.shots = rs.getInt("shots");
+                squad.dribblesWon = rs.getInt("dribblesWon");
+                squad.tackles = rs.getInt("tackles");
+                squad.saves = rs.getInt("saves");
+                squad.assist = rs.getInt("assist");
+                squad.goal_penalty = rs.getInt("goal_penalty");
+                squad.goals = rs.getInt("goals");
+                squad.goal_own = rs.getInt("goal_own");
+                squad.penalty_missed = rs.getInt("penalty_missed");
+                squad.minutes_played = rs.getInt("minutes_played");
+                squad.shots_blocked = rs.getInt("shots_blocked");
+                squad.was_dribbled = rs.getInt("was_dribbled");
+                squad.interceptions = rs.getInt("interceptions");
+                squad.was_fouled = rs.getInt("was_fouled");
+                squad.offsides = rs.getInt("offsides");
+                squad.dispossessed = rs.getInt("dispossessed");
+                squad.turnovers = rs.getInt("turnovers");
+                squad.crosses = rs.getInt("crosses");
+                squad.long_balls = rs.getInt("long_balls");
+                squad.through_balls = rs.getInt("through_balls");
+                squad.shotsOnTarget = rs.getInt("shotsOnTarget");
+                squad.yellow = rs.getInt("yellow");
+                squad.red = rs.getInt("red");
+                squad.secondYellow = rs.getInt("secondYellow");
+                squad.penaltySave = rs.getInt("penaltySave");
+                squad.error_lead_to_goal = rs.getInt("error_lead_to_goal");
+                squad.last_man_tackle = rs.getInt("last_man_tackle");
+                squad.clearance_off_line = rs.getInt("clearance_off_line");
+                squad.hit_woodwork = rs.getInt("hit_woodwork");
 
                 teamSquads.add(squad);
             }
@@ -353,34 +434,79 @@ public class SQLServerPersistConnection {
             e.printStackTrace();
         }
 
-        // Only return the top 14 (+3 replacements) with most appearance.
-        Collections.sort(teamSquads, (o1, o2) -> o2.appearance - o1.appearance);
-        while(teamSquads.size() > 14) {
-            teamSquads.remove(teamSquads.size() - 1);
+        // Remove games with not enough data. (11 * 2 * 5 = 110)
+        if (teamSquads.size() == 110) {
+            return teamSquads.toArray(new TeamSquad[]{});
+        } else {
+            return new TeamSquad[0];
         }
-
-        return teamSquads.toArray(new TeamSquad[]{});
     }
 
-//    public void addTeamId(int matchId, ArrayList<PlayerLiveStatistics> stats) {
-//        String sql = "update match_player_stats set team_id =? where match_id =? and player_id =?";
-//
-//        try {
-//            PreparedStatement batchUpdate = mConnection.prepareStatement(sql);
-//            for (PlayerLiveStatistics playerLiveStatistics: stats) {
-//                batchUpdate.setInt(1, playerLiveStatistics.teamId);
-//                batchUpdate.setInt(2, matchId);
-//                batchUpdate.setInt(3, playerLiveStatistics.id);
-//                batchUpdate.addBatch();
-//            }
-//
-//            batchUpdate.executeBatch();
-//            batchUpdate.close();
-//            mConnection.commit();
-//        } catch (SQLException e) {
-//            e.printStackTrace();
-//        }
-//    }
+    public void updatePlayerStats(int matchId, ArrayList<PlayerLiveStatistics> stats) {
+        String sql = "update match_player_stats set man_of_the_match=?, formation_place=?, total_sub_on=?, total_sub_off=?, totalPasses=?, passAccuracy=?, aerialsWon=?, touches=?," +
+                "fouls=?, shots=?, dribblesWon=?, tackles=?, saves=?, assist=?, goal_penalty=?, goals=?, goal_own=?, penalty_missed=?, minutes_played=?, shots_blocked=?, was_dribbled=?," +
+                "interceptions=?, was_fouled=?, offsides=?, dispossessed=?, turnovers=?, crosses=?, long_balls=?, through_balls=?, shotsOnTarget=?, yellow=?, red=?, secondYellow=?, " +
+                "penaltySave=?, error_lead_to_goal=?, last_man_tackle=?, clearance_off_line=?, hit_woodwork=? " +
+                "where match_id =? and player_id =?";
+
+        try {
+            PreparedStatement batchUpdate = mConnection.prepareStatement(sql);
+            for (PlayerLiveStatistics playerLiveStatistics: stats) {
+                PlayerLiveStatisticsDetail detail = playerLiveStatistics.stats;
+
+                int index = 1;
+                batchUpdate.setInt(index++, detail.man_of_the_match);
+                batchUpdate.setInt(index++, detail.formation_place);
+                batchUpdate.setInt(index++, detail.total_sub_on);
+                batchUpdate.setInt(index++, detail.total_sub_off);
+                batchUpdate.setInt(index++, detail.totalPasses);
+                batchUpdate.setInt(index++, detail.passAccuracy);
+                batchUpdate.setInt(index++, detail.aerialsWon);
+                batchUpdate.setInt(index++, detail.touches);
+                batchUpdate.setInt(index++, detail.fouls);
+                batchUpdate.setInt(index++, detail.shots);
+                batchUpdate.setInt(index++, detail.dribblesWon);
+                batchUpdate.setInt(index++, detail.tackles);
+                batchUpdate.setInt(index++, detail.saves);
+                batchUpdate.setInt(index++, detail.assist);
+                batchUpdate.setInt(index++, detail.goal_penalty);
+                batchUpdate.setInt(index++, detail.goals);
+                batchUpdate.setInt(index++, detail.goal_own);
+                batchUpdate.setInt(index++, detail.penalty_missed);
+                batchUpdate.setInt(index++, detail.minutes_played);
+                batchUpdate.setInt(index++, detail.shots_blocked);
+                batchUpdate.setInt(index++, detail.was_dribbled);
+                batchUpdate.setInt(index++, detail.interceptions);
+                batchUpdate.setInt(index++, detail.was_fouled);
+                batchUpdate.setInt(index++, detail.offsides);
+                batchUpdate.setInt(index++, detail.dispossessed);
+                batchUpdate.setInt(index++, detail.turnovers);
+                batchUpdate.setInt(index++, detail.crosses);
+                batchUpdate.setInt(index++, detail.long_balls);
+                batchUpdate.setInt(index++, detail.through_balls);
+                batchUpdate.setInt(index++, detail.shotsOnTarget);
+                batchUpdate.setInt(index++, detail.yellow);
+                batchUpdate.setInt(index++, detail.red);
+                batchUpdate.setInt(index++, detail.secondYellow);
+                batchUpdate.setInt(index++, detail.penaltySave);
+                batchUpdate.setInt(index++, detail.error_lead_to_goal);
+                batchUpdate.setInt(index++, detail.last_man_tackle);
+                batchUpdate.setInt(index++, detail.clearance_off_line);
+                batchUpdate.setInt(index++, detail.hit_woodwork);
+
+
+                batchUpdate.setInt(39, matchId);
+                batchUpdate.setInt(40, playerLiveStatistics.id);
+                batchUpdate.addBatch();
+            }
+
+            batchUpdate.executeBatch();
+            batchUpdate.close();
+            mConnection.commit();
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
+    }
 
 
     public void close() {
