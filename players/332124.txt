@@ -1,0 +1,1 @@
+{"info":{"regionCode":"gb-eng","regionName":"England","name":"Ethan Robson","dateOfBirth":"1996-10-24T23:00:00.0000000Z","age":20,"position":"M","height":178,"weight":73,"currentTeamId":16,"currentTeamName":"Sunderland","currentTeamRegionCode":"gb-eng"},"id":332124,"lastModified":"2017-07-21T06:24:23.7795166Z","maxAge":60,"autoRefresh":false}

@@ -15,20 +15,12 @@ public class Main {
                 // Fetch data from WS
 //                WSFetcher fetcher = new WSFetcher();
 //
-//                int startAt = 1084037;
+//                int startAt = 1075829;
 //                for (int i = startAt; i > startAt - 3000  ; i --) {
 //                    fetcher.fetchMatch(i);
 //                }
-                ExecutorService exec = Executors.newCachedThreadPool();
 
-                int startAt = 1081037;
-
-                WSFetcher fetcher = new WSFetcher();
-
-                for (int i = startAt; i > startAt - 30  ; i --) {
-                    final int number = i;
-                    exec.submit(() -> fetcher.fetchMatch(number));
-                }
+                new WSMultiFetcher(1075829, 300, 8);
 
                 break;
 

@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Younes Kaabouni","dateOfBirth":"1995-05-22T23:00:00.0000000Z","age":22,"position":"M","height":179,"weight":67,"currentTeamId":315,"currentTeamName":"Bordeaux","currentTeamRegionCode":"fr"},"id":137052,"lastModified":"2017-07-21T07:09:53.4454733Z","maxAge":60,"autoRefresh":false}

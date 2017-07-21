@@ -1,0 +1,1 @@
+{"info":{"regionCode":"be","regionName":"Belgium","name":"Thibaud Verlinden","dateOfBirth":"1999-07-08T23:00:00.0000000Z","age":18,"position":"FW","height":173,"weight":65,"currentTeamId":96,"currentTeamName":"Stoke","currentTeamRegionCode":"gb-eng"},"id":329842,"lastModified":"2017-07-21T06:25:47.2808963Z","maxAge":60,"autoRefresh":false}

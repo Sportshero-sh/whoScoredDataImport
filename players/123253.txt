@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Gautier Lloris","dateOfBirth":"1995-07-17T23:00:00.0000000Z","age":22,"position":"D","height":191,"weight":83,"currentTeamId":613,"currentTeamName":"Nice","currentTeamRegionCode":"fr"},"id":123253,"lastModified":"2017-07-21T07:06:55.3267782Z","maxAge":60,"autoRefresh":false}

@@ -1,0 +1,1 @@
+{"info":{"regionCode":"ci","regionName":"Ivory Coast","name":"Ismael Diallo","dateOfBirth":"1997-01-29T00:00:00.0000000Z","age":20,"position":"D","currentTeamId":310,"currentTeamName":"SC Bastia","currentTeamRegionCode":"fr"},"id":299563,"lastModified":"2017-07-21T07:06:02.8593073Z","maxAge":60,"autoRefresh":false}

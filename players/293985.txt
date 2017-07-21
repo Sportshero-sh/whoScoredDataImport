@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Denis Poha","dateOfBirth":"1997-05-27T23:00:00.0000000Z","age":20,"position":"M","height":173,"weight":72,"currentTeamId":313,"currentTeamName":"Rennes","currentTeamRegionCode":"fr"},"id":293985,"lastModified":"2017-07-21T07:03:23.1914866Z","maxAge":60,"autoRefresh":false}

@@ -1,0 +1,1 @@
+{"info":{"regionCode":"lt","regionName":"Lithuania","name":"Giedrius Arlauskis","dateOfBirth":"1987-12-01T00:00:00.0000000Z","age":29,"position":"GK","height":192,"weight":85,"currentTeamId":27,"currentTeamName":"Watford","currentTeamRegionCode":"gb-eng"},"id":66957,"lastModified":"2017-07-21T06:23:37.5874335Z","maxAge":60,"autoRefresh":false}

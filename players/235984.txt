@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Jerrold Nyemeck","dateOfBirth":"1994-05-06T23:00:00.0000000Z","age":23,"position":"D","height":180,"weight":77,"currentTeamId":145,"currentTeamName":"Saint-Etienne","currentTeamRegionCode":"fr"},"id":235984,"lastModified":"2017-07-21T07:10:02.2167401Z","maxAge":60,"autoRefresh":false}

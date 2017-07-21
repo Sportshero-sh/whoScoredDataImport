@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Alexis Claude Maurice","dateOfBirth":"1998-06-05T23:00:00.0000000Z","age":19,"position":"M","height":180,"weight":73,"currentTeamId":146,"currentTeamName":"Lorient","currentTeamRegionCode":"fr"},"id":327905,"lastModified":"2017-07-21T07:09:55.3799349Z","maxAge":60,"autoRefresh":false}

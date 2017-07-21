@@ -1,0 +1,1 @@
+{"info":{"regionCode":"nl","regionName":"Netherlands","name":"Jens van Son","dateOfBirth":"1987-08-18T23:00:00.0000000Z","age":29,"position":"M","height":176,"weight":75,"currentTeamId":127,"currentTeamName":"Roda","currentTeamRegionCode":"nl"},"id":288871,"lastModified":"2017-07-21T06:33:04.7098860Z","maxAge":60,"autoRefresh":false}

@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Alexis Larriere","dateOfBirth":"1997-03-20T00:00:00.0000000Z","age":20,"position":"M","height":180,"weight":76,"currentTeamId":314,"currentTeamName":"Metz","currentTeamRegionCode":"fr"},"id":322669,"lastModified":"2017-07-21T07:08:46.6611090Z","maxAge":60,"autoRefresh":false}

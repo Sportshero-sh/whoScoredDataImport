@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Gaetan Perrin","dateOfBirth":"1996-06-06T23:00:00.0000000Z","age":21,"position":"FW","height":169,"weight":70,"currentTeamId":228,"currentTeamName":"Lyon","currentTeamRegionCode":"fr"},"id":301326,"lastModified":"2017-07-21T07:10:13.2109386Z","maxAge":60,"autoRefresh":false}

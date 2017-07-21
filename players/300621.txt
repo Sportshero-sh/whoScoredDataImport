@@ -1,0 +1,1 @@
+{"info":{"regionCode":"nl","regionName":"Netherlands","name":"Tarik Evre","dateOfBirth":"1996-05-28T23:00:00.0000000Z","age":21,"position":"D","currentTeamId":868,"currentTeamName":"PEC Zwolle","currentTeamRegionCode":"nl"},"id":300621,"lastModified":"2017-07-21T06:33:14.7310879Z","maxAge":60,"autoRefresh":false}

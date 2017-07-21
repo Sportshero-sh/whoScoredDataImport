@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Lemouya Goudiaby","dateOfBirth":"1997-01-09T00:00:00.0000000Z","age":20,"position":"D","height":175,"weight":70,"currentTeamId":314,"currentTeamName":"Metz","currentTeamRegionCode":"fr"},"id":329029,"lastModified":"2017-07-21T07:08:43.2018874Z","maxAge":60,"autoRefresh":false}

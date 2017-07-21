@@ -1,0 +1,1 @@
+{"info":{"regionCode":"lt","regionName":"Lithuania","name":"Edvinas Gertmonas","dateOfBirth":"1996-05-31T23:00:00.0000000Z","age":21,"position":"GK","height":192,"weight":92,"currentTeamId":313,"currentTeamName":"Rennes","currentTeamRegionCode":"fr"},"id":317300,"lastModified":"2017-07-21T07:06:20.9242478Z","maxAge":60,"autoRefresh":false}

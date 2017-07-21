@@ -1,0 +1,1 @@
+{"info":{"regionCode":"nl","regionName":"Netherlands","name":"Bryan Janssen","dateOfBirth":"1995-01-09T00:00:00.0000000Z","age":22,"position":"GK","height":197,"weight":83,"currentTeamId":303,"currentTeamName":"Sparta Rotterdam","currentTeamRegionCode":"nl"},"id":260521,"lastModified":"2017-07-21T06:34:42.7882033Z","maxAge":60,"autoRefresh":false}

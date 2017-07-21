@@ -1,0 +1,1 @@
+{"info":{"regionCode":"ru","regionName":"Russia","name":"Shamsiddin Shanbiev","dateOfBirth":"1997-02-18T00:00:00.0000000Z","age":20,"position":"D","height":181,"weight":74,"currentTeamId":13517,"currentTeamName":"Spartak Moscow II","currentTeamRegionCode":"ru"},"id":322288,"lastModified":"2017-07-21T05:57:31.5571618Z","maxAge":60,"autoRefresh":false}

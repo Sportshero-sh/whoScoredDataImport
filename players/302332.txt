@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Julien Da Costa","dateOfBirth":"1996-05-28T23:00:00.0000000Z","age":21,"position":"D","currentTeamId":249,"currentTeamName":"Marseille","currentTeamRegionCode":"fr"},"id":302332,"lastModified":"2017-07-21T07:08:21.0612850Z","maxAge":60,"autoRefresh":false}

@@ -1,0 +1,1 @@
+{"info":{"regionCode":"nl","regionName":"Netherlands","name":"Wouter van der Steen","dateOfBirth":"1990-06-02T23:00:00.0000000Z","age":27,"position":"GK","height":187,"weight":79,"currentTeamId":287,"currentTeamName":"SC Heerenveen","currentTeamRegionCode":"nl"},"id":322150,"lastModified":"2017-07-21T06:06:52.3909003Z","maxAge":60,"autoRefresh":false}

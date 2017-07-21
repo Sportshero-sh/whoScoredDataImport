@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Alexandre Menay","dateOfBirth":"1996-07-04T23:00:00.0000000Z","age":21,"position":"GK","height":186,"weight":76,"currentTeamId":125,"currentTeamName":"Nancy","currentTeamRegionCode":"fr"},"id":296231,"lastModified":"2017-07-21T07:08:48.0651894Z","maxAge":60,"autoRefresh":false}

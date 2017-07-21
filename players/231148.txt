@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Anthony Ribelin","dateOfBirth":"1996-04-07T23:00:00.0000000Z","age":21,"position":"M","height":177,"weight":73,"currentTeamId":2832,"currentTeamName":"Paris FC","currentTeamRegionCode":"fr"},"id":231148,"lastModified":"2017-07-21T07:08:02.7310757Z","maxAge":60,"autoRefresh":false}
