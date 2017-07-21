@@ -15,12 +15,12 @@ public class Main {
                 // Fetch data from WS
 //                WSFetcher fetcher = new WSFetcher();
 //
-//                int startAt = 1075829;
+                int startAt = 1075829;
 //                for (int i = startAt; i > startAt - 3000  ; i --) {
 //                    fetcher.fetchMatch(i);
 //                }
 
-                new WSMultiFetcher(1075829, 300, 8);
+                new WSMultiFetcher(1075829, 1000, 4);
 
                 break;
 
