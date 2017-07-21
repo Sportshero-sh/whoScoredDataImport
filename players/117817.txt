@@ -1,0 +1,1 @@
+{"info":{"regionCode":"de","regionName":"Germany","name":"Michael Hiegl","dateOfBirth":"1993-04-07T23:00:00.0000000Z","age":24,"position":"GK","height":190,"weight":85,"currentTeamId":3882,"currentTeamName":"Sandhausen","currentTeamRegionCode":"de"},"id":117817,"lastModified":"2017-07-21T02:32:37.5094541Z","maxAge":60,"autoRefresh":false}

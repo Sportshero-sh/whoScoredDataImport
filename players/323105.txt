@@ -1,0 +1,1 @@
+{"info":{"regionCode":"gb-nir","regionName":"Northern Ireland","name":"Chris Paul","dateOfBirth":"1997-09-24T23:00:00.0000000Z","age":19,"position":"D","currentTeamId":171,"currentTeamName":"Queens Park Rangers","currentTeamRegionCode":"gb-eng"},"id":323105,"lastModified":"2017-07-21T03:45:04.4983732Z","maxAge":60,"autoRefresh":false}

@@ -1,0 +1,1 @@
+{"info":{"regionCode":"de","regionName":"Germany","name":"Florian Stritzel","dateOfBirth":"1994-01-31T00:00:00.0000000Z","age":23,"position":"GK","height":197,"weight":92,"currentTeamId":112,"currentTeamName":"Karlsruher SC","currentTeamRegionCode":"de"},"id":113658,"lastModified":"2017-07-21T02:32:20.8517677Z","maxAge":60,"autoRefresh":false}

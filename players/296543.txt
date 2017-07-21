@@ -1,0 +1,1 @@
+{"info":{"regionCode":"nl","regionName":"Netherlands","name":"Jan Bekkema","dateOfBirth":"1996-04-08T23:00:00.0000000Z","age":21,"position":"GK","currentTeamId":287,"currentTeamName":"SC Heerenveen","currentTeamRegionCode":"nl"},"id":296543,"lastModified":"2017-07-21T04:15:44.3348865Z","maxAge":60,"autoRefresh":false}

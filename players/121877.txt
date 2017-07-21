@@ -1,0 +1,1 @@
+{"info":{"regionCode":"ru","regionName":"Russia","name":"Khyzyr Appaev","dateOfBirth":"1990-01-27T00:00:00.0000000Z","age":27,"position":"FW","height":175,"weight":68,"currentTeamId":4165,"currentTeamName":"Avangard Kursk","currentTeamRegionCode":"ru"},"id":121877,"lastModified":"2017-07-21T04:00:33.0045176Z","maxAge":60,"autoRefresh":false}

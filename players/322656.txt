@@ -1,0 +1,1 @@
+{"info":{"regionCode":"nl","regionName":"Netherlands","name":"Rody de Boer","dateOfBirth":"1997-08-21T23:00:00.0000000Z","age":19,"position":"GK","height":188,"weight":87,"currentTeamId":764,"currentTeamName":"ADO Den Haag","currentTeamRegionCode":"nl"},"id":322656,"lastModified":"2017-07-21T04:16:56.3296396Z","maxAge":60,"autoRefresh":false}

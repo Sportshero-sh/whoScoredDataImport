@@ -1,0 +1,1 @@
+{"info":{"regionCode":"at","regionName":"Austria","name":"Stefan Posch","dateOfBirth":"1997-05-13T23:00:00.0000000Z","age":20,"position":"D","height":188,"weight":76,"currentTeamId":1211,"currentTeamName":"Hoffenheim","currentTeamRegionCode":"de"},"id":333741,"lastModified":"2017-07-21T02:39:51.5376062Z","maxAge":60,"autoRefresh":false}

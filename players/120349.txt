@@ -1,0 +1,1 @@
+{"info":{"regionCode":"ru","regionName":"Russia","name":"Miroslav Lobantsev","dateOfBirth":"1995-05-26T23:00:00.0000000Z","age":22,"position":"GK","height":189,"weight":80,"currentTeamId":668,"currentTeamName":"Lokomotiv Moscow","currentTeamRegionCode":"ru"},"id":120349,"lastModified":"2017-07-21T03:57:15.7728818Z","maxAge":60,"autoRefresh":false}

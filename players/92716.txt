@@ -1,0 +1,1 @@
+{"info":{"regionCode":"de","regionName":"Germany","name":"Ioannis Gelios","dateOfBirth":"1992-04-23T23:00:00.0000000Z","age":25,"position":"GK","height":190,"weight":80,"currentTeamId":1730,"currentTeamName":"Augsburg","currentTeamRegionCode":"de"},"id":92716,"lastModified":"2017-07-21T02:39:12.3655455Z","maxAge":60,"autoRefresh":false}

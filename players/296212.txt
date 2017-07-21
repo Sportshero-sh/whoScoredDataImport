@@ -1,0 +1,1 @@
+{"info":{"regionCode":"ru","regionName":"Russia","name":"Ilya Viznovich","dateOfBirth":"1998-02-10T00:00:00.0000000Z","age":19,"position":"FW","height":182,"weight":75,"currentTeamId":997,"currentTeamName":"Krylya Sovetov Samara","currentTeamRegionCode":"ru"},"id":296212,"lastModified":"2017-07-21T03:59:32.5864462Z","maxAge":60,"autoRefresh":false}

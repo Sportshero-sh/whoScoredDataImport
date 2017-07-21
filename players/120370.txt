@@ -1,0 +1,1 @@
+{"info":{"regionCode":"ru","regionName":"Russia","name":"Shamil Asildarov","dateOfBirth":"1983-05-17T23:00:00.0000000Z","age":34,"position":"FW","height":186,"weight":83,"currentTeamId":1002,"currentTeamName":"Anzhi Makhachkala","currentTeamRegionCode":"ru"},"id":120370,"lastModified":"2017-07-21T03:57:39.1263496Z","maxAge":60,"autoRefresh":false}

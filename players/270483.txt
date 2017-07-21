@@ -1,0 +1,1 @@
+{"info":{"regionCode":"ru","regionName":"Russia","name":"Aleksander Shubin","dateOfBirth":"1996-12-27T00:00:00.0000000Z","age":20,"position":"GK","height":187,"weight":72,"currentTeamId":4174,"currentTeamName":"Ural","currentTeamRegionCode":"ru"},"id":270483,"lastModified":"2017-07-21T03:58:36.2528944Z","maxAge":60,"autoRefresh":false}

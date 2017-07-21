@@ -1,0 +1,1 @@
+{"info":{"regionCode":"ru","regionName":"Russia","name":"Guram Adzhoev","dateOfBirth":"1995-02-27T00:00:00.0000000Z","age":22,"position":"FW","height":185,"weight":77,"currentTeamId":8753,"currentTeamName":"Arsenal Tula","currentTeamRegionCode":"ru"},"id":334451,"lastModified":"2017-07-21T03:54:59.5822189Z","maxAge":60,"autoRefresh":false}

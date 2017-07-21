@@ -1,0 +1,1 @@
+{"info":{"regionCode":"ua","regionName":"Ukraine","name":"Dmitriy Scherbak","dateOfBirth":"1996-12-08T00:00:00.0000000Z","age":20,"position":"M","currentTeamId":1002,"currentTeamName":"Anzhi Makhachkala","currentTeamRegionCode":"ru"},"id":322761,"lastModified":"2017-07-21T04:00:14.0673144Z","maxAge":60,"autoRefresh":false}

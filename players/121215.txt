@@ -1,0 +1,1 @@
+{"info":{"regionCode":"ru","regionName":"Russia","name":"Vitaly Gudiev","dateOfBirth":"1995-04-21T23:00:00.0000000Z","age":22,"position":"GK","height":192,"weight":76,"currentTeamId":2407,"currentTeamName":"FK Akhmat","currentTeamRegionCode":"ru"},"id":121215,"lastModified":"2017-07-21T03:58:38.4213164Z","maxAge":60,"autoRefresh":false}

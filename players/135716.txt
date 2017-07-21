@@ -1,0 +1,1 @@
+{"info":{"regionCode":"gb-eng","regionName":"England","name":"Nick Townsend","dateOfBirth":"1994-11-01T00:00:00.0000000Z","age":22,"position":"GK","height":181,"weight":88,"currentTeamId":142,"currentTeamName":"Barnsley","currentTeamRegionCode":"gb-eng"},"id":135716,"lastModified":"2017-07-21T03:36:55.3555039Z","maxAge":60,"autoRefresh":false}

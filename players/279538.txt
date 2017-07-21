@@ -1,0 +1,1 @@
+{"info":{"regionCode":"br","regionName":"Brazil","name":"Marciel","dateOfBirth":"1995-03-08T00:00:00.0000000Z","age":22,"position":"M","height":186,"weight":78,"currentTeamId":1237,"currentTeamName":"Corinthians","currentTeamRegionCode":"br"},"id":279538,"lastModified":"2017-07-21T04:05:12.2631317Z","maxAge":60,"autoRefresh":false}

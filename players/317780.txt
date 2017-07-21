@@ -1,0 +1,1 @@
+{"info":{"regionCode":"ru","regionName":"Russia","name":"Georgy Makhatadze","dateOfBirth":"1998-03-26T00:00:00.0000000Z","age":19,"position":"M","height":180,"weight":69,"currentTeamId":2057,"currentTeamName":"Rubin Kazan","currentTeamRegionCode":"ru"},"id":317780,"lastModified":"2017-07-21T03:56:38.0037291Z","maxAge":60,"autoRefresh":false}

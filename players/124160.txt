@@ -1,0 +1,1 @@
+{"info":{"regionCode":"nl","regionName":"Netherlands","name":"Carlo de Reuver","dateOfBirth":"1995-01-29T00:00:00.0000000Z","age":22,"position":"FW","height":186,"weight":72,"currentTeamId":867,"currentTeamName":"Excelsior","currentTeamRegionCode":"nl"},"id":124160,"lastModified":"2017-07-21T04:17:45.5482362Z","maxAge":60,"autoRefresh":false}

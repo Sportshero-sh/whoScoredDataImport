@@ -1,0 +1,1 @@
+{"info":{"regionCode":"ru","regionName":"Russia","name":"Maxim Pavlov","dateOfBirth":"1989-05-25T23:00:00.0000000Z","age":28,"position":"GK","height":192,"weight":85,"currentTeamId":997,"currentTeamName":"Krylya Sovetov Samara","currentTeamRegionCode":"ru"},"id":321321,"lastModified":"2017-07-21T03:58:11.8855167Z","maxAge":60,"autoRefresh":false}

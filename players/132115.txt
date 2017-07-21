@@ -1,0 +1,1 @@
+{"info":{"regionCode":"de","regionName":"Germany","name":"Benjamin Bellot","dateOfBirth":"1990-07-29T23:00:00.0000000Z","age":26,"position":"GK","height":186,"weight":81,"currentTeamId":1,"currentTeamName":"Brondby IF","currentTeamRegionCode":"dk"},"id":132115,"lastModified":"2017-07-21T02:38:59.6543545Z","maxAge":60,"autoRefresh":false}

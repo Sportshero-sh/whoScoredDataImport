@@ -1,0 +1,1 @@
+{"info":{"regionCode":"ru","regionName":"Russia","name":"Chingiz Magomadov","dateOfBirth":"1998-07-31T23:00:00.0000000Z","age":18,"position":"D","currentTeamId":2407,"currentTeamName":"FK Akhmat","currentTeamRegionCode":"ru"},"id":328279,"lastModified":"2017-07-21T04:01:43.3457451Z","maxAge":60,"autoRefresh":false}

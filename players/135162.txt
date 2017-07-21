@@ -1,0 +1,1 @@
+{"info":{"regionCode":"no","regionName":"Norway","name":"Michael Crowe","dateOfBirth":"1995-11-13T00:00:00.0000000Z","age":21,"position":"GK","currentTeamId":165,"currentTeamName":"Ipswich","currentTeamRegionCode":"gb-eng"},"id":135162,"lastModified":"2017-07-21T03:39:54.9288023Z","maxAge":60,"autoRefresh":false}

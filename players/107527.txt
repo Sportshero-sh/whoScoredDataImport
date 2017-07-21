@@ -1,0 +1,1 @@
+{"info":{"regionCode":"de","regionName":"Germany","name":"Benjamin Uphoff","dateOfBirth":"1993-08-07T23:00:00.0000000Z","age":23,"position":"GK","height":192,"weight":78,"currentTeamId":41,"currentTeamName":"VfB Stuttgart","currentTeamRegionCode":"de"},"id":107527,"lastModified":"2017-07-21T02:30:42.9763393Z","maxAge":60,"autoRefresh":false}

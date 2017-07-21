@@ -1,0 +1,1 @@
+{"info":{"regionCode":"ua","regionName":"Ukraine","name":"Aleksandr Filin","dateOfBirth":"1996-06-24T23:00:00.0000000Z","age":21,"position":"D","height":179,"weight":71,"currentTeamId":9004,"currentTeamName":"FC Ufa","currentTeamRegionCode":"ru"},"id":300725,"lastModified":"2017-07-21T03:59:22.2124032Z","maxAge":60,"autoRefresh":false}

@@ -1,0 +1,1 @@
+{"info":{"regionCode":"gb-eng","regionName":"England","name":"Patrick Webber","dateOfBirth":"1999-03-14T00:00:00.0000000Z","age":18,"position":"D","currentTeamId":165,"currentTeamName":"Ipswich","currentTeamRegionCode":"gb-eng"},"id":332840,"lastModified":"2017-07-21T03:42:06.5633135Z","maxAge":60,"autoRefresh":false}

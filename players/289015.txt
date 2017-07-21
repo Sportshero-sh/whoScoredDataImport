@@ -1,0 +1,1 @@
+{"info":{"regionCode":"nl","regionName":"Netherlands","name":"Julian Lelieveld","dateOfBirth":"1997-11-24T00:00:00.0000000Z","age":19,"position":"D","height":184,"weight":75,"currentTeamId":255,"currentTeamName":"Vitesse","currentTeamRegionCode":"nl"},"id":289015,"lastModified":"2017-07-21T04:16:22.9788446Z","maxAge":60,"autoRefresh":false}

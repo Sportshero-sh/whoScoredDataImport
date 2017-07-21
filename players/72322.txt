@@ -1,0 +1,1 @@
+{"info":{"regionCode":"tj","regionName":"Tajikistan","name":"Farkhod Vasiev","dateOfBirth":"1990-04-13T23:00:00.0000000Z","age":27,"position":"D","height":177,"weight":73,"currentTeamId":5460,"currentTeamName":"FC Orenburg","currentTeamRegionCode":"ru"},"id":72322,"lastModified":"2017-07-21T04:00:04.3470830Z","maxAge":60,"autoRefresh":false}

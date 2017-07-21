@@ -1,0 +1,1 @@
+{"info":{"regionCode":"ua","regionName":"Ukraine","name":"Oleg Mishchenko","dateOfBirth":"1989-10-09T23:00:00.0000000Z","age":27,"position":"FW","height":180,"weight":72,"currentTeamId":1537,"currentTeamName":"Amkar","currentTeamRegionCode":"ru"},"id":313095,"lastModified":"2017-07-21T03:57:47.5180407Z","maxAge":60,"autoRefresh":false}

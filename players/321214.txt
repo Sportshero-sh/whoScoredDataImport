@@ -1,0 +1,1 @@
+{"info":{"regionCode":"ru","regionName":"Russia","name":"Ivan Lapshov","dateOfBirth":"1999-04-30T23:00:00.0000000Z","age":18,"position":"D","height":188,"weight":78,"currentTeamId":668,"currentTeamName":"Lokomotiv Moscow","currentTeamRegionCode":"ru"},"id":321214,"lastModified":"2017-07-21T04:00:37.4037639Z","maxAge":60,"autoRefresh":false}

@@ -1,0 +1,1 @@
+{"info":{"regionCode":"de","regionName":"Germany","name":"Timo Königsmann","dateOfBirth":"1997-04-04T23:00:00.0000000Z","age":20,"position":"GK","height":184,"weight":86,"currentTeamId":110,"currentTeamName":"Hannover 96","currentTeamRegionCode":"de"},"id":261208,"lastModified":"2017-07-21T02:33:02.7972672Z","maxAge":60,"autoRefresh":false}

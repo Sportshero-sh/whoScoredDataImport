@@ -1,0 +1,1 @@
+{"info":{"regionName":"Undefined","name":"Guilherme Parede","dateOfBirth":"1995-09-18T23:00:00.0000000Z","age":21,"position":"M","height":175,"weight":69,"currentTeamId":1236,"currentTeamName":"Coritiba","currentTeamRegionCode":"br"},"id":294115,"lastModified":"2017-07-21T04:05:21.0944158Z","maxAge":60,"autoRefresh":false}

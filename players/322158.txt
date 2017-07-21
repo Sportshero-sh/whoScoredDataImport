@@ -1,0 +1,1 @@
+{"info":{"regionCode":"nl","regionName":"Netherlands","name":"Ricardo Kieboom","dateOfBirth":"1991-09-19T23:00:00.0000000Z","age":25,"position":"GK","height":187,"weight":83,"currentTeamId":303,"currentTeamName":"Sparta Rotterdam","currentTeamRegionCode":"nl"},"id":322158,"lastModified":"2017-07-21T04:13:27.6951637Z","maxAge":60,"autoRefresh":false}

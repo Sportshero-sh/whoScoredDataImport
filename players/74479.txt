@@ -1,0 +1,1 @@
+{"info":{"regionCode":"br","regionName":"Brazil","name":"Bernardo","dateOfBirth":"1990-05-19T23:00:00.0000000Z","age":27,"position":"M","height":177,"weight":70,"currentTeamId":1236,"currentTeamName":"Coritiba","currentTeamRegionCode":"br"},"id":74479,"lastModified":"2017-07-21T04:05:19.6107532Z","maxAge":60,"autoRefresh":false}

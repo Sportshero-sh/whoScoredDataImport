@@ -1,0 +1,1 @@
+{"info":{"regionCode":"de","regionName":"Germany","name":"Niklas Hoffmann","dateOfBirth":"1997-04-08T23:00:00.0000000Z","age":20,"position":"D","height":190,"weight":74,"currentTeamId":112,"currentTeamName":"Karlsruher SC","currentTeamRegionCode":"de"},"id":298598,"lastModified":"2017-07-21T02:41:45.6868961Z","maxAge":60,"autoRefresh":false}

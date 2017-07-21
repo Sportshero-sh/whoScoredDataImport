@@ -1,0 +1,1 @@
+{"info":{"regionCode":"ru","regionName":"Russia","name":"Idris Musluev","dateOfBirth":"1997-01-21T00:00:00.0000000Z","age":20,"position":"D","height":191,"weight":84,"currentTeamId":2407,"currentTeamName":"FK Akhmat","currentTeamRegionCode":"ru"},"id":338465,"lastModified":"2017-07-21T04:02:08.9924058Z","maxAge":60,"autoRefresh":false}

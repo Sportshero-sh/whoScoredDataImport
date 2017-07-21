@@ -1,0 +1,1 @@
+{"info":{"regionCode":"ru","regionName":"Russia","name":"Artem Galadzhan","dateOfBirth":"1998-05-21T23:00:00.0000000Z","age":19,"position":"FW","height":180,"weight":71,"currentTeamId":668,"currentTeamName":"Lokomotiv Moscow","currentTeamRegionCode":"ru"},"id":321215,"lastModified":"2017-07-21T03:56:04.8233640Z","maxAge":60,"autoRefresh":false}

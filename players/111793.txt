@@ -1,0 +1,1 @@
+{"info":{"regionCode":"ru","regionName":"Russia","name":"Ilya Pomazun","dateOfBirth":"1996-08-15T23:00:00.0000000Z","age":20,"position":"GK","height":189,"weight":84,"currentTeamId":847,"currentTeamName":"CSKA Moscow","currentTeamRegionCode":"ru"},"id":111793,"lastModified":"2017-07-21T03:59:11.8694060Z","maxAge":60,"autoRefresh":false}

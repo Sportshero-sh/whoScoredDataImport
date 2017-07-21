@@ -1,0 +1,1 @@
+{"info":{"regionCode":"ru","regionName":"Russia","name":"Pavel Kudryashov","dateOfBirth":"1996-11-27T00:00:00.0000000Z","age":20,"position":"FW","height":175,"weight":65,"currentTeamId":2288,"currentTeamName":"Tom Tomsk","currentTeamRegionCode":"ru"},"id":149342,"lastModified":"2017-07-21T03:55:26.7421440Z","maxAge":60,"autoRefresh":false}

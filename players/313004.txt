@@ -1,0 +1,1 @@
+{"info":{"regionCode":"ng","regionName":"Nigeria","name":"Aaron Samuel","dateOfBirth":"1994-06-03T23:00:00.0000000Z","age":23,"position":"FW","height":189,"weight":88,"currentTeamId":847,"currentTeamName":"CSKA Moscow","currentTeamRegionCode":"ru"},"id":313004,"lastModified":"2017-07-21T03:59:05.6137332Z","maxAge":60,"autoRefresh":false}

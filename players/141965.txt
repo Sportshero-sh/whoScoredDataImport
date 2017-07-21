@@ -1,0 +1,1 @@
+{"info":{"regionCode":"nl","regionName":"Netherlands","name":"Jeroen Houwen","dateOfBirth":"1996-02-18T00:00:00.0000000Z","age":21,"position":"GK","height":188,"weight":79,"currentTeamId":255,"currentTeamName":"Vitesse","currentTeamRegionCode":"nl"},"id":141965,"lastModified":"2017-07-21T04:16:51.2908074Z","maxAge":60,"autoRefresh":false}

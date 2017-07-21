@@ -1,0 +1,1 @@
+{"info":{"regionCode":"ru","regionName":"Russia","name":"Valery Yaroshenko","dateOfBirth":"1997-05-07T23:00:00.0000000Z","age":20,"position":"M","height":180,"weight":67,"currentTeamId":4179,"currentTeamName":"Baltika","currentTeamRegionCode":"ru"},"id":299672,"lastModified":"2017-07-21T04:01:18.0422317Z","maxAge":60,"autoRefresh":false}

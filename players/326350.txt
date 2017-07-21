@@ -1,0 +1,1 @@
+{"info":{"regionCode":"ru","regionName":"Russia","name":"Dmitrii Skopintcev","dateOfBirth":"1997-03-02T00:00:00.0000000Z","age":20,"position":"D","height":175,"weight":65,"currentTeamId":4179,"currentTeamName":"Baltika","currentTeamRegionCode":"ru"},"id":326350,"lastModified":"2017-07-21T04:01:16.9658692Z","maxAge":60,"autoRefresh":false}

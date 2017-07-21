@@ -1,0 +1,1 @@
+{"info":{"regionName":"Undefined","name":"Andrei Zorin","dateOfBirth":"1997-04-04T23:00:00.0000000Z","age":20,"position":"M","height":175,"weight":60,"currentTeamId":2288,"currentTeamName":"Tom Tomsk","currentTeamRegionCode":"ru"},"id":338467,"lastModified":"2017-07-21T04:02:33.8746667Z","maxAge":60,"autoRefresh":false}

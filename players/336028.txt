@@ -1,0 +1,1 @@
+{"info":{"regionCode":"ch","regionName":"Switzerland","name":"Gregor Kobel","dateOfBirth":"1997-12-06T00:00:00.0000000Z","age":19,"position":"GK","height":193,"weight":90,"currentTeamId":1211,"currentTeamName":"Hoffenheim","currentTeamRegionCode":"de"},"id":336028,"lastModified":"2017-07-21T02:37:12.9960335Z","maxAge":60,"autoRefresh":false}

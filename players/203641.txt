@@ -1,0 +1,1 @@
+{"info":{"regionCode":"ci","regionName":"Ivory Coast","name":"Jean-Jacques Bougouhi","dateOfBirth":"1992-06-11T23:00:00.0000000Z","age":25,"position":"FW","height":173,"weight":68,"currentTeamId":471,"currentTeamName":"HJK","currentTeamRegionCode":"fi"},"id":203641,"lastModified":"2017-07-21T03:55:47.5059234Z","maxAge":60,"autoRefresh":false}

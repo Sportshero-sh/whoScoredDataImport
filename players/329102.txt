@@ -1,0 +1,1 @@
+{"info":{"regionCode":"ru","regionName":"Russia","name":"Rashid Magomedov","dateOfBirth":"1997-03-17T00:00:00.0000000Z","age":20,"position":"FW","height":184,"weight":73,"currentTeamId":1002,"currentTeamName":"Anzhi Makhachkala","currentTeamRegionCode":"ru"},"id":329102,"lastModified":"2017-07-21T04:00:41.3833063Z","maxAge":60,"autoRefresh":false}

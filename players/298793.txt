@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Sylvain Deslandes","dateOfBirth":"1997-04-24T23:00:00.0000000Z","age":20,"position":"D","height":178,"weight":74,"currentTeamId":187,"currentTeamName":"Bury","currentTeamRegionCode":"gb-eng"},"id":298793,"lastModified":"2017-07-21T03:45:46.9620169Z","maxAge":60,"autoRefresh":false}

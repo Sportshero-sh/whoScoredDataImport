@@ -1,0 +1,1 @@
+{"info":{"regionCode":"ru","regionName":"Russia","name":"Alisher Dzhalilov","dateOfBirth":"1993-08-28T23:00:00.0000000Z","age":23,"position":"M","height":168,"weight":57,"currentTeamId":4179,"currentTeamName":"Baltika","currentTeamRegionCode":"ru"},"id":97700,"lastModified":"2017-07-21T04:01:55.2189508Z","maxAge":60,"autoRefresh":false}

@@ -1,0 +1,1 @@
+{"info":{"regionCode":"ru","regionName":"Russia","name":"Igor Leontyev","dateOfBirth":"1994-03-18T00:00:00.0000000Z","age":23,"position":"M","height":185,"weight":68,"currentTeamId":840,"currentTeamName":"Spartak Moscow","currentTeamRegionCode":"ru"},"id":297201,"lastModified":"2017-07-21T03:56:56.9734503Z","maxAge":60,"autoRefresh":false}

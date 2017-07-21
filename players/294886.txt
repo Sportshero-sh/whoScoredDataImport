@@ -1,0 +1,1 @@
+{"info":{"regionCode":"ru","regionName":"Russia","name":"Dzhamal Dibirgadzhiev","dateOfBirth":"1996-08-01T23:00:00.0000000Z","age":20,"position":"FW","height":192,"weight":78,"currentTeamId":1002,"currentTeamName":"Anzhi Makhachkala","currentTeamRegionCode":"ru"},"id":294886,"lastModified":"2017-07-21T04:02:36.4175021Z","maxAge":60,"autoRefresh":false}

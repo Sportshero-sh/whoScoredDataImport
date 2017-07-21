@@ -1,0 +1,1 @@
+{"info":{"regionCode":"ru","regionName":"Russia","name":"Denis Adamov","dateOfBirth":"1998-02-20T00:00:00.0000000Z","age":19,"position":"GK","height":190,"weight":78,"currentTeamId":7164,"currentTeamName":"FC Krasnodar","currentTeamRegionCode":"ru"},"id":321380,"lastModified":"2017-07-21T03:55:33.6541815Z","maxAge":60,"autoRefresh":false}

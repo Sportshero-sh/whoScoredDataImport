@@ -1,0 +1,1 @@
+{"info":{"regionCode":"ru","regionName":"Russia","name":"Yuriy Shleev","dateOfBirth":"1995-06-25T23:00:00.0000000Z","age":22,"position":"GK","height":185,"currentTeamId":1002,"currentTeamName":"Anzhi Makhachkala","currentTeamRegionCode":"ru"},"id":334588,"lastModified":"2017-07-21T04:00:34.1746135Z","maxAge":60,"autoRefresh":false}

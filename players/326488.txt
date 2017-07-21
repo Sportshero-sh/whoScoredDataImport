@@ -1,0 +1,1 @@
+{"info":{"regionCode":"ru","regionName":"Russia","name":"Mihail Borodko","dateOfBirth":"1994-07-11T23:00:00.0000000Z","age":23,"position":"GK","currentTeamId":23722,"currentTeamName":"Olimpiec Nizhny","currentTeamRegionCode":"ru"},"id":326488,"lastModified":"2017-07-21T03:57:36.5679218Z","maxAge":60,"autoRefresh":false}

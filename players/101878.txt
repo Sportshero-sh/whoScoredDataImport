@@ -1,0 +1,1 @@
+{"info":{"age":0,"position":"","currentTeamId":0},"character":{"styles":[{"name":"Likes to punch the ball","isOffensive":false,"level":4}],"strengths":[],"weaknesses":[]},"id":101878,"lastModified":"2017-07-21T03:56:14.8530082Z","maxAge":60,"autoRefresh":false}

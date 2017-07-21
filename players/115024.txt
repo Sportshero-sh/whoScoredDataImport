@@ -1,0 +1,1 @@
+{"info":{"regionCode":"ru","regionName":"Russia","name":"Aleksey Evseev","dateOfBirth":"1994-03-29T23:00:00.0000000Z","age":23,"position":"M","height":183,"weight":73,"currentTeamId":11090,"currentTeamName":"Zenit St. Petersburg II","currentTeamRegionCode":"ru"},"id":115024,"lastModified":"2017-07-21T04:02:14.5459853Z","maxAge":60,"autoRefresh":false}

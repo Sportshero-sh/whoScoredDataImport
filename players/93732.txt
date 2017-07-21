@@ -1,0 +1,1 @@
+{"info":{"regionCode":"ch","regionName":"Switzerland","name":"Andreas Hirzel","dateOfBirth":"1993-03-25T00:00:00.0000000Z","age":24,"position":"GK","height":190,"weight":89,"currentTeamId":38,"currentTeamName":"Hamburger SV","currentTeamRegionCode":"de"},"id":93732,"lastModified":"2017-07-21T02:37:56.7670535Z","maxAge":60,"autoRefresh":false}

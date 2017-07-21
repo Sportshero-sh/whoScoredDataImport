@@ -1,0 +1,1 @@
+{"info":{"regionCode":"nl","regionName":"Netherlands","name":"Nick Wolters","dateOfBirth":"1993-08-04T23:00:00.0000000Z","age":23,"position":"GK","height":195,"weight":98,"currentTeamId":127,"currentTeamName":"Roda","currentTeamRegionCode":"nl"},"id":316917,"lastModified":"2017-07-21T04:15:15.8334653Z","maxAge":60,"autoRefresh":false}

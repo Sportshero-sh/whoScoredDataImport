@@ -1,0 +1,1 @@
+{"info":{"regionCode":"gb-eng","regionName":"England","name":"Mathew Hudson","dateOfBirth":"1998-07-28T23:00:00.0000000Z","age":18,"position":"GK","currentTeamId":181,"currentTeamName":"Preston","currentTeamRegionCode":"gb-eng"},"id":261775,"lastModified":"2017-07-21T03:39:00.4220739Z","maxAge":60,"autoRefresh":false}

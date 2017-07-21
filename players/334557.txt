@@ -1,0 +1,1 @@
+{"info":{"regionCode":"md","regionName":"Moldova","name":"Viktor Patrashko","dateOfBirth":"1998-09-25T23:00:00.0000000Z","age":18,"position":"D","height":185,"weight":75,"currentTeamId":9004,"currentTeamName":"FC Ufa","currentTeamRegionCode":"ru"},"id":334557,"lastModified":"2017-07-21T03:59:23.8659422Z","maxAge":60,"autoRefresh":false}

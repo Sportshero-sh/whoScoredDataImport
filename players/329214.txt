@@ -1,0 +1,1 @@
+{"info":{"regionCode":"de","regionName":"Germany","name":"Nils Rütten","dateOfBirth":"1995-07-19T23:00:00.0000000Z","age":22,"position":"M","height":182,"weight":75,"currentTeamId":134,"currentTeamName":"Borussia M.Gladbach","currentTeamRegionCode":"de"},"id":329214,"lastModified":"2017-07-21T02:41:02.7836191Z","maxAge":60,"autoRefresh":false}

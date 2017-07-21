@@ -1,0 +1,1 @@
+{"info":{"regionCode":"ua","regionName":"Ukraine","name":"Igor Berezovskyi","dateOfBirth":"1990-08-23T23:00:00.0000000Z","age":26,"position":"GK","height":193,"weight":83,"currentTeamId":1147,"currentTeamName":"Darmstadt","currentTeamRegionCode":"de"},"id":102418,"lastModified":"2017-07-21T02:37:32.7427433Z","maxAge":60,"autoRefresh":false}

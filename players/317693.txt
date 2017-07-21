@@ -1,0 +1,1 @@
+{"info":{"regionCode":"nl","regionName":"Netherlands","name":"Mike Hauptmeijer","dateOfBirth":"1997-03-18T00:00:00.0000000Z","age":20,"position":"GK","height":191,"weight":70,"currentTeamId":868,"currentTeamName":"PEC Zwolle","currentTeamRegionCode":"nl"},"id":317693,"lastModified":"2017-07-21T04:15:58.6269669Z","maxAge":60,"autoRefresh":false}

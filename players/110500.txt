@@ -1,0 +1,1 @@
+{"info":{"regionCode":"de","regionName":"Germany","name":"Felix Dornebusch","dateOfBirth":"1994-07-11T23:00:00.0000000Z","age":23,"position":"GK","height":193,"weight":89,"currentTeamId":109,"currentTeamName":"Bochum","currentTeamRegionCode":"de"},"id":110500,"lastModified":"2017-07-21T02:26:44.2159154Z","maxAge":60,"autoRefresh":false}
