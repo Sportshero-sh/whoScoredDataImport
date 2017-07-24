@@ -20,7 +20,7 @@ public class Main {
 //                    fetcher.fetchMatch(i);
 //                }
 
-                new WSMultiFetcher(1075829, 1000, 4);
+                new WSMultiFetcher(1071829, 3000, 8);
 
                 break;
 

@@ -66,7 +66,7 @@ public class WSFetcher implements Callable<Object>{
         return mMatchId;
     }
 
-    public void fetchMatch(int id, boolean forceFetch)throws ResponseException {
+    public void fetchMatch(int id, boolean forceFetch)throws ResponseException, IOException {
         System.out.println("Begin fetch match: " + WHO_SCORE_MATCH_URL + id);
         mMatchId = id;
 
@@ -115,7 +115,7 @@ public class WSFetcher implements Callable<Object>{
                     throw new ResponseException(response.code());
                 }
 
-            } catch (IOException e) {
+            } catch (IllegalStateException e) {
                 e.printStackTrace();
             } finally {
                 if (response != null) {
@@ -126,7 +126,7 @@ public class WSFetcher implements Callable<Object>{
         }
     }
 
-    public void fetchTeam(int id) throws ResponseException {
+    public void fetchTeam(int id) throws ResponseException, IOException {
         System.out.println("Begin fetch team: " + WHO_SCORE_TEAM_URL + id);
 
         if (!mConnection.isTeamExist(id)) {
@@ -153,7 +153,7 @@ public class WSFetcher implements Callable<Object>{
                     throw new ResponseException(response.code());
                 }
 
-            } catch (IOException | IllegalStateException e) {
+            } catch (IllegalStateException e) {
                 e.printStackTrace();
             } finally {
                 if (response != null) {
@@ -165,7 +165,7 @@ public class WSFetcher implements Callable<Object>{
 
     }
 
-    public void fetchPlayer(int id) throws ResponseException {
+    public void fetchPlayer(int id) throws ResponseException, IOException {
         System.out.println("Begin fetch player: " + WHO_SCORE_Player_URL + id);
 
         if (!mConnection.isPlayerExist(id))
@@ -193,7 +193,7 @@ public class WSFetcher implements Callable<Object>{
                     throw new ResponseException(response.code());
                 }
 
-            } catch (IOException | IllegalStateException e) {
+            } catch (IllegalStateException e) {
                 e.printStackTrace();
             } finally {
                 if (response != null) {

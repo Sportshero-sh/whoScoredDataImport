@@ -1,5 +1,7 @@
 import utils.ResponseException;
 
+import java.io.IOException;
+import java.net.SocketTimeoutException;
 import java.util.*;
 import java.util.concurrent.*;
 
@@ -42,7 +44,7 @@ public class WSMultiFetcher {
                 public CallResult call() throws Exception {
                     try {
                         fetcher.fetchMatch(id, false);
-                    } catch (ResponseException e) {
+                    } catch (ResponseException | IOException e) {
                         return new CallResult(false, fetcher.getMatchId());
                     }
                     return new CallResult();
