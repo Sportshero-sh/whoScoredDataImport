@@ -375,7 +375,7 @@ public class SQLServerPersistConnection {
         String sql = "select * from match_player_stats " +
                 "where isSub = 'false' and match_id in (" +
                 "select top 5 id_ws from match where (home_id =? or away_id =?) and startTimeUtc <?" +
-                ")";
+                ") and team_id =?";
 
         ArrayList<TeamSquad> teamSquads = new ArrayList<>();
 
@@ -384,6 +384,7 @@ public class SQLServerPersistConnection {
             ps.setInt(1, teamId);
             ps.setInt(2, teamId);
             ps.setDate(3, match.info.startTimeDate);
+            ps.setInt(4, teamId);
 
             ResultSet rs = ps.executeQuery();
 
@@ -434,8 +435,8 @@ public class SQLServerPersistConnection {
             e.printStackTrace();
         }
 
-        // Remove games with not enough data. (11 * 2 * 5 = 110)
-        if (teamSquads.size() == 110) {
+        // Remove games with not enough data. (11 * 5 = 55)
+        if (teamSquads.size() == 55) {
             return teamSquads.toArray(new TeamSquad[]{});
         } else {
             return new TeamSquad[0];

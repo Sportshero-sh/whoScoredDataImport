@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Kevin Rimane","dateOfBirth":"1991-02-23T00:00:00.0000000Z","age":26,"position":"D","height":181,"currentTeamId":304,"currentTeamName":"Paris Saint Germain","currentTeamRegionCode":"fr"},"id":302931,"lastModified":"2017-07-24T07:50:35.2618175Z","maxAge":60,"autoRefresh":false}

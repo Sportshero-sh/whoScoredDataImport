@@ -20,15 +20,15 @@ public class Main {
 //                    fetcher.fetchMatch(i);
 //                }
 
-                new WSMultiFetcher(1071829, 3000, 8);
+                new WSMultiFetcher(1068829, 3000, 8);
 
                 break;
 
             case "parser_ws_data":
                 // Parser WS data
                 WSDataParser parser = new WSDataParser();
-                startAt = 1096064;
-                for (int i = startAt; i > startAt - 5000  ; i --) {
+                startAt = 1068829;
+                for (int i = startAt; i > 1068829  ; i --) {
                     parser.parserMatch(i);
                 }
 
@@ -41,11 +41,11 @@ public class Main {
 
                 startAt = 1122333;
                 int totalNumber = 0;
-                for (int i = startAt; i > startAt - 1  ; i --) {
+                for (int i = startAt; i > 1068829  ; i --) {
                     String fileName = "Sample";
-                    if (totalNumber % 50 == 0) {
-                        fileName = "Test";
-                    }
+//                    if (totalNumber % 50 == 0) {
+//                        fileName = "Test";
+//                    }
 
                     if (creator.createPredictionData(i, fileName)) {
                         totalNumber ++;
