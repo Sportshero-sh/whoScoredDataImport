@@ -1,0 +1,1 @@
+{"info":{"regionName":"Undefined","name":"Makton","dateOfBirth":"1998-03-04T00:00:00.0000000Z","age":19,"position":"M","height":185,"weight":63,"currentTeamId":1228,"currentTeamName":"America MG","currentTeamRegionCode":"br"},"id":317803,"lastModified":"2017-07-31T03:16:18.5044750Z","maxAge":60,"autoRefresh":false}

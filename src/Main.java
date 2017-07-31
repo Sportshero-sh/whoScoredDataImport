@@ -20,7 +20,7 @@ public class Main {
 //                    fetcher.fetchMatch(i);
 //                }
 
-                new WSMultiFetcher(1068829, 3000, 8);
+                new WSMultiFetcher(1053829, 3000, 8);
 
                 break;
 
@@ -41,8 +41,8 @@ public class Main {
 
                 startAt = 1122333;
                 int totalNumber = 0;
-                for (int i = startAt; i > 1068829  ; i --) {
-                    String fileName = "Sample";
+                for (int i = startAt; i > 1122332  ; i --) {
+                    String fileName = "test";
 //                    if (totalNumber % 50 == 0) {
 //                        fileName = "Test";
 //                    }
@@ -53,6 +53,17 @@ public class Main {
                 }
 
                 System.out.println("Total Number is: " + totalNumber);
+                break;
+
+            case "separate_sample_test":
+                creator = new PredictionDataCreator();
+                creator.separateSampleTest("predictions/Full.txt","predictions/test.csv", "predictions/training.csv", 0.1f);
+                break;
+
+
+            default:
+                creator = new PredictionDataCreator();
+
                 break;
         }
     }

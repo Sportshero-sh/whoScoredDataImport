@@ -1,0 +1,1 @@
+{"info":{"regionCode":"br","regionName":"Brazil","name":"Leandro Domingues","dateOfBirth":"1983-08-23T23:00:00.0000000Z","age":33,"position":"M","height":172,"weight":68,"currentTeamId":4090,"currentTeamName":"Yokohama FC","currentTeamRegionCode":"jp"},"id":317757,"lastModified":"2017-07-31T03:38:24.7223698Z","maxAge":60,"autoRefresh":false}

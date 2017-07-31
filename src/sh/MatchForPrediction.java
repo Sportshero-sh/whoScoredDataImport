@@ -1,5 +1,7 @@
 package sh;
 
+import java.util.ArrayList;
+
 /**
  * Created by zhengyu on 11/07/2017.
  */
@@ -10,20 +12,20 @@ public class MatchForPrediction {
     public String awayName;
     public int homeScore;
     public int awayScore;
-    public TeamSquad[] homeSquad;
-    public TeamSquad[] awaySquad;
+    public ArrayList<MatchStats> homeMatchStats;
+    public ArrayList<MatchStats> awayMatchStats;
 
     public String toString() {
         StringBuffer sb = new StringBuffer();
 
         // Out put the home team
-        for (TeamSquad aHomeSquad : homeSquad) {
-            sb.append(aHomeSquad.toString());
+        for (MatchStats aHomeMatchStats : homeMatchStats) {
+            sb.append(aHomeMatchStats.toString());
         }
 
         // Out put the away team
-        for (TeamSquad aAwaySquad : awaySquad) {
-            sb.append(aAwaySquad.toString());
+        for (MatchStats aWayMatchStats : awayMatchStats) {
+            sb.append(aWayMatchStats.toString());
         }
 
         // Out put the result

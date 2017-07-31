@@ -1,0 +1,1 @@
+{"info":{"regionName":"Undefined","name":"Thiago Santos","dateOfBirth":"1995-12-04T00:00:00.0000000Z","age":21,"position":"M","height":178,"weight":70,"currentTeamId":1239,"currentTeamName":"Flamengo","currentTeamRegionCode":"br"},"id":299395,"lastModified":"2017-07-31T03:40:40.7850111Z","maxAge":60,"autoRefresh":false}

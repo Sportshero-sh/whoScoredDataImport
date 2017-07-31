@@ -1,0 +1,1 @@
+{"info":{"regionName":"Undefined","name":"Canela","dateOfBirth":"1994-11-18T00:00:00.0000000Z","age":22,"position":"FW","height":180,"weight":78,"currentTeamId":8865,"currentTeamName":"Chapecoense AF","currentTeamRegionCode":"br"},"id":318919,"lastModified":"2017-07-31T03:20:51.8507893Z","maxAge":60,"autoRefresh":false}

@@ -1,0 +1,1 @@
+{"info":{"regionCode":"br","regionName":"Brazil","name":"Danilo Pires","dateOfBirth":"1992-03-21T00:00:00.0000000Z","age":25,"position":"M","height":178,"weight":76,"currentTeamId":1242,"currentTeamName":"Santa Cruz","currentTeamRegionCode":"br"},"id":279382,"lastModified":"2017-07-31T03:41:47.7096368Z","maxAge":60,"autoRefresh":false}

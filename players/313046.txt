@@ -1,0 +1,1 @@
+{"info":{"regionCode":"cn","regionName":"China","name":"Ning An","dateOfBirth":"1995-10-07T23:00:00.0000000Z","age":21,"position":"M","currentTeamId":2538,"currentTeamName":"Guangzhou R&F F.C.","currentTeamRegionCode":"cn"},"id":313046,"lastModified":"2017-07-31T06:25:31.6430665Z","maxAge":60,"autoRefresh":false}

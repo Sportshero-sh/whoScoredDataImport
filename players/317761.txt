@@ -1,0 +1,1 @@
+{"info":{"regionCode":"br","regionName":"Brazil","name":"Alípio","dateOfBirth":"1992-06-06T23:00:00.0000000Z","age":25,"position":"M","height":174,"weight":68,"currentTeamId":1238,"currentTeamName":"Vitoria","currentTeamRegionCode":"br"},"id":317761,"lastModified":"2017-07-31T03:38:24.3615008Z","maxAge":60,"autoRefresh":false}

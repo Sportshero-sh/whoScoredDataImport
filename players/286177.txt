@@ -1,0 +1,1 @@
+{"info":{"regionCode":"br","regionName":"Brazil","name":"Evandro","dateOfBirth":"1997-01-14T00:00:00.0000000Z","age":20,"position":"FW","height":174,"weight":71,"currentTeamId":1236,"currentTeamName":"Coritiba","currentTeamRegionCode":"br"},"id":286177,"lastModified":"2017-07-31T03:12:23.9870153Z","maxAge":60,"autoRefresh":false}

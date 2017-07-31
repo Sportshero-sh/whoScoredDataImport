@@ -1,0 +1,1 @@
+{"info":{"regionCode":"br","regionName":"Brazil","name":"Jael","dateOfBirth":"1988-10-29T23:00:00.0000000Z","age":28,"position":"FW","height":186,"weight":88,"currentTeamId":2533,"currentTeamName":"Chongqing Lifan","currentTeamRegionCode":"cn"},"id":42475,"lastModified":"2017-07-31T07:18:00.2286521Z","maxAge":60,"autoRefresh":false}

@@ -1,0 +1,1 @@
+{"info":{"regionCode":"br","regionName":"Brazil","name":"Mosquito","dateOfBirth":"1996-01-06T00:00:00.0000000Z","age":21,"position":"FW","height":174,"weight":74,"currentTeamId":1243,"currentTeamName":"Atletico PR","currentTeamRegionCode":"br"},"id":142409,"lastModified":"2017-07-31T03:36:03.7260819Z","maxAge":60,"autoRefresh":false}

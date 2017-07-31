@@ -1,0 +1,1 @@
+{"info":{"regionCode":"br","regionName":"Brazil","name":"Bruno Paulo","dateOfBirth":"1990-02-14T00:00:00.0000000Z","age":27,"position":"M","height":182,"weight":75,"currentTeamId":1237,"currentTeamName":"Corinthians","currentTeamRegionCode":"br"},"id":323357,"lastModified":"2017-07-31T03:41:48.8796475Z","maxAge":60,"autoRefresh":false}

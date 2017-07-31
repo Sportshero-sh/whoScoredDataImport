@@ -1,0 +1,1 @@
+{"info":{"regionCode":"cn","regionName":"China","name":"Guo Yi","dateOfBirth":"1993-01-29T00:00:00.0000000Z","age":24,"position":"M","currentTeamId":2532,"currentTeamName":"Tianjin Teda","currentTeamRegionCode":"cn"},"id":143544,"lastModified":"2017-07-31T06:20:16.5974761Z","maxAge":60,"autoRefresh":false}

@@ -1,0 +1,1 @@
+{"info":{"regionCode":"bo","regionName":"Bolivia","name":"Damián Lizio","dateOfBirth":"1989-06-29T23:00:00.0000000Z","age":28,"position":"M","height":168,"weight":62,"currentTeamId":1486,"currentTeamName":"Oriente Petrolero","currentTeamRegionCode":"bo"},"id":125854,"lastModified":"2017-07-31T03:42:16.2267328Z","maxAge":60,"autoRefresh":false}

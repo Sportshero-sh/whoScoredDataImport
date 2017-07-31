@@ -1,0 +1,1 @@
+{"info":{"regionCode":"ch","regionName":"Switzerland","name":"Germano Vailati","dateOfBirth":"1980-08-29T23:00:00.0000000Z","age":36,"position":"GK","height":186,"weight":84,"currentTeamId":401,"currentTeamName":"FC Basel 1893","currentTeamRegionCode":"ch"},"id":24156,"lastModified":"2017-07-31T06:22:22.6828543Z","maxAge":60,"autoRefresh":false}

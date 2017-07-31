@@ -60,6 +60,62 @@ public class FilePersistConnection {
         writeToFile(jsonContent, "predictions/" + fileName + ".txt", true);
     }
 
+    public void separateToFiles(String dest, String target1, String target2, float target1Percentage) {
+        try {
+            FileReader fileReader = new FileReader(dest);
+            BufferedReader bufferedReader = new BufferedReader(fileReader);
+
+            String line = bufferedReader.readLine();
+            int target1Num = 0;
+            int target2Num = 0;
+            while (line != null) {
+
+                if (Math.random() < target1Percentage) {
+                    writeToFile(line, target1, true);
+                    writeToFile("\n", target1, true);
+                    target1Num ++;
+                } else {
+                    writeToFile(line, target2, true);
+                    writeToFile("\n", target2, true);
+                    target2Num ++;
+                }
+
+                line = bufferedReader.readLine();
+            }
+
+            System.out.println(target1 + " has " + target1Num);
+            System.out.println(target2 + " has " + target2Num);
+
+        } catch (FileNotFoundException e) {
+            e.printStackTrace();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+
+    public void test() {
+        try {
+            FileReader fileReader = new FileReader("predictions/full_rating.txt");
+            BufferedReader bufferedReader = new BufferedReader(fileReader);
+
+            String line = bufferedReader.readLine();
+            int right = 0;
+            int wrong = 0;
+            while (line != null) {
+
+
+            }
+
+            System.out.println();
+            System.out.println();
+
+        } catch (FileNotFoundException e) {
+            e.printStackTrace();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+
     private void persistToFile(String responseString, String name) {
         writeToFile(responseString, name, false);
     }

@@ -1,0 +1,1 @@
+{"info":{"regionName":"Undefined","name":"Luis Vinicius","dateOfBirth":"1995-01-26T00:00:00.0000000Z","age":22,"position":"D","height":187,"weight":82,"currentTeamId":1238,"currentTeamName":"Vitoria","currentTeamRegionCode":"br"},"id":146675,"lastModified":"2017-07-31T03:38:23.7842923Z","maxAge":60,"autoRefresh":false}

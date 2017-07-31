@@ -1,0 +1,1 @@
+{"info":{"regionCode":"cn","regionName":"China","name":"Mou Shantao","dateOfBirth":"1990-03-01T00:00:00.0000000Z","age":27,"position":"M","height":180,"weight":69,"currentTeamId":4152,"currentTeamName":"Henan Jianye","currentTeamRegionCode":"cn"},"id":320921,"lastModified":"2017-07-31T06:27:42.2521910Z","maxAge":60,"autoRefresh":false}

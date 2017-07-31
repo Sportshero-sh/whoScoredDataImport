@@ -1,0 +1,1 @@
+{"info":{"regionCode":"cn","regionName":"China","name":"Xu Xiaolong","dateOfBirth":"1989-04-26T23:00:00.0000000Z","age":28,"position":"D","height":179,"weight":71,"currentTeamId":15181,"currentTeamName":"Hebei CFFC","currentTeamRegionCode":"cn"},"id":313051,"lastModified":"2017-07-31T06:23:38.4481767Z","maxAge":60,"autoRefresh":false}

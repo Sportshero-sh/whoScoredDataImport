@@ -1,0 +1,1 @@
+{"info":{"regionCode":"br","regionName":"Brazil","name":"João Ricardo","dateOfBirth":"1988-09-05T23:00:00.0000000Z","age":28,"position":"GK","height":185,"weight":78,"currentTeamId":1228,"currentTeamName":"America MG","currentTeamRegionCode":"br"},"id":317791,"lastModified":"2017-07-31T03:11:59.3068606Z","maxAge":60,"autoRefresh":false}

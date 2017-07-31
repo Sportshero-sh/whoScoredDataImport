@@ -1,0 +1,1 @@
+{"info":{"regionCode":"br","regionName":"Brazil","name":"Rodrigo","dateOfBirth":"1988-02-05T00:00:00.0000000Z","age":29,"position":"M","height":179,"weight":70,"currentTeamId":8865,"currentTeamName":"Chapecoense AF","currentTeamRegionCode":"br"},"id":86854,"lastModified":"2017-07-31T03:31:26.9011479Z","maxAge":60,"autoRefresh":false}

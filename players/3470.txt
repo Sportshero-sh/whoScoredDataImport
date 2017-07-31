@@ -1,0 +1,1 @@
+{"info":{"regionCode":"cn","regionName":"China","name":"Zhao Junzhe","dateOfBirth":"1979-04-17T23:00:00.0000000Z","age":38,"position":"M","height":183,"weight":78,"currentTeamId":2535,"currentTeamName":"Liaoning Hongyun","currentTeamRegionCode":"cn"},"id":3470,"lastModified":"2017-07-31T06:25:54.0181923Z","maxAge":60,"autoRefresh":false}

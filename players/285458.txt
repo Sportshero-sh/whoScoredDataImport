@@ -1,0 +1,1 @@
+{"info":{"regionCode":"br","regionName":"Brazil","name":"Caíque","dateOfBirth":"1995-06-02T23:00:00.0000000Z","age":22,"position":"GK","height":185,"currentTeamId":1237,"currentTeamName":"Corinthians","currentTeamRegionCode":"br"},"id":285458,"lastModified":"2017-07-31T03:41:29.1945035Z","maxAge":60,"autoRefresh":false}

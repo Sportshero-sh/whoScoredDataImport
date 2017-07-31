@@ -1,0 +1,1 @@
+{"info":{"regionCode":"cn","regionName":"China","name":"Zhang Aokai","dateOfBirth":"2000-02-18T00:00:00.0000000Z","age":17,"position":"M","currentTeamId":4673,"currentTeamName":"Guangzhou Evergrande","currentTeamRegionCode":"cn"},"id":329667,"lastModified":"2017-07-31T06:28:33.6347423Z","maxAge":60,"autoRefresh":false}

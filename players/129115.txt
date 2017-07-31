@@ -1,0 +1,1 @@
+{"info":{"regionCode":"br","regionName":"Brazil","name":"Matheus Vidotto","dateOfBirth":"1994-04-09T23:00:00.0000000Z","age":23,"position":"GK","height":189,"weight":82,"currentTeamId":1237,"currentTeamName":"Corinthians","currentTeamRegionCode":"br"},"id":129115,"lastModified":"2017-07-31T03:36:13.6185172Z","maxAge":60,"autoRefresh":false}

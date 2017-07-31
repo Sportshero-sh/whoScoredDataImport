@@ -1,0 +1,1 @@
+{"info":{"regionCode":"br","regionName":"Brazil","name":"Guilherme Queiroz","dateOfBirth":"1990-05-22T23:00:00.0000000Z","age":27,"position":"FW","height":179,"weight":70,"currentTeamId":1766,"currentTeamName":"Figueirense","currentTeamRegionCode":"br"},"id":317807,"lastModified":"2017-07-31T03:21:09.1981669Z","maxAge":60,"autoRefresh":false}

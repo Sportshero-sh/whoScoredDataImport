@@ -46,16 +46,24 @@ public class PredictionDataCreator {
         matchForPrediction.awayScore = match.info.awayScore;
 
         Match matchFromDB = mDBConnection.getMatch(id);
-        matchForPrediction.homeSquad = mDBConnection.getPlayerStatsPreMatch(matchFromDB, matchFromDB.info.homeId);
-        matchForPrediction.awaySquad = mDBConnection.getPlayerStatsPreMatch(matchFromDB, matchFromDB.info.awayId);
+        matchForPrediction.homeMatchStats = mDBConnection.getMatchStatsPreMatch(matchFromDB, matchFromDB.info.homeId);
+        matchForPrediction.awayMatchStats = mDBConnection.getMatchStatsPreMatch(matchFromDB, matchFromDB.info.awayId);
 
-        if (matchForPrediction.homeSquad.length > 0 && matchForPrediction.awaySquad.length > 0) {
-
+        if (matchForPrediction.homeMatchStats.size() > 0 && matchForPrediction.awayMatchStats.size() > 0) {
             mFileConnection.persistPredictionMatch(fileName, matchForPrediction.toString());
 
             return true;
         } else {
             return false;
         }
+    }
+
+    public void separateSampleTest(String dest, String target1, String target2, float target1Percentage) {
+        mFileConnection.separateToFiles(dest, target1, target2, target1Percentage);
+    }
+
+
+    public void test() {
+
     }
 }

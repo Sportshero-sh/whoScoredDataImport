@@ -1,0 +1,1 @@
+{"info":{"regionCode":"cn","regionName":"China","name":"Wang Zihao","dateOfBirth":"1994-08-16T23:00:00.0000000Z","age":22,"position":"FW","height":174,"currentTeamId":11145,"currentTeamName":"Shijiazhuang Ever Bright","currentTeamRegionCode":"cn"},"id":271719,"lastModified":"2017-07-31T07:17:13.4733165Z","maxAge":60,"autoRefresh":false}

@@ -1,0 +1,1 @@
+{"info":{"regionName":"Undefined","name":"Diego Ferreira","dateOfBirth":"1996-02-26T00:00:00.0000000Z","age":21,"position":"D","height":175,"weight":68,"currentTeamId":1227,"currentTeamName":"Botafogo RJ","currentTeamRegionCode":"br"},"id":317739,"lastModified":"2017-07-31T03:41:04.8269696Z","maxAge":60,"autoRefresh":false}

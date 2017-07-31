@@ -1,0 +1,1 @@
+{"info":{"regionCode":"cn","regionName":"China","name":"Wang Xinxin","dateOfBirth":"1981-04-26T23:00:00.0000000Z","age":36,"position":"","height":180,"weight":72,"currentTeamId":2532,"currentTeamName":"Tianjin Teda","currentTeamRegionCode":"cn"},"id":320929,"lastModified":"2017-07-31T07:17:14.1284443Z","maxAge":60,"autoRefresh":false}

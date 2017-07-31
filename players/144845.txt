@@ -1,0 +1,1 @@
+{"info":{"regionCode":"cn","regionName":"China","name":"Dong Yu","dateOfBirth":"1994-07-14T23:00:00.0000000Z","age":23,"position":"M","height":178,"weight":62,"currentTeamId":4089,"currentTeamName":"Hangzhou Greentown","currentTeamRegionCode":"cn"},"id":144845,"lastModified":"2017-07-31T07:17:13.8476425Z","maxAge":60,"autoRefresh":false}

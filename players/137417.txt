@@ -1,0 +1,1 @@
+{"info":{"regionCode":"br","regionName":"Brazil","name":"Bruno Nazário","dateOfBirth":"1995-02-09T00:00:00.0000000Z","age":22,"position":"M","height":178,"weight":70,"currentTeamId":1230,"currentTeamName":"Cruzeiro","currentTeamRegionCode":"br"},"id":137417,"lastModified":"2017-07-31T03:17:01.1553618Z","maxAge":60,"autoRefresh":false}

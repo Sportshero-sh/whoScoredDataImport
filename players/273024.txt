@@ -1,0 +1,1 @@
+{"info":{"regionCode":"cn","regionName":"China","name":"Gu Wenxiang","dateOfBirth":"1991-02-08T00:00:00.0000000Z","age":26,"position":"M","currentTeamId":7125,"currentTeamName":"Jiangsu Suning FC","currentTeamRegionCode":"cn"},"id":273024,"lastModified":"2017-07-31T06:13:32.6828497Z","maxAge":60,"autoRefresh":false}

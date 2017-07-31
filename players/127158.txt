@@ -1,0 +1,1 @@
+{"info":{"regionCode":"cn","regionName":"China","name":"Du Wenyang","dateOfBirth":"1990-01-28T00:00:00.0000000Z","age":27,"position":"D","height":182,"weight":75,"currentTeamId":15181,"currentTeamName":"Hebei CFFC","currentTeamRegionCode":"cn"},"id":127158,"lastModified":"2017-07-31T06:27:19.6474885Z","maxAge":60,"autoRefresh":false}

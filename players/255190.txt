@@ -1,0 +1,1 @@
+{"info":{"regionCode":"br","regionName":"Brazil","name":"Bruno Santos","dateOfBirth":"1995-06-12T23:00:00.0000000Z","age":22,"position":"D","height":172,"weight":66,"currentTeamId":1766,"currentTeamName":"Figueirense","currentTeamRegionCode":"br"},"id":255190,"lastModified":"2017-07-31T03:41:04.8113609Z","maxAge":60,"autoRefresh":false}

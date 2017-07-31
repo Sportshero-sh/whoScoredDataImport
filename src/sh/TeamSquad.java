@@ -49,21 +49,23 @@ public class TeamSquad {
     public int hit_woodwork;
 
     public String toString() {
-        Field[] fields = TeamSquad.class.getFields();
-        StringBuffer sb = new StringBuffer();
-        try {
-            for (Field field: fields) {
-                if (field.getGenericType().getTypeName().equals("float")) {
-                    sb.append(field.getFloat(this)).append(",");
-                } else if (field.getGenericType().getTypeName().equals("int")) {
-                    sb.append(field.getInt(this)).append(",");
-                }
-            }
+//        Field[] fields = TeamSquad.class.getFields();
+//        StringBuffer sb = new StringBuffer();
+//        try {
+//            for (Field field: fields) {
+//                if (field.getGenericType().getTypeName().equals("float")) {
+//                    sb.append(field.getFloat(this)).append(",");
+//                } else if (field.getGenericType().getTypeName().equals("int")) {
+//                    sb.append(field.getInt(this)).append(",");
+//                }
+//            }
+//
+//        } catch (IllegalAccessException e) {
+//            e.printStackTrace();
+//        }
+//
+//        return sb.toString();
 
-        } catch (IllegalAccessException e) {
-            e.printStackTrace();
-        }
-
-        return sb.toString();
+        return rating + ",";
     }
 }

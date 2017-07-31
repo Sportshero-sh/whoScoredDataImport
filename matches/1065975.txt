@@ -1,0 +1,1 @@
+{"info":{"stageId":0,"homeId":0,"awayId":0,"status":0,"period":0,"periodResults":"","aggregateWinnerField":0,"startTimeUtc":"0001-01-01T00:00:00.0000000","isDetailed":false},"id":1065975,"lastModified":"2017-07-31T02:53:19.4959066Z","maxAge":60,"autoRefresh":true}

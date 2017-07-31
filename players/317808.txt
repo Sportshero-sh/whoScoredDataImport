@@ -1,0 +1,1 @@
+{"info":{"regionName":"Undefined","name":"Guilherme Morassi","dateOfBirth":"1995-01-08T00:00:00.0000000Z","age":22,"position":"D","height":179,"weight":70,"currentTeamId":1766,"currentTeamName":"Figueirense","currentTeamRegionCode":"br"},"id":317808,"lastModified":"2017-07-31T03:41:05.7942573Z","maxAge":60,"autoRefresh":false}

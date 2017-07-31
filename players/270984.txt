@@ -1,0 +1,1 @@
+{"info":{"regionCode":"cn","regionName":"China","name":"Sui Weijie","dateOfBirth":"1983-04-05T23:00:00.0000000Z","age":34,"position":"GK","currentTeamId":2533,"currentTeamName":"Chongqing Lifan","currentTeamRegionCode":"cn"},"id":270984,"lastModified":"2017-07-31T06:28:29.1306185Z","maxAge":60,"autoRefresh":false}

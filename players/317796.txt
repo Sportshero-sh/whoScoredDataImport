@@ -1,0 +1,1 @@
+{"info":{"regionCode":"br","regionName":"Brazil","name":"Bruno Sávio","dateOfBirth":"1994-07-31T23:00:00.0000000Z","age":23,"position":"FW","height":184,"weight":70,"currentTeamId":1228,"currentTeamName":"America MG","currentTeamRegionCode":"br"},"id":317796,"lastModified":"2017-07-31T03:16:16.1955836Z","maxAge":60,"autoRefresh":false}

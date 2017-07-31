@@ -1,0 +1,1 @@
+{"info":{"regionCode":"pt","regionName":"Portugal","name":"Joca","dateOfBirth":"1996-01-30T00:00:00.0000000Z","age":21,"position":"M","height":167,"weight":62,"currentTeamId":11667,"currentTeamName":"Braga B","currentTeamRegionCode":"pt"},"id":315474,"lastModified":"2017-07-31T03:13:07.6979788Z","maxAge":60,"autoRefresh":false}

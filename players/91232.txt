@@ -1,0 +1,1 @@
+{"info":{"regionCode":"br","regionName":"Brazil","name":"Eron","dateOfBirth":"1992-01-17T00:00:00.0000000Z","age":25,"position":"D","height":173,"weight":68,"currentTeamId":1235,"currentTeamName":"Atletico MG","currentTeamRegionCode":"br"},"id":91232,"lastModified":"2017-07-31T03:41:05.7452816Z","maxAge":60,"autoRefresh":false}

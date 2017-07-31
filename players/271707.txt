@@ -1,0 +1,1 @@
+{"info":{"regionCode":"cn","regionName":"China","name":"Hongchen Lu","dateOfBirth":"1989-05-15T23:00:00.0000000Z","age":28,"position":"D","height":188,"currentTeamId":11145,"currentTeamName":"Shijiazhuang Ever Bright","currentTeamRegionCode":"cn"},"id":271707,"lastModified":"2017-07-31T06:27:20.1311312Z","maxAge":60,"autoRefresh":false}

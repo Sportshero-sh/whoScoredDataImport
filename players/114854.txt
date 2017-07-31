@@ -1,0 +1,1 @@
+{"info":{"regionCode":"br","regionName":"Brazil","name":"Rodolfo","dateOfBirth":"1991-03-19T00:00:00.0000000Z","age":26,"position":"GK","height":189,"weight":86,"currentTeamId":1243,"currentTeamName":"Atletico PR","currentTeamRegionCode":"br"},"id":114854,"lastModified":"2017-07-31T03:36:06.7543593Z","maxAge":60,"autoRefresh":false}

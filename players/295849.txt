@@ -1,0 +1,1 @@
+{"info":{"regionCode":"br","regionName":"Brazil","name":"Rafael Dumas","dateOfBirth":"1995-03-13T00:00:00.0000000Z","age":22,"position":"D","height":184,"weight":82,"currentTeamId":1239,"currentTeamName":"Flamengo","currentTeamRegionCode":"br"},"id":295849,"lastModified":"2017-07-31T03:41:49.8179379Z","maxAge":60,"autoRefresh":false}

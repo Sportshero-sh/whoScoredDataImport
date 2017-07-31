@@ -1,0 +1,1 @@
+{"info":{"regionCode":"cn","regionName":"China","name":"Li Xun","dateOfBirth":"1992-01-02T00:00:00.0000000Z","age":25,"position":"M","currentTeamId":9084,"currentTeamName":"Yanbian","currentTeamRegionCode":"cn"},"id":320894,"lastModified":"2017-07-31T06:28:27.3209996Z","maxAge":60,"autoRefresh":false}

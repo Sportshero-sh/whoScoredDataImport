@@ -1,0 +1,1 @@
+{"info":{"regionName":"Undefined","name":"He Yang","dateOfBirth":"1990-03-22T00:00:00.0000000Z","age":27,"position":"FW","height":176,"weight":70,"currentTeamId":3618,"currentTeamName":"Changchun Yatai","currentTeamRegionCode":"cn"},"id":320935,"lastModified":"2017-07-31T07:18:03.6139220Z","maxAge":60,"autoRefresh":false}

@@ -1,0 +1,1 @@
+{"info":{"regionCode":"cn","regionName":"China","name":"Zheng Kaimu","dateOfBirth":"1992-01-28T00:00:00.0000000Z","age":25,"position":"D","height":185,"weight":80,"currentTeamId":2530,"currentTeamName":"Shanghai Shenhua","currentTeamRegionCode":"cn"},"id":320820,"lastModified":"2017-07-31T06:15:06.2525932Z","maxAge":60,"autoRefresh":false}

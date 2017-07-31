@@ -1,0 +1,1 @@
+{"info":{"regionCode":"cn","regionName":"China","name":"Wang Chang","dateOfBirth":"1993-01-23T00:00:00.0000000Z","age":24,"position":"D","height":183,"weight":84,"currentTeamId":4089,"currentTeamName":"Hangzhou Greentown","currentTeamRegionCode":"cn"},"id":320891,"lastModified":"2017-07-31T06:22:32.3347200Z","maxAge":60,"autoRefresh":false}

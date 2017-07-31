@@ -1,0 +1,1 @@
+{"info":{"regionCode":"cn","regionName":"China","name":"Zhuang Jiajie","dateOfBirth":"1993-09-04T23:00:00.0000000Z","age":23,"position":"FW","height":165,"weight":53,"currentTeamId":4089,"currentTeamName":"Hangzhou Greentown","currentTeamRegionCode":"cn"},"id":127111,"lastModified":"2017-07-31T06:27:41.0821160Z","maxAge":60,"autoRefresh":false}

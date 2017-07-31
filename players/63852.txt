@@ -1,0 +1,1 @@
+{"info":{"regionCode":"cn","regionName":"China","name":"Wang Yang","dateOfBirth":"1989-07-25T23:00:00.0000000Z","age":28,"position":"FW","height":190,"weight":78,"currentTeamId":15181,"currentTeamName":"Hebei CFFC","currentTeamRegionCode":"cn"},"id":63852,"lastModified":"2017-07-31T06:27:20.2559324Z","maxAge":60,"autoRefresh":false}

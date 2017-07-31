@@ -1,0 +1,1 @@
+{"info":{"regionCode":"br","regionName":"Brazil","name":"Tilica","dateOfBirth":"1995-04-19T23:00:00.0000000Z","age":22,"position":"M","height":170,"weight":62,"currentTeamId":1244,"currentTeamName":"Gremio","currentTeamRegionCode":"br"},"id":295548,"lastModified":"2017-07-31T03:43:43.7303711Z","maxAge":60,"autoRefresh":false}

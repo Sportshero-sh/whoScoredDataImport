@@ -1,0 +1,1 @@
+{"info":{"regionCode":"cn","regionName":"China","name":"Tong Lei","dateOfBirth":"1997-12-16T00:00:00.0000000Z","age":19,"position":"D","height":177,"weight":68,"currentTeamId":4089,"currentTeamName":"Hangzhou Greentown","currentTeamRegionCode":"cn"},"id":313073,"lastModified":"2017-07-31T06:22:31.9602192Z","maxAge":60,"autoRefresh":false}

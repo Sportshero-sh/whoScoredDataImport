@@ -1,5 +1,6 @@
 package utils;
 
+import sh.MatchStats;
 import sh.TeamSquad;
 import ws.*;
 
@@ -370,14 +371,48 @@ public class SQLServerPersistConnection {
         }
     }
 
-    public TeamSquad[] getPlayerStatsPreMatch(Match match, int teamId) {
-        Date matchStartDate = match.info.startTimeDate;
+    public ArrayList<MatchStats> getMatchStatsPreMatch(Match match, int teamId) {
+        String matchSql = "select top 5 * from match where (home_id =? or away_id =?) and startTimeUtc <?";
+        ArrayList<MatchStats> matchStats = new ArrayList<>();
+
+        try {
+            PreparedStatement ps = mConnection.prepareStatement(matchSql);
+
+            ps.setInt(1, teamId);
+            ps.setInt(2, teamId);
+            ps.setDate(3, match.info.startTimeDate);
+
+            ResultSet rs = ps.executeQuery();
+
+            while(rs.next()) {
+                MatchStats stats = new MatchStats();
+
+                stats.id = rs.getInt("id_ws");
+                if (rs.getInt("home_id") == teamId) {
+                    stats.goal = rs.getInt("home_score");
+                    stats.conceded = rs.getInt("away_score");
+                } else if (rs.getInt("away_id") == teamId) {
+                    stats.goal = rs.getInt("away_score");
+                    stats.conceded = rs.getInt("home_score");
+                }
+
+                matchStats.add(stats);
+            }
+
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
+
+        // Return if there is not enough matches.
+        if (matchStats.size() < 5) {
+            return new ArrayList<MatchStats>();
+        }
+
+
         String sql = "select * from match_player_stats " +
                 "where isSub = 'false' and match_id in (" +
                 "select top 5 id_ws from match where (home_id =? or away_id =?) and startTimeUtc <?" +
                 ") and team_id =?";
-
-        ArrayList<TeamSquad> teamSquads = new ArrayList<>();
 
         try {
             PreparedStatement ps = mConnection.prepareStatement(sql);
@@ -428,19 +463,21 @@ public class SQLServerPersistConnection {
                 squad.clearance_off_line = rs.getInt("clearance_off_line");
                 squad.hit_woodwork = rs.getInt("hit_woodwork");
 
-                teamSquads.add(squad);
+                int matchId = rs.getInt("match_id");
+
+                for (MatchStats stats: matchStats) {
+                    if (stats.id == matchId) {
+                        stats.squad.add(squad);
+                        break;
+                    }
+                }
             }
 
         } catch (SQLException e) {
             e.printStackTrace();
         }
 
-        // Remove games with not enough data. (11 * 5 = 55)
-        if (teamSquads.size() == 55) {
-            return teamSquads.toArray(new TeamSquad[]{});
-        } else {
-            return new TeamSquad[0];
-        }
+        return matchStats;
     }
 
     public void updatePlayerStats(int matchId, ArrayList<PlayerLiveStatistics> stats) {
