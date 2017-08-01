@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Romain Del Castillo","dateOfBirth":"1996-03-29T00:00:00.0000000Z","age":21,"position":"M","height":172,"weight":56,"currentTeamId":2028,"currentTeamName":"Bourg en Bresse Peronnas","currentTeamRegionCode":"fr"},"id":300291,"lastModified":"2017-08-01T02:45:17.6780532Z","maxAge":60,"autoRefresh":false}

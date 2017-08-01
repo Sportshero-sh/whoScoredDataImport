@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Adrián Ricchiuti","dateOfBirth":"1978-06-29T23:00:00.0000000Z","age":39,"position":"D(C),M(C),FW","height":168,"weight":66,"currentTeamId":6337,"currentTeamName":"La Fiorita Montegiardino","currentTeamRegionCode":"sm"},"id":13893,"lastModified":"2017-08-01T02:48:42.6331665Z","maxAge":60,"autoRefresh":false}

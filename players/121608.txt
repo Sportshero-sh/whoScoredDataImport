@@ -1,0 +1,1 @@
+{"info":{"regionCode":"gb-eng","regionName":"England","name":"Courtney Meppen-Walter","dateOfBirth":"1994-08-01T23:00:00.0000000Z","age":23,"position":"D","height":184,"weight":77,"currentTeamId":172,"currentTeamName":"Stockport","currentTeamRegionCode":"gb-eng"},"id":121608,"lastModified":"2017-08-01T02:29:18.0658034Z","maxAge":60,"autoRefresh":false}

@@ -1,0 +1,1 @@
+{"info":{"regionCode":"gh","regionName":"Ghana","name":"Kwame Nsor","dateOfBirth":"1992-07-31T23:00:00.0000000Z","age":25,"position":"FW","height":188,"weight":76,"currentTeamId":2189,"currentTeamName":"Uniao da Madeira","currentTeamRegionCode":"pt"},"id":113053,"lastModified":"2017-08-01T03:39:53.6662564Z","maxAge":60,"autoRefresh":false}

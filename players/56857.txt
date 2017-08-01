@@ -1,0 +1,1 @@
+{"info":{"regionCode":"cz","regionName":"Czech Republic","name":"Michael Rabusic","dateOfBirth":"1989-09-16T23:00:00.0000000Z","age":27,"position":"FW","height":184,"weight":80,"currentTeamId":2454,"currentTeamName":"Vysocina Jihlava","currentTeamRegionCode":"cz"},"id":56857,"lastModified":"2017-08-01T03:12:47.3335081Z","maxAge":60,"autoRefresh":false}

@@ -1,0 +1,1 @@
+{"info":{"regionCode":"ch","regionName":"Switzerland","name":"Milos Antic","dateOfBirth":"1994-10-27T23:00:00.0000000Z","age":22,"position":"M","height":185,"weight":79,"currentTeamId":1674,"currentTeamName":"Enosis Paralimni","currentTeamRegionCode":"cy"},"id":128581,"lastModified":"2017-08-01T04:06:48.5053621Z","maxAge":60,"autoRefresh":false}

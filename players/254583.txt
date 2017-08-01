@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Julien Romain","dateOfBirth":"1996-02-23T00:00:00.0000000Z","age":21,"position":"FW","height":184,"weight":74,"currentTeamId":940,"currentTeamName":"GFC Ajaccio","currentTeamRegionCode":"fr"},"id":254583,"lastModified":"2017-08-01T02:24:08.2915982Z","maxAge":60,"autoRefresh":false}

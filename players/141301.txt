@@ -1,0 +1,1 @@
+{"info":{"regionCode":"es","regionName":"Spain","name":"Hicham Khaloua","dateOfBirth":"1995-05-06T23:00:00.0000000Z","age":22,"position":"FW","height":172,"weight":68,"currentTeamId":1799,"currentTeamName":"Almeria","currentTeamRegionCode":"es"},"id":141301,"lastModified":"2017-08-01T04:08:46.4075667Z","maxAge":60,"autoRefresh":false}

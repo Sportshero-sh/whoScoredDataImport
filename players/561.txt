@@ -1,0 +1,1 @@
+{"info":{"regionCode":"gb-wls","regionName":"Wales","name":"Simon Davies","dateOfBirth":"1979-10-22T23:00:00.0000000Z","age":37,"position":"D(C),M(C),FW","height":178,"weight":72,"currentTeamId":170,"currentTeamName":"Fulham","currentTeamRegionCode":"gb-eng"},"id":561,"lastModified":"2017-08-01T03:23:46.0051130Z","maxAge":60,"autoRefresh":false}

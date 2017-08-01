@@ -1,0 +1,1 @@
+{"info":{"regionCode":"tn","regionName":"Tunisia","name":"Amine Chermiti","dateOfBirth":"1987-12-26T00:00:00.0000000Z","age":29,"position":"FW","height":176,"weight":68,"currentTeamId":940,"currentTeamName":"GFC Ajaccio","currentTeamRegionCode":"fr"},"id":33715,"lastModified":"2017-08-01T02:56:01.3102308Z","maxAge":60,"autoRefresh":false}

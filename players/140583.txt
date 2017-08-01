@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Lorenzo Ferrari","dateOfBirth":"1996-03-09T00:00:00.0000000Z","age":21,"position":"GK","height":193,"weight":77,"currentTeamId":76,"currentTeamName":"Verona","currentTeamRegionCode":"it"},"id":140583,"lastModified":"2017-08-01T02:44:37.1644165Z","maxAge":60,"autoRefresh":false}

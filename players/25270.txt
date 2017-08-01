@@ -1,0 +1,1 @@
+{"info":{"regionCode":"nl","regionName":"Netherlands","name":"Derk Boerrigter","dateOfBirth":"1986-10-15T23:00:00.0000000Z","age":30,"position":"AM(L)","height":183,"weight":70,"currentTeamId":103,"currentTeamName":"Celtic","currentTeamRegionCode":"gb-sct"},"id":25270,"lastModified":"2017-08-01T02:29:17.0985053Z","maxAge":60,"autoRefresh":false}

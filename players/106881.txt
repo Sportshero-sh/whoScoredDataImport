@@ -1,0 +1,1 @@
+{"info":{"regionCode":"es","regionName":"Spain","name":"Yeray","dateOfBirth":"1992-06-09T23:00:00.0000000Z","age":25,"position":"GK","height":192,"weight":85,"currentTeamId":1799,"currentTeamName":"Almeria","currentTeamRegionCode":"es"},"id":106881,"lastModified":"2017-08-01T02:34:21.3317751Z","maxAge":60,"autoRefresh":false}

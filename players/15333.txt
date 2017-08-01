@@ -1,0 +1,1 @@
+{"info":{"regionCode":"de","regionName":"Germany","name":"Matthias Henn","dateOfBirth":"1985-04-27T23:00:00.0000000Z","age":32,"position":"D","height":187,"weight":83,"currentTeamId":48,"currentTeamName":"Hansa Rostock","currentTeamRegionCode":"de"},"id":15333,"lastModified":"2017-08-01T03:31:05.8346946Z","maxAge":60,"autoRefresh":false}

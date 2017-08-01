@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Grégory Bettiol","dateOfBirth":"1986-03-30T00:00:00.0000000Z","age":31,"position":"FW","height":180,"weight":79,"currentTeamId":941,"currentTeamName":"Clermont Foot","currentTeamRegionCode":"fr"},"id":23249,"lastModified":"2017-08-01T03:51:12.1641323Z","maxAge":60,"autoRefresh":false}

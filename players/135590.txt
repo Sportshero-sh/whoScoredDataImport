@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Daniele Bartolini","dateOfBirth":"1995-03-05T00:00:00.0000000Z","age":22,"position":"M","height":170,"weight":60,"currentTeamId":777,"currentTeamName":"Pisa","currentTeamRegionCode":"it"},"id":135590,"lastModified":"2017-08-01T03:21:51.9990134Z","maxAge":60,"autoRefresh":false}

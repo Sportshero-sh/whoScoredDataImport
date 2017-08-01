@@ -1,0 +1,1 @@
+{"info":{"regionCode":"es","regionName":"Spain","name":"Marc Fernández","dateOfBirth":"1990-04-28T23:00:00.0000000Z","age":27,"position":"M","height":179,"weight":70,"currentTeamId":51,"currentTeamName":"Mallorca","currentTeamRegionCode":"es"},"id":105734,"lastModified":"2017-08-01T04:17:59.2662074Z","maxAge":60,"autoRefresh":false}

@@ -1,0 +1,1 @@
+{"info":{"regionCode":"hr","regionName":"Croatia","name":"Ivan Prtajin","dateOfBirth":"1996-05-13T23:00:00.0000000Z","age":21,"position":"FW","currentTeamId":603,"currentTeamName":"Hajduk Split","currentTeamRegionCode":"hr"},"id":281408,"lastModified":"2017-08-01T03:13:33.1979868Z","maxAge":60,"autoRefresh":false}

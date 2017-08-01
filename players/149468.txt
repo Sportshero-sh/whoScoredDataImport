@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Amine Oudrhiri","dateOfBirth":"1992-11-04T00:00:00.0000000Z","age":24,"position":"M","height":184,"weight":75,"currentTeamId":312,"currentTeamName":"Sedan","currentTeamRegionCode":"fr"},"id":149468,"lastModified":"2017-08-01T04:09:26.6911623Z","maxAge":60,"autoRefresh":false}

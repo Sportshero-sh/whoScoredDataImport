@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Cédric Fauré","dateOfBirth":"1979-02-14T00:00:00.0000000Z","age":38,"position":"FW","height":187,"weight":83,"currentTeamId":2647,"currentTeamName":"Union St.-Gilloise","currentTeamRegionCode":"be"},"id":6483,"lastModified":"2017-08-01T02:49:26.7972983Z","maxAge":60,"autoRefresh":false}

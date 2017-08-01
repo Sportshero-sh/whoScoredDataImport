@@ -1,0 +1,1 @@
+{"info":{"regionCode":"ma","regionName":"Morocco","name":"Karim Aït Fana","dateOfBirth":"1989-02-25T00:00:00.0000000Z","age":28,"position":"AM(CL)","height":175,"weight":68,"currentTeamId":245,"currentTeamName":"Nimes","currentTeamRegionCode":"fr"},"id":23519,"lastModified":"2017-08-01T02:30:00.1861571Z","maxAge":60,"autoRefresh":false}

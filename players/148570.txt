@@ -1,0 +1,1 @@
+{"info":{"regionCode":"es","regionName":"Spain","name":"Mode","dateOfBirth":"1994-06-13T23:00:00.0000000Z","age":23,"position":"D","currentTeamId":67,"currentTeamName":"Sevilla","currentTeamRegionCode":"es"},"id":148570,"lastModified":"2017-08-01T03:09:01.1162911Z","maxAge":60,"autoRefresh":false}

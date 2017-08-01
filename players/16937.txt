@@ -1,0 +1,1 @@
+{"info":{"regionCode":"ar","regionName":"Argentina","name":"Marcos Tavares","dateOfBirth":"1984-03-29T23:00:00.0000000Z","age":33,"position":"AM(C),FW","height":177,"weight":82,"currentTeamId":3599,"currentTeamName":"Antofagasta","currentTeamRegionCode":"cl"},"id":16937,"lastModified":"2017-08-01T04:12:14.0769795Z","maxAge":60,"autoRefresh":false}

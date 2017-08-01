@@ -1,0 +1,1 @@
+{"info":{"regionCode":"hr","regionName":"Croatia","name":"Ivan Klasnic","dateOfBirth":"1980-01-29T00:00:00.0000000Z","age":37,"position":"AM(L),FW","height":186,"weight":82,"currentTeamId":219,"currentTeamName":"Mainz 05","currentTeamRegionCode":"de"},"id":2402,"lastModified":"2017-08-01T02:38:58.0008621Z","maxAge":60,"autoRefresh":false}

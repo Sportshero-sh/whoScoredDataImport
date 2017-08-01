@@ -1,0 +1,1 @@
+{"info":{"regionCode":"de","regionName":"Germany","name":"Lucas Cueto","dateOfBirth":"1996-03-24T00:00:00.0000000Z","age":21,"position":"FW","height":171,"weight":64,"currentTeamId":362,"currentTeamName":"FC St. Gallen","currentTeamRegionCode":"ch"},"id":276893,"lastModified":"2017-08-01T03:25:16.0337379Z","maxAge":60,"autoRefresh":false}

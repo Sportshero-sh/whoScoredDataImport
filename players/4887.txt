@@ -1,0 +1,1 @@
+{"info":{"regionCode":"de","regionName":"Germany","name":"Christian Weber","dateOfBirth":"1983-09-14T23:00:00.0000000Z","age":33,"position":"D","height":176,"weight":76,"currentTeamId":1150,"currentTeamName":"Fortuna Duesseldorf","currentTeamRegionCode":"de"},"id":4887,"lastModified":"2017-08-01T03:30:27.2261531Z","maxAge":60,"autoRefresh":false}

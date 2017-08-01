@@ -1,0 +1,1 @@
+{"info":{"regionCode":"tn","regionName":"Tunisia","name":"Fakhreddine Ben Youssef","dateOfBirth":"1991-06-20T23:00:00.0000000Z","age":26,"position":"FW","currentTeamId":4861,"currentTeamName":"Esperance","currentTeamRegionCode":"tn"},"id":123625,"lastModified":"2017-08-01T03:55:05.1558214Z","maxAge":60,"autoRefresh":false}

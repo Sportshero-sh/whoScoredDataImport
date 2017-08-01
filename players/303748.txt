@@ -1,0 +1,1 @@
+{"info":{"regionCode":"de","regionName":"Germany","name":"Thomas Blomeyer","dateOfBirth":"1996-04-23T23:00:00.0000000Z","age":21,"position":"D","height":191,"weight":85,"currentTeamId":35,"currentTeamName":"Duisburg","currentTeamRegionCode":"de"},"id":303748,"lastModified":"2017-08-01T03:19:58.9289239Z","maxAge":60,"autoRefresh":false}

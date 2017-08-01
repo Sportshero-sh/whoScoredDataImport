@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Julien Quercia","dateOfBirth":"1986-08-16T23:00:00.0000000Z","age":30,"position":"AM(L)","height":168,"weight":65,"currentTeamId":146,"currentTeamName":"Lorient","currentTeamRegionCode":"fr"},"id":21718,"lastModified":"2017-08-01T03:20:21.2215766Z","maxAge":60,"autoRefresh":false}

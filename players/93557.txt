@@ -1,0 +1,1 @@
+{"info":{"regionCode":"gb-wls","regionName":"Wales","name":"Daniel Alfei","dateOfBirth":"1992-02-23T00:00:00.0000000Z","age":25,"position":"D","height":180,"weight":77,"currentTeamId":99,"currentTeamName":"Mansfield","currentTeamRegionCode":"gb-eng"},"id":93557,"lastModified":"2017-08-01T03:12:00.9542970Z","maxAge":60,"autoRefresh":false}

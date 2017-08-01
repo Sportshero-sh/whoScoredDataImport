@@ -1,0 +1,1 @@
+{"info":{"regionCode":"br","regionName":"Brazil","name":"Jonatan Lucca","dateOfBirth":"1994-06-01T23:00:00.0000000Z","age":23,"position":"M","height":185,"weight":76,"currentTeamId":84,"currentTeamName":"Roma","currentTeamRegionCode":"it"},"id":119836,"lastModified":"2017-08-01T03:11:38.1632131Z","maxAge":60,"autoRefresh":false}

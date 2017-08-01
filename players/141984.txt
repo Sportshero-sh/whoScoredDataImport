@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Clement Badin","dateOfBirth":"1993-05-25T23:00:00.0000000Z","age":24,"position":"M","height":168,"weight":71,"currentTeamId":315,"currentTeamName":"Bordeaux","currentTeamRegionCode":"fr"},"id":141984,"lastModified":"2017-08-01T02:40:47.7490342Z","maxAge":60,"autoRefresh":false}

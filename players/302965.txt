@@ -1,0 +1,1 @@
+{"info":{"regionCode":"gb-eng","regionName":"England","name":"Niall Mason","dateOfBirth":"1997-01-10T00:00:00.0000000Z","age":20,"position":"D","currentTeamId":910,"currentTeamName":"Doncaster","currentTeamRegionCode":"gb-eng"},"id":302965,"lastModified":"2017-08-01T02:55:37.0207420Z","maxAge":60,"autoRefresh":false}

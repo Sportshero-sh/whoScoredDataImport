@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Idriss Saadi","dateOfBirth":"1992-02-08T00:00:00.0000000Z","age":25,"position":"FW","height":180,"weight":85,"currentTeamId":886,"currentTeamName":"Kortrijk","currentTeamRegionCode":"be"},"id":82781,"lastModified":"2017-08-01T03:21:06.9755519Z","maxAge":60,"autoRefresh":false}

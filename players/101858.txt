@@ -1,0 +1,1 @@
+{"info":{"regionCode":"dk","regionName":"Denmark","name":"Patrick Olsen","dateOfBirth":"1994-04-22T23:00:00.0000000Z","age":23,"position":"M","height":178,"weight":72,"currentTeamId":402,"currentTeamName":"Grasshopper Club","currentTeamRegionCode":"ch"},"id":101858,"lastModified":"2017-08-01T03:28:48.9900387Z","maxAge":60,"autoRefresh":false}

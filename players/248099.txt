@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Steve Shamal","dateOfBirth":"1996-02-22T00:00:00.0000000Z","age":21,"position":"M","height":182,"weight":76,"currentTeamId":315,"currentTeamName":"Bordeaux","currentTeamRegionCode":"fr"},"id":248099,"lastModified":"2017-08-01T03:53:57.8566084Z","maxAge":60,"autoRefresh":false}

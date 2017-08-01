@@ -1,0 +1,1 @@
+{"info":{"regionName":"Undefined","name":"Zubi","dateOfBirth":"1993-01-25T00:00:00.0000000Z","age":24,"position":"FW","height":181,"weight":74,"currentTeamId":58,"currentTeamName":"Valladolid","currentTeamRegionCode":"es"},"id":137511,"lastModified":"2017-08-01T03:15:47.7806233Z","maxAge":60,"autoRefresh":false}

@@ -1,0 +1,1 @@
+{"info":{"regionName":"Undefined","name":"José Pozo","dateOfBirth":"1996-03-15T00:00:00.0000000Z","age":21,"position":"FW","height":170,"weight":65,"currentTeamId":167,"currentTeamName":"Manchester City","currentTeamRegionCode":"gb-eng"},"id":244564,"lastModified":"2017-08-01T02:33:13.7518148Z","maxAge":60,"autoRefresh":false}

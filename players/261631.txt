@@ -1,0 +1,1 @@
+{"info":{"regionCode":"es","regionName":"Spain","name":"David Gómez","dateOfBirth":"1994-04-10T23:00:00.0000000Z","age":23,"position":"GK","height":184,"weight":77,"currentTeamId":833,"currentTeamName":"Elche","currentTeamRegionCode":"es"},"id":261631,"lastModified":"2017-08-01T03:06:18.1567638Z","maxAge":60,"autoRefresh":false}

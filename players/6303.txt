@@ -1,0 +1,1 @@
+{"info":{"regionCode":"tr","regionName":"Turkey","name":"Mahir Saglik","dateOfBirth":"1983-01-18T00:00:00.0000000Z","age":34,"position":"AM(C),FW","height":178,"weight":82,"currentTeamId":723,"currentTeamName":"Vasas Budapest","currentTeamRegionCode":"hu"},"id":6303,"lastModified":"2017-08-01T02:43:47.2444966Z","maxAge":60,"autoRefresh":false}

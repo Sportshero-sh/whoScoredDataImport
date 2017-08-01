@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Jonathan Mexique","dateOfBirth":"1995-03-10T00:00:00.0000000Z","age":22,"position":"M","height":175,"weight":74,"currentTeamId":216,"currentTeamName":"Red Star","currentTeamRegionCode":"fr"},"id":298421,"lastModified":"2017-08-01T03:06:00.0132307Z","maxAge":60,"autoRefresh":false}

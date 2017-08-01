@@ -1,0 +1,1 @@
+{"info":{"regionCode":"gb-eng","regionName":"England","name":"Corey Jordan","dateOfBirth":"1999-03-04T00:00:00.0000000Z","age":18,"position":"D","height":185,"weight":80,"currentTeamId":183,"currentTeamName":"Bournemouth","currentTeamRegionCode":"gb-eng"},"id":317879,"lastModified":"2017-08-01T03:29:35.3692856Z","maxAge":60,"autoRefresh":false}

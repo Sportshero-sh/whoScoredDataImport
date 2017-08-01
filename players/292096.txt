@@ -1,0 +1,1 @@
+{"info":{"regionCode":"de","regionName":"Germany","name":"Joel Gerezgiher","dateOfBirth":"1995-10-08T23:00:00.0000000Z","age":21,"position":"M","height":176,"weight":71,"currentTeamId":1206,"currentTeamName":"Holstein Kiel","currentTeamRegionCode":"de"},"id":292096,"lastModified":"2017-08-01T02:36:35.9467115Z","maxAge":60,"autoRefresh":false}

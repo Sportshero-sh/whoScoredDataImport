@@ -1,0 +1,1 @@
+{"info":{"regionCode":"cl","regionName":"Chile","name":"Hans Martínez","dateOfBirth":"1987-01-04T00:00:00.0000000Z","age":30,"position":"D","height":180,"weight":73,"currentTeamId":2355,"currentTeamName":"Audax Italiano","currentTeamRegionCode":"cl"},"id":141543,"lastModified":"2017-08-01T03:12:24.5582007Z","maxAge":60,"autoRefresh":false}

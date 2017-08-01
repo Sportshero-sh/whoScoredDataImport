@@ -1,0 +1,1 @@
+{"info":{"regionCode":"by","regionName":"Belarus","name":"Filipp Rudik","dateOfBirth":"1987-03-22T00:00:00.0000000Z","age":30,"position":"M","height":184,"weight":80,"currentTeamId":2081,"currentTeamName":"Gornik Leczna","currentTeamRegionCode":"pl"},"id":29864,"lastModified":"2017-08-01T04:02:41.6757355Z","maxAge":60,"autoRefresh":false}

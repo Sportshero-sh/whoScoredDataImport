@@ -1,0 +1,1 @@
+{"info":{"regionCode":"es","regionName":"Spain","name":"Rafael Gálvez","dateOfBirth":"1993-05-19T23:00:00.0000000Z","age":24,"position":"M","height":190,"weight":78,"currentTeamId":820,"currentTeamName":"Cordoba","currentTeamRegionCode":"es"},"id":136282,"lastModified":"2017-08-01T04:08:24.0213294Z","maxAge":60,"autoRefresh":false}

@@ -1,0 +1,1 @@
+{"info":{"regionCode":"ua","regionName":"Ukraine","name":"Andriy Yakovlev","dateOfBirth":"1989-02-20T00:00:00.0000000Z","age":28,"position":"M","height":180,"currentTeamId":569,"currentTeamName":"BATE Borisov","currentTeamRegionCode":"by"},"id":243461,"lastModified":"2017-08-01T04:00:02.9319370Z","maxAge":60,"autoRefresh":false}

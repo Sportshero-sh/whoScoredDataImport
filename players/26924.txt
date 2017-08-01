@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Massimiliano Carlini","dateOfBirth":"1986-08-19T23:00:00.0000000Z","age":30,"position":"M","height":175,"weight":67,"currentTeamId":2732,"currentTeamName":"Frosinone","currentTeamRegionCode":"it"},"id":26924,"lastModified":"2017-08-01T02:57:16.4405321Z","maxAge":60,"autoRefresh":false}

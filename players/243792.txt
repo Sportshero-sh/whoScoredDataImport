@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Maxime Spano","dateOfBirth":"1994-10-31T00:00:00.0000000Z","age":22,"position":"D","height":184,"weight":79,"currentTeamId":976,"currentTeamName":"Grenoble","currentTeamRegionCode":"fr"},"id":243792,"lastModified":"2017-08-01T03:27:18.9146531Z","maxAge":60,"autoRefresh":false}

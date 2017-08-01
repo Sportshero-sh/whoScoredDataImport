@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Nordine Ait Yahya","dateOfBirth":"1992-07-09T23:00:00.0000000Z","age":25,"position":"D","height":173,"weight":67,"currentTeamId":610,"currentTeamName":"AC Ajaccio","currentTeamRegionCode":"fr"},"id":141957,"lastModified":"2017-08-01T03:28:26.7129646Z","maxAge":60,"autoRefresh":false}

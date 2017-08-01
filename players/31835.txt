@@ -1,0 +1,1 @@
+{"info":{"regionCode":"gb-eng","regionName":"England","name":"Alex Smith","dateOfBirth":"1991-10-31T00:00:00.0000000Z","age":25,"position":"D","height":175,"weight":54,"currentTeamId":3543,"currentTeamName":"Eastbourne Borough","currentTeamRegionCode":"gb-eng"},"id":31835,"lastModified":"2017-08-01T03:53:28.0259680Z","maxAge":60,"autoRefresh":false}

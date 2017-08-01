@@ -1,0 +1,1 @@
+{"info":{"regionCode":"hr","regionName":"Croatia","name":"Mario Ticinovic","dateOfBirth":"1991-08-19T23:00:00.0000000Z","age":25,"position":"D","height":170,"weight":63,"currentTeamId":234,"currentTeamName":"Lokeren","currentTeamRegionCode":"be"},"id":42070,"lastModified":"2017-08-01T04:02:41.8005960Z","maxAge":60,"autoRefresh":false}

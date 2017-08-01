@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Salim Arrache","dateOfBirth":"1982-07-13T23:00:00.0000000Z","age":35,"position":"M","height":187,"weight":78,"currentTeamId":9657,"currentTeamName":"AEL Kalloni FC","currentTeamRegionCode":"gr"},"id":8969,"lastModified":"2017-08-01T02:49:28.4664496Z","maxAge":60,"autoRefresh":false}

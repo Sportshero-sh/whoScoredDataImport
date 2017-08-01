@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Stephane Sparagna","dateOfBirth":"1995-02-17T00:00:00.0000000Z","age":22,"position":"D(C)","height":186,"weight":83,"currentTeamId":308,"currentTeamName":"Auxerre","currentTeamRegionCode":"fr"},"id":231151,"lastModified":"2017-08-01T02:24:12.9733119Z","maxAge":60,"autoRefresh":false}

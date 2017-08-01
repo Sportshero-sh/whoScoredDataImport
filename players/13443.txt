@@ -1,0 +1,1 @@
+{"info":{"regionCode":"us","regionName":"USA","name":"David Yelldell","dateOfBirth":"1981-09-30T23:00:00.0000000Z","age":35,"position":"GK","height":194,"weight":92,"currentTeamId":4828,"currentTeamName":"Sonnenhof Großaspach","currentTeamRegionCode":"de"},"id":13443,"lastModified":"2017-08-01T02:41:31.2110909Z","maxAge":60,"autoRefresh":false}

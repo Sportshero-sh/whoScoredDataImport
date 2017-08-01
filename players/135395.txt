@@ -1,0 +1,1 @@
+{"info":{"regionCode":"gb-eng","regionName":"England","name":"Charlie Ianson","dateOfBirth":"1993-06-30T23:00:00.0000000Z","age":24,"position":"D","height":181,"weight":71,"currentTeamId":6162,"currentTeamName":"Alcorcon","currentTeamRegionCode":"es"},"id":135395,"lastModified":"2017-08-01T04:06:31.4506299Z","maxAge":60,"autoRefresh":false}

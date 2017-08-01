@@ -1,0 +1,1 @@
+{"info":{"regionCode":"km","regionName":"Comoros","name":"Fouad Rachid","dateOfBirth":"1991-11-15T00:00:00.0000000Z","age":25,"position":"M","height":163,"weight":57,"currentTeamId":9861,"currentTeamName":"Luneville","currentTeamRegionCode":"fr"},"id":92585,"lastModified":"2017-08-01T03:36:51.7994665Z","maxAge":60,"autoRefresh":false}

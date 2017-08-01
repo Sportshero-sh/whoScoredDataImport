@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Romain Rocchi","dateOfBirth":"1981-10-01T23:00:00.0000000Z","age":35,"position":"DM(C),M(R)","height":183,"weight":75,"currentTeamId":314,"currentTeamName":"Metz","currentTeamRegionCode":"fr"},"id":13268,"lastModified":"2017-08-01T02:32:30.7733029Z","maxAge":60,"autoRefresh":false}

@@ -1,0 +1,1 @@
+{"info":{"regionCode":"kz","regionName":"Kazakhstan","name":"Konstantin Engel","dateOfBirth":"1988-07-26T23:00:00.0000000Z","age":29,"position":"D","height":179,"weight":79,"currentTeamId":757,"currentTeamName":"Osnabrueck","currentTeamRegionCode":"de"},"id":43394,"lastModified":"2017-08-01T02:24:29.6013587Z","maxAge":60,"autoRefresh":false}

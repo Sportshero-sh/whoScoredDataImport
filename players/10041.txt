@@ -1,0 +1,1 @@
+{"info":{"regionCode":"es","regionName":"Spain","name":"Valdo","dateOfBirth":"1981-04-22T23:00:00.0000000Z","age":36,"position":"M(CR),FW","height":184,"weight":78,"currentTeamId":56,"currentTeamName":"Racing Santander","currentTeamRegionCode":"es"},"id":10041,"lastModified":"2017-08-01T03:32:42.7916317Z","maxAge":60,"autoRefresh":false}

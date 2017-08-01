@@ -1,0 +1,1 @@
+{"info":{"regionCode":"ch","regionName":"Switzerland","name":"Vincent Sierro","dateOfBirth":"1995-10-07T23:00:00.0000000Z","age":21,"position":"M","height":185,"weight":75,"currentTeamId":50,"currentTeamName":"Freiburg","currentTeamRegionCode":"de"},"id":298737,"lastModified":"2017-07-31T10:17:28.9436468Z","maxAge":60,"autoRefresh":false}

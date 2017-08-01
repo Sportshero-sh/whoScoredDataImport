@@ -1,0 +1,1 @@
+{"info":{"regionCode":"de","regionName":"Germany","name":"Vladimir Rankovic","dateOfBirth":"1993-06-26T23:00:00.0000000Z","age":24,"position":"D","height":172,"weight":65,"currentTeamId":813,"currentTeamName":"Erzgebirge Aue","currentTeamRegionCode":"de"},"id":129792,"lastModified":"2017-08-01T03:30:27.1637516Z","maxAge":60,"autoRefresh":false}

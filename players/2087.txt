@@ -1,0 +1,1 @@
+{"info":{"regionCode":"al","regionName":"Albania","name":"Erjon Bogdani","dateOfBirth":"1977-04-13T23:00:00.0000000Z","age":40,"position":"AM(CR),FW","height":191,"weight":82,"currentTeamId":773,"currentTeamName":"Robur Siena","currentTeamRegionCode":"it"},"id":2087,"lastModified":"2017-08-01T02:49:11.8683073Z","maxAge":60,"autoRefresh":false}

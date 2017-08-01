@@ -1,0 +1,1 @@
+{"info":{"regionCode":"de","regionName":"Germany","name":"Marian Sarr","dateOfBirth":"1995-01-30T00:00:00.0000000Z","age":22,"position":"D","height":188,"weight":83,"currentTeamId":1156,"currentTeamName":"Borussia Dortmund II","currentTeamRegionCode":"de"},"id":123996,"lastModified":"2017-08-01T03:09:22.6905566Z","maxAge":60,"autoRefresh":false}

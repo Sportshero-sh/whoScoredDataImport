@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Flavio Roma","dateOfBirth":"1974-06-20T23:00:00.0000000Z","age":43,"position":"GK","height":191,"weight":86,"currentTeamId":248,"currentTeamName":"Monaco","currentTeamRegionCode":"fr"},"id":2645,"lastModified":"2017-08-01T02:49:28.2637273Z","maxAge":60,"autoRefresh":false}

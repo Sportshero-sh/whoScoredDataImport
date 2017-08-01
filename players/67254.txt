@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Fabio Sciacca","dateOfBirth":"1989-05-15T23:00:00.0000000Z","age":28,"position":"M(C)","height":180,"weight":76,"currentTeamId":273,"currentTeamName":"Vicenza","currentTeamRegionCode":"it"},"id":67254,"lastModified":"2017-08-01T03:11:38.2100128Z","maxAge":60,"autoRefresh":false}

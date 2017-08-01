@@ -1,10 +1,15 @@
+import utils.ResponseException;
+
+import java.io.IOException;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
 public class Main {
 
 
-    public static void main(String[] args) {
+    public static final String mCookie = "visid_incap_774904=VDkgIMWQRqa4Q8AS9fikVRJMQ1kAAAAAQUIPAAAAAABtSK/2y61D5asPaeP62CiP; __gads=ID=5e6785c7f8bc0179:T=1497582617:S=ALNI_MZ-m08pqUBHBtNOzmc7UV7S7ap8KA; incap_ses_500_774908=5WX5MCzAuB5d3/71xFvwBub2dlkAAAAAk9ekOjrvmq8avRiXnO79kA==; visid_incap_774908=oI41Z2UeTTCE+vZuYQuIug7CXFkAAAAAQ0IPAAAAAACAFWN9AdINauLjwlPSilu8fPHgHy/n7vmT; incap_ses_431_774904=utlITDVzD2jXGeV8tzj7BfX7flkAAAAAxMZu7OVH/VlAWUheEMbuPQ==; _ga=GA1.2.1282970298.1497582615; _gid=GA1.2.1047059441.1501494266; permutive-session=%7B%22session_id%22%3A%22faa3c597-235e-4b13-9714-b1ef0e65070d%22%2C%22last_updated%22%3A%222017-07-31T10%3A32%3A41.912Z%22%7D; permutive-id=7846ce4b-dadc-4b87-8e44-7803e8a73db4; _psegs=%5B1920%2C1930%2C2126%2C1907%2C2441%2C2300%2C1956%5D; incap_ses_430_774908=nbrlNEcNb1QHv8LHVKv3Bfzgf1kAAAAAgMwUphNZj2wrynZUObMIjg==; ___utmvmRluDSiS=GiaQJZpWhkP; ___utmvbRluDSiS=eZG XXoOealf: Cto";
+
+    public static void main(String[] args) throws IOException, ResponseException {
         if (args == null || args.length == 0) {
             return;
         }
@@ -22,6 +27,15 @@ public class Main {
 
                 new WSMultiFetcher(1053829, 3000, 8);
 
+                break;
+
+            case "fetch_from_ws_with_fixture":
+                WSFetcher fetcher = new WSFetcher();
+//                for (int i = 7228; i <= 7228; i ++) {
+//                    fetcher.fetchStage(i);
+//                }
+
+                new WSMultiFetcher(fetcher.getMatchesFromStages(), 16);
                 break;
 
             case "parser_ws_data":
@@ -60,9 +74,8 @@ public class Main {
                 creator.separateSampleTest("predictions/Full.txt","predictions/test.csv", "predictions/training.csv", 0.1f);
                 break;
 
-
             default:
-                creator = new PredictionDataCreator();
+
 
                 break;
         }

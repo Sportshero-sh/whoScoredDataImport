@@ -1,0 +1,1 @@
+{"info":{"regionCode":"ro","regionName":"Romania","name":"Ionut Pop","dateOfBirth":"1997-07-31T23:00:00.0000000Z","age":20,"position":"GK","height":185,"weight":74,"currentTeamId":5855,"currentTeamName":"Alessandria","currentTeamRegionCode":"it"},"id":297007,"lastModified":"2017-08-01T04:05:39.3809716Z","maxAge":60,"autoRefresh":false}

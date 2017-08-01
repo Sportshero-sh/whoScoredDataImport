@@ -1,0 +1,1 @@
+{"info":{"regionCode":"gb-wls","regionName":"Wales","name":"Jordan Williams","dateOfBirth":"1995-11-06T00:00:00.0000000Z","age":21,"position":"D","height":183,"weight":77,"currentTeamId":26,"currentTeamName":"Liverpool","currentTeamRegionCode":"gb-eng"},"id":244228,"lastModified":"2017-08-01T03:31:34.8684902Z","maxAge":60,"autoRefresh":false}

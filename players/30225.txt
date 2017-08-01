@@ -1,0 +1,1 @@
+{"info":{"regionCode":"mq","regionName":"Martinique","name":"Kévin Olimpa","dateOfBirth":"1988-03-10T00:00:00.0000000Z","age":29,"position":"GK","height":186,"weight":92,"currentTeamId":7802,"currentTeamName":"Platanias","currentTeamRegionCode":"gr"},"id":30225,"lastModified":"2017-08-01T02:38:09.0017751Z","maxAge":60,"autoRefresh":false}

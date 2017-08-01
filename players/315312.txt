@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Aissa Laidouni","dateOfBirth":"1996-12-13T00:00:00.0000000Z","age":20,"position":"M","height":179,"weight":75,"currentTeamId":8543,"currentTeamName":"Les Herbiers","currentTeamRegionCode":"fr"},"id":315312,"lastModified":"2017-08-01T03:46:40.5808486Z","maxAge":60,"autoRefresh":false}

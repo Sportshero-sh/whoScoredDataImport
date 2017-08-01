@@ -1,0 +1,1 @@
+{"info":{"regionCode":"cd","regionName":"Congo, DR","name":"Omenuke Mfulu","dateOfBirth":"1994-03-20T00:00:00.0000000Z","age":23,"position":"M","height":182,"weight":70,"currentTeamId":950,"currentTeamName":"Reims","currentTeamRegionCode":"fr"},"id":146725,"lastModified":"2017-08-01T02:36:15.7434670Z","maxAge":60,"autoRefresh":false}

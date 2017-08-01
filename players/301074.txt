@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Thomas Henry","dateOfBirth":"1994-09-19T23:00:00.0000000Z","age":22,"position":"FW","height":192,"weight":87,"currentTeamId":10946,"currentTeamName":"Chambly","currentTeamRegionCode":"fr"},"id":301074,"lastModified":"2017-08-01T03:25:39.7772092Z","maxAge":60,"autoRefresh":false}

@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Lucas Bobe","dateOfBirth":"1995-05-11T23:00:00.0000000Z","age":22,"position":"GK","height":185,"weight":80,"currentTeamId":315,"currentTeamName":"Bordeaux","currentTeamRegionCode":"fr"},"id":302390,"lastModified":"2017-08-01T02:24:07.6519722Z","maxAge":60,"autoRefresh":false}

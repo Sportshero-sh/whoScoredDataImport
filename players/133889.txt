@@ -1,0 +1,1 @@
+{"info":{"regionCode":"de","regionName":"Germany","name":"Daniel Lück","dateOfBirth":"1991-05-17T23:00:00.0000000Z","age":26,"position":"GK","height":189,"weight":81,"currentTeamId":390,"currentTeamName":"Sturm Graz","currentTeamRegionCode":"at"},"id":133889,"lastModified":"2017-08-01T02:34:03.1575868Z","maxAge":60,"autoRefresh":false}

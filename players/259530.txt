@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Robin Maulun","dateOfBirth":"1996-11-23T00:00:00.0000000Z","age":20,"position":"M","height":176,"weight":67,"currentTeamId":315,"currentTeamName":"Bordeaux","currentTeamRegionCode":"fr"},"id":259530,"lastModified":"2017-08-01T02:43:01.9572313Z","maxAge":60,"autoRefresh":false}

@@ -1,0 +1,1 @@
+{"info":{"regionCode":"ci","regionName":"Ivory Coast","name":"Christian Kouakou","dateOfBirth":"1991-03-01T00:00:00.0000000Z","age":26,"position":"FW","height":182,"weight":72,"currentTeamId":245,"currentTeamName":"Nimes","currentTeamRegionCode":"fr"},"id":236554,"lastModified":"2017-08-01T02:56:02.9793504Z","maxAge":60,"autoRefresh":false}

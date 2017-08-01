@@ -1,0 +1,1 @@
+{"info":{"regionCode":"gb-eng","regionName":"England","name":"Gael Bigirimana","dateOfBirth":"1993-10-21T23:00:00.0000000Z","age":23,"position":"DM(C)","height":173,"weight":68,"currentTeamId":17,"currentTeamName":"Coventry","currentTeamRegionCode":"gb-eng"},"id":90676,"lastModified":"2017-08-01T03:15:24.7391560Z","maxAge":60,"autoRefresh":false}

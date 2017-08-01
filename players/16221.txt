@@ -1,0 +1,1 @@
+{"info":{"regionCode":"pl","regionName":"Poland","name":"Dariusz Dudka","dateOfBirth":"1983-12-09T00:00:00.0000000Z","age":33,"position":"D(CLR),M(CR)","height":183,"weight":80,"currentTeamId":1527,"currentTeamName":"Lech Poznan","currentTeamRegionCode":"pl"},"id":16221,"lastModified":"2017-08-01T03:32:43.1036390Z","maxAge":60,"autoRefresh":false}

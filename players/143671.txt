@@ -1,0 +1,1 @@
+{"info":{"regionCode":"de","regionName":"Germany","name":"Maximilian Wagener","dateOfBirth":"1995-01-03T00:00:00.0000000Z","age":22,"position":"M","height":181,"weight":74,"currentTeamId":1321,"currentTeamName":"Mainz 05 II","currentTeamRegionCode":"de"},"id":143671,"lastModified":"2017-08-01T02:41:31.5698138Z","maxAge":60,"autoRefresh":false}

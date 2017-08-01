@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Giuseppe Prestia","dateOfBirth":"1993-11-13T00:00:00.0000000Z","age":23,"position":"D","height":190,"weight":88,"currentTeamId":82,"currentTeamName":"Parma","currentTeamRegionCode":"it"},"id":92437,"lastModified":"2017-08-01T02:55:16.7560785Z","maxAge":60,"autoRefresh":false}

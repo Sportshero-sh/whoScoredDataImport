@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Stefano Morrone","dateOfBirth":"1978-10-25T23:00:00.0000000Z","age":38,"position":"D(C),DM(C),M(R)","height":178,"weight":71,"currentTeamId":777,"currentTeamName":"Pisa","currentTeamRegionCode":"it"},"id":2555,"lastModified":"2017-08-01T03:07:53.3803398Z","maxAge":60,"autoRefresh":false}

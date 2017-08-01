@@ -1,0 +1,1 @@
+{"info":{"regionCode":"es","regionName":"Spain","name":"Borja López","dateOfBirth":"1994-02-02T00:00:00.0000000Z","age":23,"position":"D","height":192,"weight":78,"currentTeamId":603,"currentTeamName":"Hajduk Split","currentTeamRegionCode":"hr"},"id":137330,"lastModified":"2017-08-01T02:41:54.0176696Z","maxAge":60,"autoRefresh":false}

@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Antonio Calabrese","dateOfBirth":"1996-06-10T23:00:00.0000000Z","age":21,"position":"FW","height":183,"weight":78,"currentTeamId":71,"currentTeamName":"Bologna","currentTeamRegionCode":"it"},"id":149553,"lastModified":"2017-08-01T03:24:53.2731585Z","maxAge":60,"autoRefresh":false}

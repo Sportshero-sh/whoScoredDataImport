@@ -1,0 +1,1 @@
+{"info":{"regionCode":"hr","regionName":"Croatia","name":"Arijan Ademi","dateOfBirth":"1990-05-28T23:00:00.0000000Z","age":27,"position":"DM(C)","height":183,"weight":79,"currentTeamId":684,"currentTeamName":"Dinamo Zagreb","currentTeamRegionCode":"hr"},"id":38512,"lastModified":"2017-08-01T03:56:51.7952627Z","maxAge":60,"autoRefresh":false}

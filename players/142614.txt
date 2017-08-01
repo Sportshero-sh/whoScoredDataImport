@@ -1,0 +1,1 @@
+{"info":{"regionCode":"es","regionName":"Spain","name":"Salva Ruiz","dateOfBirth":"1995-05-16T23:00:00.0000000Z","age":22,"position":"D","height":176,"weight":68,"currentTeamId":925,"currentTeamName":"Granada","currentTeamRegionCode":"es"},"id":142614,"lastModified":"2017-08-01T02:37:01.1565807Z","maxAge":60,"autoRefresh":false}

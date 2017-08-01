@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Yassin El Azzouzi","dateOfBirth":"1983-01-13T00:00:00.0000000Z","age":34,"position":"FW","height":180,"weight":73,"currentTeamId":310,"currentTeamName":"SC Bastia","currentTeamRegionCode":"fr"},"id":104224,"lastModified":"2017-08-01T03:20:21.2683772Z","maxAge":60,"autoRefresh":false}

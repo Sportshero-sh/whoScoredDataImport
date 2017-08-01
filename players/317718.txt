@@ -1,0 +1,1 @@
+{"info":{"regionCode":"au","regionName":"Australia","name":"Jordan Holmes","dateOfBirth":"1997-05-07T23:00:00.0000000Z","age":20,"position":"GK","height":188,"weight":75,"currentTeamId":183,"currentTeamName":"Bournemouth","currentTeamRegionCode":"gb-eng"},"id":317718,"lastModified":"2017-08-01T03:29:35.7124913Z","maxAge":60,"autoRefresh":false}

@@ -1,0 +1,1 @@
+{"info":{"regionCode":"gh","regionName":"Ghana","name":"Solomon Nyantakyi","dateOfBirth":"1996-03-25T00:00:00.0000000Z","age":21,"position":"M","height":179,"weight":72,"currentTeamId":13684,"currentTeamName":"Tuttocuoio","currentTeamRegionCode":"it"},"id":142860,"lastModified":"2017-08-01T02:32:06.8582520Z","maxAge":60,"autoRefresh":false}

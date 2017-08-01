@@ -1,0 +1,1 @@
+{"info":{"regionCode":"pe","regionName":"Peru","name":"Rinaldo Cruzado","dateOfBirth":"1984-09-20T23:00:00.0000000Z","age":32,"position":"FW","height":178,"weight":81,"currentTeamId":1473,"currentTeamName":"Alianza Lima","currentTeamRegionCode":"pe"},"id":35392,"lastModified":"2017-08-01T03:18:07.3397146Z","maxAge":60,"autoRefresh":false}

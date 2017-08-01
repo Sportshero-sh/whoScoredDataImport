@@ -1,0 +1,1 @@
+{"info":{"regionCode":"sn","regionName":"Senegal","name":"Pape M'Bow","dateOfBirth":"1988-05-21T23:00:00.0000000Z","age":29,"position":"D","height":190,"weight":74,"currentTeamId":2870,"currentTeamName":"Atromitos","currentTeamRegionCode":"gr"},"id":33861,"lastModified":"2017-08-01T03:20:22.0171881Z","maxAge":60,"autoRefresh":false}

@@ -1,0 +1,1 @@
+{"info":{"regionCode":"ar","regionName":"Argentina","name":"Mario Paglialunga","dateOfBirth":"1988-10-28T23:00:00.0000000Z","age":28,"position":"M","height":182,"weight":75,"currentTeamId":1747,"currentTeamName":"Olimpo","currentTeamRegionCode":"ar"},"id":40001,"lastModified":"2017-08-01T03:18:05.0788234Z","maxAge":60,"autoRefresh":false}

@@ -1,0 +1,1 @@
+{"info":{"regionCode":"de","regionName":"Germany","name":"Denis Streker","dateOfBirth":"1991-04-05T23:00:00.0000000Z","age":26,"position":"M","height":188,"weight":81,"currentTeamId":4676,"currentTeamName":"FSV Frankfurt","currentTeamRegionCode":"de"},"id":120400,"lastModified":"2017-08-01T02:27:46.0247501Z","maxAge":60,"autoRefresh":false}

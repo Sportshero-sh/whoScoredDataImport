@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Alessandro Capello","dateOfBirth":"1995-12-12T00:00:00.0000000Z","age":21,"position":"FW","height":180,"weight":68,"currentTeamId":78,"currentTeamName":"Cagliari","currentTeamRegionCode":"it"},"id":132416,"lastModified":"2017-08-01T02:52:51.7523678Z","maxAge":60,"autoRefresh":false}

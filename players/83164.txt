@@ -1,0 +1,1 @@
+{"info":{"regionCode":"tn","regionName":"Tunisia","name":"Zouhaier Dhaouadi","dateOfBirth":"1988-01-01T00:00:00.0000000Z","age":29,"position":"M","height":180,"weight":70,"currentTeamId":4831,"currentTeamName":"Etoile du Sahel","currentTeamRegionCode":"tn"},"id":83164,"lastModified":"2017-08-01T02:26:23.7322605Z","maxAge":60,"autoRefresh":false}

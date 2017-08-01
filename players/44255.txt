@@ -1,0 +1,1 @@
+{"info":{"regionCode":"rs","regionName":"Serbia","name":"Nikola Mitrovic","dateOfBirth":"1987-01-02T00:00:00.0000000Z","age":30,"position":"DM(C)","height":180,"weight":76,"currentTeamId":598,"currentTeamName":"Anorthosis","currentTeamRegionCode":"cy"},"id":44255,"lastModified":"2017-08-01T03:42:09.6684036Z","maxAge":60,"autoRefresh":false}

@@ -1,0 +1,1 @@
+{"info":{"regionCode":"ro","regionName":"Romania","name":"Adrian Cristea","dateOfBirth":"1983-11-30T00:00:00.0000000Z","age":33,"position":"FW","height":179,"weight":73,"currentTeamId":1202,"currentTeamName":"FC FCSB","currentTeamRegionCode":"ro"},"id":21356,"lastModified":"2017-08-01T03:33:28.6249546Z","maxAge":60,"autoRefresh":false}

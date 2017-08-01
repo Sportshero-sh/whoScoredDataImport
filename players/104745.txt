@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Hugo Guichard","dateOfBirth":"1992-05-15T23:00:00.0000000Z","age":25,"position":"GK","height":189,"weight":84,"currentTeamId":2325,"currentTeamName":"AS Moulins Football","currentTeamRegionCode":"fr"},"id":104745,"lastModified":"2017-08-01T02:29:37.3319170Z","maxAge":60,"autoRefresh":false}

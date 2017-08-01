@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Antonio Palma","dateOfBirth":"1994-01-03T00:00:00.0000000Z","age":23,"position":"M","height":177,"weight":70,"currentTeamId":7587,"currentTeamName":"Renate","currentTeamRegionCode":"it"},"id":120030,"lastModified":"2017-08-01T03:24:08.0325626Z","maxAge":60,"autoRefresh":false}

@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Moro Alhassan","dateOfBirth":"1994-01-15T00:00:00.0000000Z","age":23,"position":"M","height":183,"weight":78,"currentTeamId":273,"currentTeamName":"Vicenza","currentTeamRegionCode":"it"},"id":122730,"lastModified":"2017-08-01T03:11:40.4556027Z","maxAge":60,"autoRefresh":false}

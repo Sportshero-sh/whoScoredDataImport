@@ -1,0 +1,1 @@
+{"info":{"regionCode":"br","regionName":"Brazil","name":"Caio Rangel","dateOfBirth":"1996-01-16T00:00:00.0000000Z","age":21,"position":"M","height":173,"weight":56,"currentTeamId":5948,"currentTeamName":"Arouca","currentTeamRegionCode":"pt"},"id":241011,"lastModified":"2017-08-01T02:52:52.1736488Z","maxAge":60,"autoRefresh":false}

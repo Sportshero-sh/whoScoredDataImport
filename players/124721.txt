@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Adrien Tameze","dateOfBirth":"1994-11-04T00:00:00.0000000Z","age":22,"position":"M","height":180,"weight":73,"currentTeamId":613,"currentTeamName":"Nice","currentTeamRegionCode":"fr"},"id":124721,"lastModified":"2017-08-01T04:10:57.1877973Z","maxAge":60,"autoRefresh":false}

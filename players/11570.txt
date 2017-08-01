@@ -1,0 +1,1 @@
+{"info":{"regionCode":"ro","regionName":"Romania","name":"Vasile Maftei","dateOfBirth":"1981-01-01T00:00:00.0000000Z","age":36,"position":"D","height":180,"weight":75,"currentTeamId":12833,"currentTeamName":"FC Voluntari","currentTeamRegionCode":"ro"},"id":11570,"lastModified":"2017-08-01T04:11:26.6681065Z","maxAge":60,"autoRefresh":false}

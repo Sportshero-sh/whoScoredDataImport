@@ -1,0 +1,1 @@
+{"info":{"regionCode":"br","regionName":"Brazil","name":"Lucas Souza","dateOfBirth":"1990-06-03T23:00:00.0000000Z","age":27,"position":"M","height":186,"weight":81,"currentTeamId":1782,"currentTeamName":"AEL Limassol","currentTeamRegionCode":"cy"},"id":129333,"lastModified":"2017-08-01T02:53:00.0362410Z","maxAge":60,"autoRefresh":false}

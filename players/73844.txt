@@ -1,0 +1,1 @@
+{"info":{"regionCode":"br","regionName":"Brazil","name":"Dionatan Teixeira","dateOfBirth":"1992-07-23T23:00:00.0000000Z","age":25,"position":"D","height":193,"weight":78,"currentTeamId":96,"currentTeamName":"Stoke","currentTeamRegionCode":"gb-eng"},"id":73844,"lastModified":"2017-08-01T02:35:50.8934376Z","maxAge":60,"autoRefresh":false}

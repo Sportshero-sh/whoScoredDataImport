@@ -1,0 +1,1 @@
+{"info":{"regionCode":"es","regionName":"Spain","name":"Piscu","dateOfBirth":"1987-02-25T00:00:00.0000000Z","age":30,"position":"D(C)","height":183,"weight":88,"currentTeamId":4,"currentTeamName":"AGF","currentTeamRegionCode":"dk"},"id":44197,"lastModified":"2017-08-01T02:58:44.5970583Z","maxAge":60,"autoRefresh":false}

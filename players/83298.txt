@@ -1,0 +1,1 @@
+{"info":{"regionCode":"sn","regionName":"Senegal","name":"Pape Camara","dateOfBirth":"1991-09-23T23:00:00.0000000Z","age":25,"position":"AM(C)","height":190,"weight":80,"currentTeamId":5747,"currentTeamName":"Seraing United","currentTeamRegionCode":"be"},"id":83298,"lastModified":"2017-08-01T03:42:08.2200798Z","maxAge":60,"autoRefresh":false}

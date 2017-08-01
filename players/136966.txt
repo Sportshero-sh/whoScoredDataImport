@@ -1,0 +1,1 @@
+{"info":{"regionCode":"us","regionName":"USA","name":"Caleb Stanko","dateOfBirth":"1993-07-25T23:00:00.0000000Z","age":24,"position":"M","height":180,"weight":80,"currentTeamId":50,"currentTeamName":"Freiburg","currentTeamRegionCode":"de"},"id":136966,"lastModified":"2017-08-01T02:50:14.5962658Z","maxAge":60,"autoRefresh":false}

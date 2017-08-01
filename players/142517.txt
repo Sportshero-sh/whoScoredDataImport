@@ -1,0 +1,1 @@
+{"info":{"regionCode":"de","regionName":"Germany","name":"Erik Thommy","dateOfBirth":"1994-08-19T23:00:00.0000000Z","age":22,"position":"M","height":174,"weight":66,"currentTeamId":1143,"currentTeamName":"Jahn Regensburg","currentTeamRegionCode":"de"},"id":142517,"lastModified":"2017-08-01T02:30:54.4265466Z","maxAge":60,"autoRefresh":false}

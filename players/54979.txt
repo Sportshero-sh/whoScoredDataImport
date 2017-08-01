@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Alessandro Lambrughi","dateOfBirth":"1987-05-18T23:00:00.0000000Z","age":30,"position":"D","height":183,"weight":77,"currentTeamId":1286,"currentTeamName":"Livorno","currentTeamRegionCode":"it"},"id":54979,"lastModified":"2017-08-01T03:28:48.9900387Z","maxAge":60,"autoRefresh":false}

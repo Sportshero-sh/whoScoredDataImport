@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Thomas Guerbert","dateOfBirth":"1989-04-05T23:00:00.0000000Z","age":28,"position":"M(C)","height":180,"weight":75,"currentTeamId":941,"currentTeamName":"Clermont Foot","currentTeamRegionCode":"fr"},"id":105031,"lastModified":"2017-08-01T02:49:32.6165437Z","maxAge":60,"autoRefresh":false}

@@ -1,0 +1,1 @@
+{"info":{"regionCode":"rs","regionName":"Serbia","name":"Goran Karanoviç","dateOfBirth":"1987-10-12T23:00:00.0000000Z","age":29,"position":"FW","height":185,"weight":80,"currentTeamId":126,"currentTeamName":"Sochaux","currentTeamRegionCode":"fr"},"id":26857,"lastModified":"2017-08-01T02:36:16.8978338Z","maxAge":60,"autoRefresh":false}

@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Romain Achilli","dateOfBirth":"1993-02-15T00:00:00.0000000Z","age":24,"position":"D","height":175,"weight":70,"currentTeamId":310,"currentTeamName":"SC Bastia","currentTeamRegionCode":"fr"},"id":127741,"lastModified":"2017-08-01T02:32:27.9028483Z","maxAge":60,"autoRefresh":false}

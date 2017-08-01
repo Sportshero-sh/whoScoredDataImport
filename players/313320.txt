@@ -1,0 +1,1 @@
+{"info":{"regionCode":"de","regionName":"Germany","name":"Aloy Ihenacho","dateOfBirth":"1995-07-20T23:00:00.0000000Z","age":22,"position":"FW","height":182,"weight":82,"currentTeamId":790,"currentTeamName":"RW Erfurt","currentTeamRegionCode":"de"},"id":313320,"lastModified":"2017-08-01T02:36:39.3153418Z","maxAge":60,"autoRefresh":false}

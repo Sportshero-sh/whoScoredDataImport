@@ -1,0 +1,1 @@
+{"info":{"regionCode":"si","regionName":"Slovenia","name":"Amir Dervisevic","dateOfBirth":"1992-07-03T23:00:00.0000000Z","age":25,"position":"M","height":195,"weight":86,"currentTeamId":595,"currentTeamName":"Maribor","currentTeamRegionCode":"si"},"id":132307,"lastModified":"2017-08-01T04:12:15.7617619Z","maxAge":60,"autoRefresh":false}

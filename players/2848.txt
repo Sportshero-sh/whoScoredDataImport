@@ -1,0 +1,1 @@
+{"info":{"regionCode":"se","regionName":"Sweden","name":"Olof Mellberg","dateOfBirth":"1977-09-02T23:00:00.0000000Z","age":39,"position":"D(C)","height":193,"weight":76,"currentTeamId":10,"currentTeamName":"FC Copenhagen","currentTeamRegionCode":"dk"},"id":2848,"lastModified":"2017-08-01T03:35:43.8940974Z","maxAge":60,"autoRefresh":false}

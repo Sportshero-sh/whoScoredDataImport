@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Florian Escales","dateOfBirth":"1996-02-03T00:00:00.0000000Z","age":21,"position":"GK","height":182,"weight":78,"currentTeamId":249,"currentTeamName":"Marseille","currentTeamRegionCode":"fr"},"id":302843,"lastModified":"2017-08-01T03:13:54.5546504Z","maxAge":60,"autoRefresh":false}

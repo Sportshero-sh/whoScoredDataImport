@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Luca Castellazzi","dateOfBirth":"1975-07-18T23:00:00.0000000Z","age":42,"position":"GK","height":192,"weight":89,"currentTeamId":72,"currentTeamName":"Torino","currentTeamRegionCode":"it"},"id":3155,"lastModified":"2017-08-01T02:32:04.9238148Z","maxAge":60,"autoRefresh":false}

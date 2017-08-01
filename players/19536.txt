@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Grégory Cerdan","dateOfBirth":"1982-07-27T23:00:00.0000000Z","age":35,"position":"D(C),DM(C)","height":191,"weight":86,"currentTeamId":611,"currentTeamName":"Le Mans","currentTeamRegionCode":"fr"},"id":19536,"lastModified":"2017-08-01T03:28:23.9690859Z","maxAge":60,"autoRefresh":false}

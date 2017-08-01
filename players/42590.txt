@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Salim Moizini","dateOfBirth":"1985-10-16T23:00:00.0000000Z","age":31,"position":"M","height":175,"weight":60,"currentTeamId":3577,"currentTeamName":"Lyon la Duchere","currentTeamRegionCode":"fr"},"id":42590,"lastModified":"2017-08-01T03:42:08.5008820Z","maxAge":60,"autoRefresh":false}

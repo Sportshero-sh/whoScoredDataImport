@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Giacomo Brichetto","dateOfBirth":"1983-05-08T23:00:00.0000000Z","age":34,"position":"GK","height":194,"weight":83,"currentTeamId":1285,"currentTeamName":"Palermo","currentTeamRegionCode":"it"},"id":59203,"lastModified":"2017-08-01T03:07:51.6012412Z","maxAge":60,"autoRefresh":false}

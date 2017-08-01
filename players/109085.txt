@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Salvatore Molina","dateOfBirth":"1992-01-01T00:00:00.0000000Z","age":25,"position":"M","height":174,"weight":68,"currentTeamId":81,"currentTeamName":"Perugia","currentTeamRegionCode":"it"},"id":109085,"lastModified":"2017-08-01T02:34:56.1369254Z","maxAge":60,"autoRefresh":false}

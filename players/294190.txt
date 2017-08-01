@@ -1,0 +1,1 @@
+{"info":{"regionCode":"es","regionName":"Spain","name":"Néstor Díaz","dateOfBirth":"1992-06-25T23:00:00.0000000Z","age":25,"position":"GK","height":183,"weight":72,"currentTeamId":62,"currentTeamName":"Celta Vigo","currentTeamRegionCode":"es"},"id":294190,"lastModified":"2017-08-01T02:46:03.8707181Z","maxAge":60,"autoRefresh":false}

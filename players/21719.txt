@@ -1,0 +1,1 @@
+{"info":{"regionCode":"ml","regionName":"Mali","name":"Mamadou Samassa","dateOfBirth":"1986-04-30T23:00:00.0000000Z","age":31,"position":"AM(CLR),FW","height":188,"weight":82,"currentTeamId":2332,"currentTeamName":"Brest","currentTeamRegionCode":"fr"},"id":21719,"lastModified":"2017-08-01T03:11:38.6468173Z","maxAge":60,"autoRefresh":false}

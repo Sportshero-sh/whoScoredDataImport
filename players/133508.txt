@@ -1,0 +1,1 @@
+{"info":{"regionCode":"de","regionName":"Germany","name":"Marco Sailer","dateOfBirth":"1985-11-16T00:00:00.0000000Z","age":31,"position":"FW","height":171,"weight":77,"currentTeamId":1147,"currentTeamName":"Darmstadt","currentTeamRegionCode":"de"},"id":133508,"lastModified":"2017-08-01T02:36:39.3309468Z","maxAge":60,"autoRefresh":false}

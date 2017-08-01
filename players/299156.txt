@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Davide Riccardi","dateOfBirth":"1996-04-08T23:00:00.0000000Z","age":21,"position":"D","height":188,"weight":73,"currentTeamId":76,"currentTeamName":"Verona","currentTeamRegionCode":"it"},"id":299156,"lastModified":"2017-08-01T04:05:40.5198643Z","maxAge":60,"autoRefresh":false}

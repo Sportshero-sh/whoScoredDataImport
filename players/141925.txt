@@ -1,0 +1,1 @@
+{"info":{"regionCode":"kr","regionName":"South Korea","name":"Seung-Woo Ryu","dateOfBirth":"1993-12-17T00:00:00.0000000Z","age":23,"position":"M","height":172,"weight":67,"currentTeamId":994,"currentTeamName":"Ferencvaros","currentTeamRegionCode":"hu"},"id":141925,"lastModified":"2017-08-01T02:45:40.7350539Z","maxAge":60,"autoRefresh":false}

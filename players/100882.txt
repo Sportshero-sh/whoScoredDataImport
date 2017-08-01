@@ -1,0 +1,1 @@
+{"info":{"regionCode":"dk","regionName":"Denmark","name":"Lasse Petry","dateOfBirth":"1992-09-18T23:00:00.0000000Z","age":24,"position":"M","height":172,"weight":69,"currentTeamId":404,"currentTeamName":"FC Nordsjaelland","currentTeamRegionCode":"dk"},"id":100882,"lastModified":"2017-08-01T04:02:41.4729360Z","maxAge":60,"autoRefresh":false}

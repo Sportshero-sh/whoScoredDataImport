@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Lorenzo Rosseti","dateOfBirth":"1994-08-04T23:00:00.0000000Z","age":22,"position":"FW","height":188,"weight":77,"currentTeamId":87,"currentTeamName":"Juventus","currentTeamRegionCode":"it"},"id":122055,"lastModified":"2017-08-01T03:05:35.7081747Z","maxAge":60,"autoRefresh":false}

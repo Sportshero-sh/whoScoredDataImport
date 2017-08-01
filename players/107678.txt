@@ -1,0 +1,1 @@
+{"info":{"regionCode":"sn","regionName":"Senegal","name":"Abdoulaye Sane","dateOfBirth":"1992-10-14T23:00:00.0000000Z","age":24,"position":"FW","height":177,"weight":73,"currentTeamId":216,"currentTeamName":"Red Star","currentTeamRegionCode":"fr"},"id":107678,"lastModified":"2017-08-01T02:26:46.5085229Z","maxAge":60,"autoRefresh":false}

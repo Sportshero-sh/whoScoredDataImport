@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Xavier Pentecote","dateOfBirth":"1986-08-12T23:00:00.0000000Z","age":30,"position":"AM(LR)","height":183,"weight":82,"currentTeamId":613,"currentTeamName":"Nice","currentTeamRegionCode":"fr"},"id":26542,"lastModified":"2017-08-01T02:58:20.4324044Z","maxAge":60,"autoRefresh":false}

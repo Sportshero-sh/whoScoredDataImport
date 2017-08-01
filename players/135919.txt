@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Mory Kone","dateOfBirth":"1994-04-20T23:00:00.0000000Z","age":23,"position":"D","height":190,"weight":88,"currentTeamId":229,"currentTeamName":"Troyes","currentTeamRegionCode":"fr"},"id":135919,"lastModified":"2017-08-01T02:23:44.7041097Z","maxAge":60,"autoRefresh":false}

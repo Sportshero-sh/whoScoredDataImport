@@ -1,0 +1,1 @@
+{"info":{"regionCode":"gb-eng","regionName":"England","name":"Liam Marrs","dateOfBirth":"1992-11-26T00:00:00.0000000Z","age":24,"position":"D","height":175,"weight":72,"currentTeamId":987,"currentTeamName":"Boston United","currentTeamRegionCode":"gb-eng"},"id":129348,"lastModified":"2017-08-01T02:59:05.0956729Z","maxAge":60,"autoRefresh":false}

@@ -29,6 +29,15 @@ public class WSMultiFetcher {
         mExec.shutdown();
     }
 
+    public WSMultiFetcher(List<Integer> toFetchList, int batchSize) {
+        mToFetchList = Collections.synchronizedList(toFetchList);
+
+        mExec = Executors.newCachedThreadPool();
+
+        fetchNextBatch(batchSize);
+        mExec.shutdown();
+    }
+
     private void fetchNextBatch(int batchSize) {
         if (mToFetchList.size() == 0) {
             return ;

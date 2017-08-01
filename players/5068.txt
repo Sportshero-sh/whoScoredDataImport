@@ -1,0 +1,1 @@
+{"info":{"regionCode":"dk","regionName":"Denmark","name":"Kris Stadsgaard","dateOfBirth":"1985-07-31T23:00:00.0000000Z","age":32,"position":"D(C)","height":185,"weight":82,"currentTeamId":10,"currentTeamName":"FC Copenhagen","currentTeamRegionCode":"dk"},"id":5068,"lastModified":"2017-08-01T03:58:01.8243976Z","maxAge":60,"autoRefresh":false}

@@ -1,0 +1,1 @@
+{"info":{"regionCode":"es","regionName":"Spain","name":"Javi Jiménez","dateOfBirth":"1987-06-07T23:00:00.0000000Z","age":30,"position":"GK","height":183,"weight":77,"currentTeamId":5006,"currentTeamName":"Huesca","currentTeamRegionCode":"es"},"id":4601,"lastModified":"2017-08-01T02:50:36.4052242Z","maxAge":60,"autoRefresh":false}

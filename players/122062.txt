@@ -1,0 +1,1 @@
+{"info":{"regionCode":"es","regionName":"Spain","name":"Marc Martínez","dateOfBirth":"1990-04-03T23:00:00.0000000Z","age":27,"position":"GK","height":186,"weight":72,"currentTeamId":59,"currentTeamName":"Deportivo La Coruna","currentTeamRegionCode":"es"},"id":122062,"lastModified":"2017-08-01T02:48:20.4029412Z","maxAge":60,"autoRefresh":false}

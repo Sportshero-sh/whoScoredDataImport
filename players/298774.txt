@@ -1,0 +1,1 @@
+{"info":{"regionCode":"de","regionName":"Germany","name":"Ahmet Arslan","dateOfBirth":"1994-03-29T23:00:00.0000000Z","age":23,"position":"M","height":179,"weight":77,"currentTeamId":757,"currentTeamName":"Osnabrueck","currentTeamRegionCode":"de"},"id":298774,"lastModified":"2017-08-01T03:36:28.6645010Z","maxAge":60,"autoRefresh":false}

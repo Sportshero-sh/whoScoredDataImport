@@ -1,0 +1,1 @@
+{"name":"","tournamentParticipations":[],"relatedPastTournaments":[{"stageId":11524,"tournamentName":"UEFA Europa League","seasonName":"2014/2015"},{"stageId":7229,"tournamentName":"UEFA Europa League","seasonName":"2012/2013"}],"id":1702,"lastModified":"2017-08-01T03:37:37.4924260Z","maxAge":60,"autoRefresh":false}

@@ -1,0 +1,1 @@
+{"info":{"regionCode":"es","regionName":"Spain","name":"Lluis López","dateOfBirth":"1997-03-05T00:00:00.0000000Z","age":20,"position":"D","height":182,"weight":79,"currentTeamId":70,"currentTeamName":"Espanyol","currentTeamRegionCode":"es"},"id":317351,"lastModified":"2017-08-01T03:32:14.2257535Z","maxAge":60,"autoRefresh":false}

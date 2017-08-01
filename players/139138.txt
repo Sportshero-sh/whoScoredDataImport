@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Mario Pugliese","dateOfBirth":"1996-03-26T00:00:00.0000000Z","age":21,"position":"M","height":179,"weight":68,"currentTeamId":9363,"currentTeamName":"Carpi","currentTeamRegionCode":"it"},"id":139138,"lastModified":"2017-08-01T03:42:55.0830168Z","maxAge":60,"autoRefresh":false}

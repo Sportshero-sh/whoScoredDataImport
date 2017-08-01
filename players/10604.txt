@@ -1,0 +1,1 @@
+{"info":{"regionCode":"pt","regionName":"Portugal","name":"Cadú","dateOfBirth":"1981-12-21T00:00:00.0000000Z","age":35,"position":"D(C)","height":181,"weight":79,"currentTeamId":1462,"currentTeamName":"Leixoes","currentTeamRegionCode":"pt"},"id":10604,"lastModified":"2017-08-01T03:37:15.1395406Z","maxAge":60,"autoRefresh":false}

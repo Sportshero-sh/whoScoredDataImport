@@ -1,0 +1,1 @@
+{"info":{"regionCode":"pt","regionName":"Portugal","name":"Rui Sampaio","dateOfBirth":"1987-05-28T23:00:00.0000000Z","age":30,"position":"M","height":186,"weight":75,"currentTeamId":2010,"currentTeamName":"Freamunde","currentTeamRegionCode":"pt"},"id":70890,"lastModified":"2017-08-01T03:15:48.1404636Z","maxAge":60,"autoRefresh":false}

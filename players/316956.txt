@@ -1,0 +1,1 @@
+{"info":{"regionName":"Undefined","name":"Matos","dateOfBirth":"1995-05-05T23:00:00.0000000Z","age":22,"position":"D","height":170,"weight":68,"currentTeamId":67,"currentTeamName":"Sevilla","currentTeamRegionCode":"es"},"id":316956,"lastModified":"2017-08-01T03:32:14.1945525Z","maxAge":60,"autoRefresh":false}

@@ -1,0 +1,1 @@
+{"info":{"regionCode":"es","regionName":"Spain","name":"Lolo Plá","dateOfBirth":"1993-04-16T23:00:00.0000000Z","age":24,"position":"FW","height":182,"weight":78,"currentTeamId":1354,"currentTeamName":"Cadiz","currentTeamRegionCode":"es"},"id":118478,"lastModified":"2017-08-01T03:34:58.8252453Z","maxAge":60,"autoRefresh":false}

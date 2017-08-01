@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Cristian Brocchi","dateOfBirth":"1976-01-30T00:00:00.0000000Z","age":41,"position":"D(C),M(C)","height":171,"weight":70,"currentTeamId":77,"currentTeamName":"Lazio","currentTeamRegionCode":"it"},"id":465,"lastModified":"2017-08-01T03:30:43.3079986Z","maxAge":60,"autoRefresh":false}

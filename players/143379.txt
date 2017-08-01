@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Pizitho Digbeu","dateOfBirth":"1992-06-28T23:00:00.0000000Z","age":25,"position":"D","height":180,"weight":70,"currentTeamId":2028,"currentTeamName":"Bourg en Bresse Peronnas","currentTeamRegionCode":"fr"},"id":143379,"lastModified":"2017-08-01T03:08:13.2081627Z","maxAge":60,"autoRefresh":false}

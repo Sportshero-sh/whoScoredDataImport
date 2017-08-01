@@ -1,0 +1,1 @@
+{"info":{"regionCode":"ar","regionName":"Argentina","name":"Diego Gomez","dateOfBirth":"1984-01-05T00:00:00.0000000Z","age":33,"position":"FW","height":164,"weight":67,"currentTeamId":14944,"currentTeamName":"Cholet","currentTeamRegionCode":"fr"},"id":299075,"lastModified":"2017-08-01T03:05:56.8157195Z","maxAge":60,"autoRefresh":false}

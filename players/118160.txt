@@ -1,0 +1,1 @@
+{"info":{"regionCode":"lt","regionName":"Lithuania","name":"Tomas Svedkauskas","dateOfBirth":"1994-06-21T23:00:00.0000000Z","age":23,"position":"GK","height":189,"weight":80,"currentTeamId":772,"currentTeamName":"Ascoli Picchio FC 1898","currentTeamRegionCode":"it"},"id":118160,"lastModified":"2017-08-01T03:07:54.3156426Z","maxAge":60,"autoRefresh":false}

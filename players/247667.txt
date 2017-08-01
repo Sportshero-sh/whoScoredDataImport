@@ -1,0 +1,1 @@
+{"info":{"regionCode":"rs","regionName":"Serbia","name":"Nemanja Milunovic","dateOfBirth":"1989-05-30T23:00:00.0000000Z","age":28,"position":"D(C)","height":193,"weight":83,"currentTeamId":569,"currentTeamName":"BATE Borisov","currentTeamRegionCode":"by"},"id":247667,"lastModified":"2017-08-01T03:06:45.0197556Z","maxAge":60,"autoRefresh":false}

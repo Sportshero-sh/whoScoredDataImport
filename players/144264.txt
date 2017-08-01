@@ -1,0 +1,1 @@
+{"info":{"regionCode":"rs","regionName":"Serbia","name":"Filip Jankovic","dateOfBirth":"1995-01-17T00:00:00.0000000Z","age":22,"position":"M","height":177,"weight":65,"currentTeamId":10285,"currentTeamName":"Radomlje","currentTeamRegionCode":"si"},"id":144264,"lastModified":"2017-08-01T03:24:53.1951573Z","maxAge":60,"autoRefresh":false}

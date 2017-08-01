@@ -1,0 +1,1 @@
+{"info":{"regionCode":"si","regionName":"Slovenia","name":"Aleksandar Rajcevic","dateOfBirth":"1986-11-17T00:00:00.0000000Z","age":30,"position":"D(C)","height":188,"weight":83,"currentTeamId":595,"currentTeamName":"Maribor","currentTeamRegionCode":"si"},"id":30203,"lastModified":"2017-08-01T03:56:13.8433222Z","maxAge":60,"autoRefresh":false}

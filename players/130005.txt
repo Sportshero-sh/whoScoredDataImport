@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Marco Iannascoli","dateOfBirth":"1994-09-05T23:00:00.0000000Z","age":22,"position":"M","height":171,"weight":67,"currentTeamId":1511,"currentTeamName":"L'Aquila","currentTeamRegionCode":"it"},"id":130005,"lastModified":"2017-08-01T04:15:49.7379307Z","maxAge":60,"autoRefresh":false}

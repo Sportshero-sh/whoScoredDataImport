@@ -1,0 +1,1 @@
+{"info":{"regionCode":"es","regionName":"Spain","name":"Rubén Suárez","dateOfBirth":"1979-02-19T00:00:00.0000000Z","age":38,"position":"FW","height":167,"weight":67,"currentTeamId":858,"currentTeamName":"Xanthi","currentTeamRegionCode":"gr"},"id":34751,"lastModified":"2017-08-01T03:44:24.9062252Z","maxAge":60,"autoRefresh":false}

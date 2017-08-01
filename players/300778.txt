@@ -1,0 +1,1 @@
+{"info":{"regionCode":"es","regionName":"Spain","name":"Fran Villalba","dateOfBirth":"1998-05-10T23:00:00.0000000Z","age":19,"position":"M","height":168,"weight":65,"currentTeamId":55,"currentTeamName":"Valencia","currentTeamRegionCode":"es"},"id":300778,"lastModified":"2017-08-01T03:10:31.5816535Z","maxAge":60,"autoRefresh":false}

@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Antonio Loi","dateOfBirth":"1996-08-24T23:00:00.0000000Z","age":20,"position":"FW","height":177,"weight":70,"currentTeamId":9363,"currentTeamName":"Carpi","currentTeamRegionCode":"it"},"id":145931,"lastModified":"2017-08-01T03:24:53.8502869Z","maxAge":60,"autoRefresh":false}

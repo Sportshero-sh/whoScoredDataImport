@@ -1,0 +1,1 @@
+{"info":{"regionCode":"ve","regionName":"Venezuela","name":"Manuel Arteaga","dateOfBirth":"1994-06-16T23:00:00.0000000Z","age":23,"position":"FW","height":185,"weight":72,"currentTeamId":603,"currentTeamName":"Hajduk Split","currentTeamRegionCode":"hr"},"id":96287,"lastModified":"2017-08-01T03:45:11.4753717Z","maxAge":60,"autoRefresh":false}

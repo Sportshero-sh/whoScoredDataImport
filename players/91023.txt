@@ -1,0 +1,1 @@
+{"info":{"regionCode":"de","regionName":"Germany","name":"Daniel Batz","dateOfBirth":"1991-01-12T00:00:00.0000000Z","age":26,"position":"GK","height":189,"weight":84,"currentTeamId":135,"currentTeamName":"Chemnitzer FC","currentTeamRegionCode":"de"},"id":91023,"lastModified":"2017-08-01T02:30:58.0302234Z","maxAge":60,"autoRefresh":false}

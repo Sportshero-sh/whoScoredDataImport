@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Dorian Caddy","dateOfBirth":"1995-03-20T00:00:00.0000000Z","age":22,"position":"FW","height":186,"weight":87,"currentTeamId":941,"currentTeamName":"Clermont Foot","currentTeamRegionCode":"fr"},"id":302449,"lastModified":"2017-08-01T02:24:07.8547130Z","maxAge":60,"autoRefresh":false}

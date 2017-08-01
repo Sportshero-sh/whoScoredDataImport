@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Charles Vittini","dateOfBirth":"1997-09-22T23:00:00.0000000Z","age":19,"position":"D","height":156,"weight":74,"currentTeamId":940,"currentTeamName":"GFC Ajaccio","currentTeamRegionCode":"fr"},"id":299564,"lastModified":"2017-08-01T02:56:02.9637508Z","maxAge":60,"autoRefresh":false}

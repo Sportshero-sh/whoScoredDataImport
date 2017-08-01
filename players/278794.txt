@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Alessandro Giacomel","dateOfBirth":"1998-07-08T23:00:00.0000000Z","age":19,"position":"GK","currentTeamId":5548,"currentTeamName":"Pontedera","currentTeamRegionCode":"it"},"id":278794,"lastModified":"2017-08-01T03:30:05.9006432Z","maxAge":60,"autoRefresh":false}

@@ -1,0 +1,1 @@
+{"info":{"regionCode":"ru","regionName":"Russia","name":"Vyacheslav Malafeev","dateOfBirth":"1979-03-04T00:00:00.0000000Z","age":38,"position":"GK","height":185,"weight":76,"currentTeamId":560,"currentTeamName":"Zenit St. Petersburg","currentTeamRegionCode":"ru"},"id":7066,"lastModified":"2017-08-01T02:35:28.5852042Z","maxAge":60,"autoRefresh":false}

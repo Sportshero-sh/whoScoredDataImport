@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Marco Maini","dateOfBirth":"1995-04-13T23:00:00.0000000Z","age":22,"position":"D","height":178,"weight":72,"currentTeamId":1495,"currentTeamName":"Lucchese","currentTeamRegionCode":"it"},"id":118932,"lastModified":"2017-08-01T03:32:43.2440367Z","maxAge":60,"autoRefresh":false}

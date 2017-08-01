@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Fabrice Pancrate","dateOfBirth":"1980-05-01T23:00:00.0000000Z","age":37,"position":"FW","height":187,"weight":76,"currentTeamId":302,"currentTeamName":"Nantes","currentTeamRegionCode":"fr"},"id":6782,"lastModified":"2017-08-01T02:29:26.3792225Z","maxAge":60,"autoRefresh":false}

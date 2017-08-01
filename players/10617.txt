@@ -1,0 +1,1 @@
+{"info":{"regionCode":"at","regionName":"Austria","name":"Manuel Ortlechner","dateOfBirth":"1980-03-04T00:00:00.0000000Z","age":37,"position":"D(C)","height":186,"weight":81,"currentTeamId":400,"currentTeamName":"Austria Wien","currentTeamRegionCode":"at"},"id":10617,"lastModified":"2017-08-01T03:09:22.2850241Z","maxAge":60,"autoRefresh":false}

@@ -1,0 +1,1 @@
+{"info":{"regionCode":"es","regionName":"Spain","name":"Diego Caballo","dateOfBirth":"1994-02-17T00:00:00.0000000Z","age":23,"position":"D","height":170,"weight":69,"currentTeamId":55,"currentTeamName":"Valencia","currentTeamRegionCode":"es"},"id":303269,"lastModified":"2017-08-01T04:16:34.6820437Z","maxAge":60,"autoRefresh":false}

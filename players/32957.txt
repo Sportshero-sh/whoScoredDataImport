@@ -1,0 +1,1 @@
+{"info":{"regionCode":"sn","regionName":"Senegal","name":"Leyti N'Diaye","dateOfBirth":"1985-08-18T23:00:00.0000000Z","age":31,"position":"D(L)","height":188,"weight":84,"currentTeamId":3531,"currentTeamName":"FC Le Mont LS","currentTeamRegionCode":"ch"},"id":32957,"lastModified":"2017-08-01T02:58:26.2202610Z","maxAge":60,"autoRefresh":false}

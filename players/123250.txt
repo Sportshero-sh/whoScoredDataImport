@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Vincent Di Stefano","dateOfBirth":"1993-03-08T00:00:00.0000000Z","age":24,"position":"D","height":182,"weight":77,"currentTeamId":312,"currentTeamName":"Sedan","currentTeamRegionCode":"fr"},"id":123250,"lastModified":"2017-08-01T03:21:06.1968928Z","maxAge":60,"autoRefresh":false}

@@ -1,0 +1,1 @@
+{"info":{"regionCode":"tn","regionName":"Tunisia","name":"Ammar Jemal","dateOfBirth":"1987-04-19T23:00:00.0000000Z","age":30,"position":"DM(C)","height":186,"weight":81,"currentTeamId":4831,"currentTeamName":"Etoile du Sahel","currentTeamRegionCode":"tn"},"id":33717,"lastModified":"2017-08-01T03:10:53.3283001Z","maxAge":60,"autoRefresh":false}

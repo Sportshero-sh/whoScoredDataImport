@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Franck Grandel","dateOfBirth":"1978-03-17T00:00:00.0000000Z","age":39,"position":"GK","height":184,"weight":80,"currentTeamId":229,"currentTeamName":"Troyes","currentTeamRegionCode":"fr"},"id":34543,"lastModified":"2017-08-01T03:19:58.1944279Z","maxAge":60,"autoRefresh":false}

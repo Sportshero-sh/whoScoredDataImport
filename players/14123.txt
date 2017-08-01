@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Michele Paolucci","dateOfBirth":"1986-02-06T00:00:00.0000000Z","age":31,"position":"M","height":182,"weight":80,"currentTeamId":9498,"currentTeamName":"Latina","currentTeamRegionCode":"it"},"id":14123,"lastModified":"2017-08-01T02:49:13.0694587Z","maxAge":60,"autoRefresh":false}

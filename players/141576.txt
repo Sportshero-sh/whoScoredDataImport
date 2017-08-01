@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Pierre-Francois Moracchini","dateOfBirth":"1994-05-23T23:00:00.0000000Z","age":23,"position":"M","height":170,"weight":68,"currentTeamId":610,"currentTeamName":"AC Ajaccio","currentTeamRegionCode":"fr"},"id":141576,"lastModified":"2017-08-01T03:28:24.2966860Z","maxAge":60,"autoRefresh":false}

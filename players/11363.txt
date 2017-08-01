@@ -1,0 +1,1 @@
+{"info":{"regionCode":"si","regionName":"Slovenia","name":"Ales Mejac","dateOfBirth":"1983-03-18T00:00:00.0000000Z","age":34,"position":"D(L)","height":180,"weight":71,"currentTeamId":595,"currentTeamName":"Maribor","currentTeamRegionCode":"si"},"id":11363,"lastModified":"2017-08-01T04:12:14.3733489Z","maxAge":60,"autoRefresh":false}

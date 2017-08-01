@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Andrea Morello","dateOfBirth":"1997-07-15T23:00:00.0000000Z","age":20,"position":"D","currentTeamId":79,"currentTeamName":"Lecce","currentTeamRegionCode":"it"},"id":297488,"lastModified":"2017-08-01T03:55:28.6184093Z","maxAge":60,"autoRefresh":false}

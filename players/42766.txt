@@ -1,0 +1,1 @@
+{"info":{"regionCode":"es","regionName":"Spain","name":"Felipe Ramos","dateOfBirth":"1988-01-10T00:00:00.0000000Z","age":29,"position":"GK","height":186,"weight":86,"currentTeamId":55,"currentTeamName":"Valencia","currentTeamRegionCode":"es"},"id":42766,"lastModified":"2017-08-01T04:15:49.4415271Z","maxAge":60,"autoRefresh":false}

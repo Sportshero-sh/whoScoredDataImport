@@ -1,0 +1,1 @@
+{"info":{"regionCode":"pt","regionName":"Portugal","name":"Paulo César","dateOfBirth":"1980-02-05T00:00:00.0000000Z","age":37,"position":"FW","height":175,"weight":73,"currentTeamId":288,"currentTeamName":"Braga","currentTeamRegionCode":"pt"},"id":11638,"lastModified":"2017-08-01T04:11:20.6816678Z","maxAge":60,"autoRefresh":false}

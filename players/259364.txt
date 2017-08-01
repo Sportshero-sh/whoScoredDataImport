@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Alphousseyni Sane","dateOfBirth":"1996-01-17T00:00:00.0000000Z","age":21,"position":"D","height":174,"weight":68,"currentTeamId":249,"currentTeamName":"Marseille","currentTeamRegionCode":"fr"},"id":259364,"lastModified":"2017-08-01T03:29:35.3537045Z","maxAge":60,"autoRefresh":false}

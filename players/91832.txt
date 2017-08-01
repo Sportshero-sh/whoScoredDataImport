@@ -1,0 +1,1 @@
+{"info":{"regionCode":"de","regionName":"Germany","name":"Max Ehmer","dateOfBirth":"1992-02-03T00:00:00.0000000Z","age":25,"position":"D","height":188,"weight":70,"currentTeamId":191,"currentTeamName":"Gillingham","currentTeamRegionCode":"gb-eng"},"id":91832,"lastModified":"2017-08-01T03:34:58.6670802Z","maxAge":60,"autoRefresh":false}

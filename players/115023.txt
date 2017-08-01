@@ -1,0 +1,1 @@
+{"info":{"regionCode":"ru","regionName":"Russia","name":"Ilya Zuev","dateOfBirth":"1994-01-25T00:00:00.0000000Z","age":23,"position":"D","height":186,"weight":78,"currentTeamId":11090,"currentTeamName":"Zenit St. Petersburg II","currentTeamRegionCode":"ru"},"id":115023,"lastModified":"2017-08-01T03:27:41.0980891Z","maxAge":60,"autoRefresh":false}

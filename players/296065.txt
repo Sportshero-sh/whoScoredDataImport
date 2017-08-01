@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Charly Beber Serreri","dateOfBirth":"1998-11-20T00:00:00.0000000Z","age":18,"position":"GK","currentTeamId":940,"currentTeamName":"GFC Ajaccio","currentTeamRegionCode":"fr"},"id":296065,"lastModified":"2017-08-01T03:05:58.4064711Z","maxAge":60,"autoRefresh":false}

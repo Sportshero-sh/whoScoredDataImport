@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Hugo Rodriguez","dateOfBirth":"1991-04-01T23:00:00.0000000Z","age":26,"position":"M","height":177,"weight":70,"currentTeamId":950,"currentTeamName":"Reims","currentTeamRegionCode":"fr"},"id":234380,"lastModified":"2017-08-01T02:45:20.2838801Z","maxAge":60,"autoRefresh":false}

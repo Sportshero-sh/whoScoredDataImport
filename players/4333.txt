@@ -1,0 +1,1 @@
+{"info":{"regionCode":"es","regionName":"Spain","name":"Ricardo","dateOfBirth":"1971-12-30T00:00:00.0000000Z","age":45,"position":"GK","height":187,"weight":88,"currentTeamId":131,"currentTeamName":"Osasuna","currentTeamRegionCode":"es"},"id":4333,"lastModified":"2017-08-01T03:47:03.7966498Z","maxAge":60,"autoRefresh":false}

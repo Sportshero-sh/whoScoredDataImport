@@ -1,0 +1,1 @@
+{"info":{"regionCode":"eg","regionName":"Egypt","name":"Gedo","dateOfBirth":"1984-10-30T00:00:00.0000000Z","age":32,"position":"M","height":184,"weight":78,"currentTeamId":214,"currentTeamName":"Hull","currentTeamRegionCode":"gb-eng"},"id":83206,"lastModified":"2017-08-01T03:35:21.9446503Z","maxAge":60,"autoRefresh":false}

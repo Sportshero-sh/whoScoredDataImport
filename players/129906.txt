@@ -1,0 +1,1 @@
+{"info":{"regionCode":"at","regionName":"Austria","name":"Lukas Spendlhofer","dateOfBirth":"1993-06-01T23:00:00.0000000Z","age":24,"position":"D","height":187,"weight":82,"currentTeamId":390,"currentTeamName":"Sturm Graz","currentTeamRegionCode":"at"},"id":129906,"lastModified":"2017-08-01T02:49:13.0538596Z","maxAge":60,"autoRefresh":false}

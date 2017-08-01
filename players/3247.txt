@@ -1,0 +1,1 @@
+{"info":{"regionCode":"ar","regionName":"Argentina","name":"Pablo Aimar","dateOfBirth":"1979-11-03T00:00:00.0000000Z","age":37,"position":"FW","height":170,"weight":62,"currentTeamId":905,"currentTeamName":"River Plate","currentTeamRegionCode":"ar"},"id":3247,"lastModified":"2017-08-01T04:15:50.0655739Z","maxAge":60,"autoRefresh":false}

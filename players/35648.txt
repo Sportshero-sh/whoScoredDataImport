@@ -1,0 +1,1 @@
+{"info":{"regionCode":"br","regionName":"Brazil","name":"Marcos Antonio","dateOfBirth":"1983-05-24T23:00:00.0000000Z","age":34,"position":"D","height":187,"weight":87,"currentTeamId":137,"currentTeamName":"Nuernberg","currentTeamRegionCode":"de"},"id":35648,"lastModified":"2017-08-01T02:59:08.4811285Z","maxAge":60,"autoRefresh":false}

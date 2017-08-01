@@ -1,0 +1,1 @@
+{"info":{"regionCode":"de","regionName":"Germany","name":"Benjamin Köhler","dateOfBirth":"1980-08-03T23:00:00.0000000Z","age":36,"position":"D(C),M(CR),FW","height":172,"weight":66,"currentTeamId":796,"currentTeamName":"Union Berlin","currentTeamRegionCode":"de"},"id":6268,"lastModified":"2017-08-01T02:27:31.8583009Z","maxAge":60,"autoRefresh":false}

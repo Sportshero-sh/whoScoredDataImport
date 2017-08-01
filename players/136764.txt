@@ -1,0 +1,1 @@
+{"info":{"regionCode":"de","regionName":"Germany","name":"Patrick Platins","dateOfBirth":"1983-04-18T23:00:00.0000000Z","age":34,"position":"GK","height":190,"weight":86,"currentTeamId":1147,"currentTeamName":"Darmstadt","currentTeamRegionCode":"de"},"id":136764,"lastModified":"2017-08-01T02:56:25.3032591Z","maxAge":60,"autoRefresh":false}

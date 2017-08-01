@@ -1,0 +1,1 @@
+{"info":{"regionCode":"hr","regionName":"Croatia","name":"Igor Budan","dateOfBirth":"1980-04-21T23:00:00.0000000Z","age":37,"position":"AM(C),FW","height":185,"weight":80,"currentTeamId":300,"currentTeamName":"Atalanta","currentTeamRegionCode":"it"},"id":9979,"lastModified":"2017-08-01T03:07:52.2720083Z","maxAge":60,"autoRefresh":false}

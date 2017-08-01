@@ -1,0 +1,1 @@
+{"info":{"regionCode":"es","regionName":"Spain","name":"Dani Aquino","dateOfBirth":"1990-07-26T23:00:00.0000000Z","age":27,"position":"FW","height":175,"weight":69,"currentTeamId":57,"currentTeamName":"Numancia","currentTeamRegionCode":"es"},"id":44587,"lastModified":"2017-08-01T03:52:28.0619498Z","maxAge":60,"autoRefresh":false}

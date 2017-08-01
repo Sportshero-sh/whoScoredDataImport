@@ -1,0 +1,1 @@
+{"info":{"regionCode":"ar","regionName":"Argentina","name":"Santiago Morero","dateOfBirth":"1982-04-17T23:00:00.0000000Z","age":35,"position":"D(CL)","height":183,"weight":81,"currentTeamId":2891,"currentTeamName":"Juve Stabia","currentTeamRegionCode":"it"},"id":36101,"lastModified":"2017-08-01T03:32:42.6512303Z","maxAge":60,"autoRefresh":false}

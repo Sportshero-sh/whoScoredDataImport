@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Mathias Llambrich","dateOfBirth":"1993-02-06T00:00:00.0000000Z","age":24,"position":"M","height":178,"weight":76,"currentTeamId":3574,"currentTeamName":"Sainte Genevieve","currentTeamRegionCode":"fr"},"id":122184,"lastModified":"2017-08-01T03:42:08.2200798Z","maxAge":60,"autoRefresh":false}

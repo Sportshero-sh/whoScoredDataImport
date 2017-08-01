@@ -1,0 +1,1 @@
+{"info":{"regionCode":"bg","regionName":"Bulgaria","name":"Georgi Terziev","dateOfBirth":"1992-04-17T23:00:00.0000000Z","age":25,"position":"D(C)","height":183,"weight":76,"currentTeamId":9449,"currentTeamName":"Ludogorets Razgrad","currentTeamRegionCode":"bg"},"id":84199,"lastModified":"2017-08-01T02:35:06.7594234Z","maxAge":60,"autoRefresh":false}

@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Simon Lefebvre","dateOfBirth":"1997-05-05T23:00:00.0000000Z","age":20,"position":"GK","height":203,"weight":91,"currentTeamId":989,"currentTeamName":"Forest Green","currentTeamRegionCode":"gb-eng"},"id":291950,"lastModified":"2017-08-01T04:04:56.4143502Z","maxAge":60,"autoRefresh":false}

@@ -1,0 +1,1 @@
+{"info":{"regionCode":"es","regionName":"Spain","name":"De Amo","dateOfBirth":"1990-01-13T00:00:00.0000000Z","age":27,"position":"M","height":190,"weight":81,"currentTeamId":995,"currentTeamName":"Widzew Lodz","currentTeamRegionCode":"pl"},"id":129658,"lastModified":"2017-08-01T03:58:30.5476840Z","maxAge":60,"autoRefresh":false}

@@ -1,0 +1,1 @@
+{"info":{"regionCode":"gb-eng","regionName":"England","name":"Kevin Phillips","dateOfBirth":"1973-07-24T23:00:00.0000000Z","age":44,"position":"FW","height":170,"weight":69,"currentTeamId":14,"currentTeamName":"Leicester","currentTeamRegionCode":"gb-eng"},"id":6,"lastModified":"2017-08-01T03:12:02.9978843Z","maxAge":60,"autoRefresh":false}

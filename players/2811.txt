@@ -1,0 +1,1 @@
+{"info":{"regionCode":"cl","regionName":"Chile","name":"Pablo Contreras","dateOfBirth":"1978-09-10T23:00:00.0000000Z","age":38,"position":"D(C)","height":178,"weight":74,"currentTeamId":2876,"currentTeamName":"Melbourne Victory","currentTeamRegionCode":"au"},"id":2811,"lastModified":"2017-08-01T03:56:51.7952627Z","maxAge":60,"autoRefresh":false}

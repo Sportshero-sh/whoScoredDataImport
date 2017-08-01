@@ -1,0 +1,1 @@
+{"info":{"regionCode":"de","regionName":"Germany","name":"Torben Rehfeldt","dateOfBirth":"1993-08-06T23:00:00.0000000Z","age":23,"position":"D","height":193,"weight":85,"currentTeamId":1140,"currentTeamName":"Aalen","currentTeamRegionCode":"de"},"id":140151,"lastModified":"2017-08-01T03:08:37.2941178Z","maxAge":60,"autoRefresh":false}

@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Denis Bouanga","dateOfBirth":"1994-11-11T00:00:00.0000000Z","age":22,"position":"M","height":180,"weight":71,"currentTeamId":146,"currentTeamName":"Lorient","currentTeamRegionCode":"fr"},"id":249857,"lastModified":"2017-08-01T02:35:56.1496434Z","maxAge":60,"autoRefresh":false}

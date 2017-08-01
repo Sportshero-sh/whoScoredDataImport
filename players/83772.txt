@@ -1,0 +1,1 @@
+{"info":{"regionName":"Undefined","name":"Olivier Vannucci","dateOfBirth":"1991-11-27T00:00:00.0000000Z","age":25,"position":"D","height":188,"weight":77,"currentTeamId":10731,"currentTeamName":"Borgo FC","currentTeamRegionCode":"fr"},"id":83772,"lastModified":"2017-08-01T03:20:20.8471768Z","maxAge":60,"autoRefresh":false}

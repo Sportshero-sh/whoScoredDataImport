@@ -1,0 +1,1 @@
+{"info":{"regionCode":"sn","regionName":"Senegal","name":"Abou Diop","dateOfBirth":"1993-10-05T23:00:00.0000000Z","age":23,"position":"FW","height":185,"weight":76,"currentTeamId":5550,"currentTeamName":"Bassano Virtus","currentTeamRegionCode":"it"},"id":118167,"lastModified":"2017-08-01T03:24:07.9701643Z","maxAge":60,"autoRefresh":false}

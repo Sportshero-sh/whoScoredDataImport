@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Davide Di Molfetta","dateOfBirth":"1996-06-22T23:00:00.0000000Z","age":21,"position":"FW","height":176,"weight":70,"currentTeamId":80,"currentTeamName":"AC Milan","currentTeamRegionCode":"it"},"id":141870,"lastModified":"2017-08-01T02:55:17.8636882Z","maxAge":60,"autoRefresh":false}

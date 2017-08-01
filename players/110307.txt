@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Wesley Jobello","dateOfBirth":"1994-01-23T00:00:00.0000000Z","age":23,"position":"M","height":179,"weight":68,"currentTeamId":941,"currentTeamName":"Clermont Foot","currentTeamRegionCode":"fr"},"id":110307,"lastModified":"2017-08-01T02:58:18.8568264Z","maxAge":60,"autoRefresh":false}

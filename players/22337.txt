@@ -1,0 +1,1 @@
+{"info":{"regionCode":"ci","regionName":"Ivory Coast","name":"Franck Dja Djedje","dateOfBirth":"1986-06-01T23:00:00.0000000Z","age":31,"position":"M(L)","height":176,"weight":72,"currentTeamId":2098,"currentTeamName":"Irtysh Pavlodar","currentTeamRegionCode":"kz"},"id":22337,"lastModified":"2017-08-01T02:26:23.7166618Z","maxAge":60,"autoRefresh":false}

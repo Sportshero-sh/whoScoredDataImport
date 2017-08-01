@@ -1,0 +1,1 @@
+{"info":{"regionCode":"gb-sct","regionName":"Scotland","name":"Neil Alexander","dateOfBirth":"1978-03-10T00:00:00.0000000Z","age":39,"position":"GK","height":185,"weight":73,"currentTeamId":105,"currentTeamName":"Aberdeen","currentTeamRegionCode":"gb-sct"},"id":9110,"lastModified":"2017-08-01T03:15:24.7391560Z","maxAge":60,"autoRefresh":false}

@@ -1,0 +1,1 @@
+{"info":{"regionCode":"mg","regionName":"Madagascar","name":"Stéphan Raheriharimanana","dateOfBirth":"1993-08-15T23:00:00.0000000Z","age":23,"position":"M","height":168,"weight":64,"currentTeamId":216,"currentTeamName":"Red Star","currentTeamRegionCode":"fr"},"id":127135,"lastModified":"2017-08-01T02:24:14.1433253Z","maxAge":60,"autoRefresh":false}

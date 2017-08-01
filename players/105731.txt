@@ -1,0 +1,1 @@
+{"info":{"regionCode":"be","regionName":"Belgium","name":"Florent Cuvelier","dateOfBirth":"1992-09-11T23:00:00.0000000Z","age":24,"position":"M","height":182,"weight":72,"currentTeamId":173,"currentTeamName":"Walsall","currentTeamRegionCode":"gb-eng"},"id":105731,"lastModified":"2017-08-01T03:34:58.3706764Z","maxAge":60,"autoRefresh":false}

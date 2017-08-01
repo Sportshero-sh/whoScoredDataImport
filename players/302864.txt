@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Corentin Tirard","dateOfBirth":"1995-10-17T23:00:00.0000000Z","age":21,"position":"M","height":175,"weight":65,"currentTeamId":248,"currentTeamName":"Monaco","currentTeamRegionCode":"fr"},"id":302864,"lastModified":"2017-08-01T02:56:02.8077609Z","maxAge":60,"autoRefresh":false}

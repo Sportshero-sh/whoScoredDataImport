@@ -1,0 +1,1 @@
+{"info":{"regionName":"Undefined","name":"Richard Boateng","dateOfBirth":"1992-07-09T23:00:00.0000000Z","age":25,"position":"M","height":178,"weight":66,"currentTeamId":925,"currentTeamName":"Granada","currentTeamRegionCode":"es"},"id":107040,"lastModified":"2017-08-01T04:03:24.0494303Z","maxAge":60,"autoRefresh":false}

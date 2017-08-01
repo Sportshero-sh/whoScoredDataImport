@@ -1,0 +1,1 @@
+{"info":{"regionCode":"es","regionName":"Spain","name":"Albert Crusat","dateOfBirth":"1982-05-12T23:00:00.0000000Z","age":35,"position":"M(CL),FW","height":165,"weight":65,"currentTeamId":194,"currentTeamName":"Wigan","currentTeamRegionCode":"gb-eng"},"id":22735,"lastModified":"2017-08-01T03:07:06.4075268Z","maxAge":60,"autoRefresh":false}

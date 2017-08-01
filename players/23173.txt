@@ -1,0 +1,1 @@
+{"info":{"regionCode":"at","regionName":"Austria","name":"Tomas Simkovic","dateOfBirth":"1987-04-15T23:00:00.0000000Z","age":30,"position":"M","height":175,"weight":73,"currentTeamId":400,"currentTeamName":"Austria Wien","currentTeamRegionCode":"at"},"id":23173,"lastModified":"2017-08-01T04:10:12.6805292Z","maxAge":60,"autoRefresh":false}

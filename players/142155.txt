@@ -1,0 +1,1 @@
+{"info":{"regionCode":"sn","regionName":"Senegal","name":"Moussa Gueye","dateOfBirth":"1989-02-20T00:00:00.0000000Z","age":28,"position":"FW","height":185,"weight":78,"currentTeamId":5747,"currentTeamName":"Seraing United","currentTeamRegionCode":"be"},"id":142155,"lastModified":"2017-08-01T02:42:40.8501421Z","maxAge":60,"autoRefresh":false}

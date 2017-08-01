@@ -1,0 +1,1 @@
+{"info":{"regionCode":"lv","regionName":"Latvia","name":"Aleksandrs Cauna","dateOfBirth":"1988-01-19T00:00:00.0000000Z","age":29,"position":"DM(C)","height":174,"weight":66,"currentTeamId":847,"currentTeamName":"CSKA Moscow","currentTeamRegionCode":"ru"},"id":28142,"lastModified":"2017-08-01T03:22:40.0617278Z","maxAge":60,"autoRefresh":false}

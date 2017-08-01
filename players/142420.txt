@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Gabriele Moncini","dateOfBirth":"1996-04-25T23:00:00.0000000Z","age":21,"position":"FW","height":180,"weight":75,"currentTeamId":265,"currentTeamName":"Cesena","currentTeamRegionCode":"it"},"id":142420,"lastModified":"2017-08-01T03:05:36.0825778Z","maxAge":60,"autoRefresh":false}

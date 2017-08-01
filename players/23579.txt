@@ -1,0 +1,1 @@
+{"info":{"regionCode":"ml","regionName":"Mali","name":"Garra Dembélé","dateOfBirth":"1986-02-21T00:00:00.0000000Z","age":31,"position":"FW","height":187,"weight":79,"currentTeamId":50,"currentTeamName":"Freiburg","currentTeamRegionCode":"de"},"id":23579,"lastModified":"2017-08-01T03:26:23.8321130Z","maxAge":60,"autoRefresh":false}

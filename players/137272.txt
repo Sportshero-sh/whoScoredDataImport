@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Jonathan Beaulieu","dateOfBirth":"1993-03-11T00:00:00.0000000Z","age":24,"position":"M","height":180,"weight":65,"currentTeamId":9902,"currentTeamName":"US Granvillaise","currentTeamRegionCode":"fr"},"id":137272,"lastModified":"2017-08-01T03:38:00.0969840Z","maxAge":60,"autoRefresh":false}

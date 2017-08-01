@@ -1,0 +1,1 @@
+{"info":{"regionCode":"gb-eng","regionName":"England","name":"Charlie Colkett","dateOfBirth":"1996-09-03T23:00:00.0000000Z","age":20,"position":"M","height":176,"weight":74,"currentTeamId":159,"currentTeamName":"Swindon","currentTeamRegionCode":"gb-eng"},"id":315542,"lastModified":"2017-08-01T03:25:40.3996197Z","maxAge":60,"autoRefresh":false}

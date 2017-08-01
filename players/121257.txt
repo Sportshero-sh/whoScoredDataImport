@@ -1,0 +1,1 @@
+{"info":{"regionCode":"ch","regionName":"Switzerland","name":"Andelko Savic","dateOfBirth":"1993-03-11T00:00:00.0000000Z","age":24,"position":"FW","height":188,"weight":70,"currentTeamId":592,"currentTeamName":"FC Wil 1900","currentTeamRegionCode":"ch"},"id":121257,"lastModified":"2017-08-01T02:48:46.7207825Z","maxAge":60,"autoRefresh":false}

@@ -1,0 +1,1 @@
+{"info":{"regionCode":"pa","regionName":"Panama","name":"Roberto Chen","dateOfBirth":"1994-05-23T23:00:00.0000000Z","age":23,"position":"D","height":182,"weight":80,"currentTeamId":6709,"currentTeamName":"CD Arabe Unido","currentTeamRegionCode":"pa"},"id":135096,"lastModified":"2017-08-01T02:50:37.3880721Z","maxAge":60,"autoRefresh":false}

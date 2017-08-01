@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Zana Allée","dateOfBirth":"1994-03-01T00:00:00.0000000Z","age":23,"position":"M","height":164,"weight":63,"currentTeamId":610,"currentTeamName":"AC Ajaccio","currentTeamRegionCode":"fr"},"id":134881,"lastModified":"2017-08-01T02:29:25.0532098Z","maxAge":60,"autoRefresh":false}

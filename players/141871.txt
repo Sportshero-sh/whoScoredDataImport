@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Jeffrey Assoumin","dateOfBirth":"1993-02-05T00:00:00.0000000Z","age":24,"position":"M","height":173,"weight":67,"currentTeamId":311,"currentTeamName":"Montpellier","currentTeamRegionCode":"fr"},"id":141871,"lastModified":"2017-08-01T02:40:46.7965642Z","maxAge":60,"autoRefresh":false}

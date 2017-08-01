@@ -1,0 +1,1 @@
+{"info":{"regionCode":"es","regionName":"Spain","name":"Carlos Selfa","dateOfBirth":"1992-04-24T23:00:00.0000000Z","age":25,"position":"M","height":182,"weight":78,"currentTeamId":1799,"currentTeamName":"Almeria","currentTeamRegionCode":"es"},"id":254323,"lastModified":"2017-08-01T02:52:39.4440280Z","maxAge":60,"autoRefresh":false}

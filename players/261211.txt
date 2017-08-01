@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Quentin Cornette","dateOfBirth":"1994-01-17T00:00:00.0000000Z","age":23,"position":"FW","height":172,"weight":74,"currentTeamId":151,"currentTeamName":"Amiens","currentTeamRegionCode":"fr"},"id":261211,"lastModified":"2017-08-01T03:25:38.7944559Z","maxAge":60,"autoRefresh":false}

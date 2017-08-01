@@ -1,0 +1,1 @@
+{"info":{"regionCode":"by","regionName":"Belarus","name":"Dmitri Likhtarovich","dateOfBirth":"1978-03-01T00:00:00.0000000Z","age":39,"position":"DM(C)","height":180,"weight":75,"currentTeamId":569,"currentTeamName":"BATE Borisov","currentTeamRegionCode":"by"},"id":28429,"lastModified":"2017-08-01T03:56:13.2037139Z","maxAge":60,"autoRefresh":false}

@@ -1,0 +1,1 @@
+{"info":{"regionCode":"cm","regionName":"Cameroon","name":"Somen Tchoyi","dateOfBirth":"1983-01-29T00:00:00.0000000Z","age":34,"position":"M(C)","height":190,"weight":90,"currentTeamId":9221,"currentTeamName":"SV Austria Salzburg","currentTeamRegionCode":"at"},"id":14969,"lastModified":"2017-08-01T03:07:29.5894514Z","maxAge":60,"autoRefresh":false}

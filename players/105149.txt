@@ -1,0 +1,1 @@
+{"info":{"regionCode":"sn","regionName":"Senegal","name":"Papa Demba Camara","dateOfBirth":"1993-01-16T00:00:00.0000000Z","age":24,"position":"GK","height":195,"weight":74,"currentTeamId":976,"currentTeamName":"Grenoble","currentTeamRegionCode":"fr"},"id":105149,"lastModified":"2017-08-01T02:49:29.0124581Z","maxAge":60,"autoRefresh":false}

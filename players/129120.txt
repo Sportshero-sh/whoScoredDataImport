@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Marco Vittiglio","dateOfBirth":"1994-01-17T00:00:00.0000000Z","age":23,"position":"D","height":179,"weight":70,"currentTeamId":277,"currentTeamName":"Pescara","currentTeamRegionCode":"it"},"id":129120,"lastModified":"2017-08-01T04:06:53.2751795Z","maxAge":60,"autoRefresh":false}

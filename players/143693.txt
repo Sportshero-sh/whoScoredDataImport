@@ -1,0 +1,1 @@
+{"info":{"regionCode":"ch","regionName":"Switzerland","name":"Albian Ajeti","dateOfBirth":"1997-02-26T00:00:00.0000000Z","age":20,"position":"FW","height":183,"weight":77,"currentTeamId":362,"currentTeamName":"FC St. Gallen","currentTeamRegionCode":"ch"},"id":143693,"lastModified":"2017-08-01T02:36:39.6429478Z","maxAge":60,"autoRefresh":false}

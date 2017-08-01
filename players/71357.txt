@@ -1,0 +1,1 @@
+{"info":{"regionCode":"br","regionName":"Brazil","name":"Carlão","dateOfBirth":"1986-07-31T23:00:00.0000000Z","age":31,"position":"FW","height":190,"weight":78,"currentTeamId":935,"currentTeamName":"Famalicao","currentTeamRegionCode":"pt"},"id":71357,"lastModified":"2017-08-01T04:15:49.7535317Z","maxAge":60,"autoRefresh":false}

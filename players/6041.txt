@@ -1,0 +1,1 @@
+{"info":{"regionCode":"dk","regionName":"Denmark","name":"Kasper Lorentzen","dateOfBirth":"1985-11-19T00:00:00.0000000Z","age":31,"position":"M","height":180,"weight":75,"currentTeamId":404,"currentTeamName":"FC Nordsjaelland","currentTeamRegionCode":"dk"},"id":6041,"lastModified":"2017-08-01T04:02:40.8645636Z","maxAge":60,"autoRefresh":false}

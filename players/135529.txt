@@ -1,0 +1,1 @@
+{"info":{"regionCode":"es","regionName":"Spain","name":"Daniel Iglesias","dateOfBirth":"1995-07-16T23:00:00.0000000Z","age":22,"position":"FW","height":175,"weight":71,"currentTeamId":6173,"currentTeamName":"Guadalajara","currentTeamRegionCode":"es"},"id":135529,"lastModified":"2017-08-01T02:52:30.8482171Z","maxAge":60,"autoRefresh":false}

@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Gianluca Grava","dateOfBirth":"1977-03-07T00:00:00.0000000Z","age":40,"position":"D(C),M(R)","height":172,"weight":68,"currentTeamId":276,"currentTeamName":"Napoli","currentTeamRegionCode":"it"},"id":22093,"lastModified":"2017-08-01T02:49:09.6530694Z","maxAge":60,"autoRefresh":false}

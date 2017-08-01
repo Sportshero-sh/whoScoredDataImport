@@ -1,0 +1,1 @@
+{"info":{"regionCode":"gb-eng","regionName":"England","name":"Mason Springthorpe","dateOfBirth":"1994-11-01T00:00:00.0000000Z","age":22,"position":"GK","height":188,"weight":72,"currentTeamId":919,"currentTeamName":"Southport","currentTeamRegionCode":"gb-eng"},"id":127123,"lastModified":"2017-08-01T03:12:02.6555800Z","maxAge":60,"autoRefresh":false}

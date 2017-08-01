@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Manuel Nicoletti","dateOfBirth":"1998-12-09T00:00:00.0000000Z","age":18,"position":"D","height":180,"weight":73,"currentTeamId":779,"currentTeamName":"Crotone","currentTeamRegionCode":"it"},"id":254586,"lastModified":"2017-07-31T10:17:52.9054966Z","maxAge":60,"autoRefresh":false}

@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Abdallah Yaisien","dateOfBirth":"1994-05-22T23:00:00.0000000Z","age":23,"position":"M","height":173,"weight":74,"currentTeamId":9362,"currentTeamName":"Trapani","currentTeamRegionCode":"it"},"id":130943,"lastModified":"2017-08-01T03:24:54.6755390Z","maxAge":60,"autoRefresh":false}

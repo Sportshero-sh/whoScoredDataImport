@@ -1,0 +1,1 @@
+{"info":{"regionCode":"sk","regionName":"Slovakia","name":"Pavol Bajza","dateOfBirth":"1991-09-03T23:00:00.0000000Z","age":25,"position":"GK","height":195,"weight":89,"currentTeamId":2760,"currentTeamName":"Zavrc","currentTeamRegionCode":"si"},"id":76416,"lastModified":"2017-08-01T02:44:34.5279001Z","maxAge":60,"autoRefresh":false}

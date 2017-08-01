@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Thibaut Peyre","dateOfBirth":"1993-10-02T23:00:00.0000000Z","age":23,"position":"D","height":182,"weight":70,"currentTeamId":10310,"currentTeamName":"Royal Excel Mouscron","currentTeamRegionCode":"be"},"id":115688,"lastModified":"2017-08-01T04:17:23.8694073Z","maxAge":60,"autoRefresh":false}

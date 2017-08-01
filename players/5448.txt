@@ -1,0 +1,1 @@
+{"info":{"regionCode":"by","regionName":"Belarus","name":"Roman Vasilyuk","dateOfBirth":"1978-11-23T00:00:00.0000000Z","age":38,"position":"FW","height":177,"weight":71,"currentTeamId":4212,"currentTeamName":"FC Minsk","currentTeamRegionCode":"by"},"id":5448,"lastModified":"2017-08-01T04:11:25.2796378Z","maxAge":60,"autoRefresh":false}

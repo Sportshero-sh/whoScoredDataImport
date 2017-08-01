@@ -1,0 +1,1 @@
+{"info":{"regionCode":"gb-sct","regionName":"Scotland","name":"Adam King","dateOfBirth":"1995-10-10T23:00:00.0000000Z","age":21,"position":"M","height":180,"weight":75,"currentTeamId":208,"currentTeamName":"Southend","currentTeamRegionCode":"gb-eng"},"id":149101,"lastModified":"2017-08-01T03:57:44.2931534Z","maxAge":60,"autoRefresh":false}

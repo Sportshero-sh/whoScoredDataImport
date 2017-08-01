@@ -1,0 +1,1 @@
+{"info":{"regionCode":"es","regionName":"Spain","name":"Txusta","dateOfBirth":"1986-04-29T23:00:00.0000000Z","age":31,"position":"GK","height":183,"weight":84,"currentTeamId":3486,"currentTeamName":"Real Union","currentTeamRegionCode":"es"},"id":130374,"lastModified":"2017-08-01T02:44:11.6112372Z","maxAge":60,"autoRefresh":false}

@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Marco Toscano","dateOfBirth":"1997-07-06T23:00:00.0000000Z","age":20,"position":"M","height":170,"weight":64,"currentTeamId":1285,"currentTeamName":"Palermo","currentTeamRegionCode":"it"},"id":301070,"lastModified":"2017-08-01T03:43:38.5295482Z","maxAge":60,"autoRefresh":false}

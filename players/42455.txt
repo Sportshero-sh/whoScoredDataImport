@@ -1,0 +1,1 @@
+{"info":{"regionCode":"hr","regionName":"Croatia","name":"Kaja Rogulj","dateOfBirth":"1986-06-14T23:00:00.0000000Z","age":31,"position":"D","height":189,"weight":87,"currentTeamId":3531,"currentTeamName":"FC Le Mont LS","currentTeamRegionCode":"ch"},"id":42455,"lastModified":"2017-08-01T03:09:21.9261857Z","maxAge":60,"autoRefresh":false}

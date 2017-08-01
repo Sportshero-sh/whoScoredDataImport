@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Felice Piccolo","dateOfBirth":"1983-08-26T23:00:00.0000000Z","age":33,"position":"D(C)","height":187,"weight":83,"currentTeamId":5855,"currentTeamName":"Alessandria","currentTeamRegionCode":"it"},"id":10370,"lastModified":"2017-08-01T04:11:19.4181128Z","maxAge":60,"autoRefresh":false}

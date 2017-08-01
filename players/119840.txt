@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Alessandro Favaro","dateOfBirth":"1995-07-17T23:00:00.0000000Z","age":22,"position":"GK","height":189,"weight":79,"currentTeamId":19397,"currentTeamName":"Calcio Padova","currentTeamRegionCode":"it"},"id":119840,"lastModified":"2017-08-01T04:01:53.4903952Z","maxAge":60,"autoRefresh":false}

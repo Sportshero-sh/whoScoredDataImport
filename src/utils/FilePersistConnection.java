@@ -5,11 +5,38 @@ import ws.Player;
 import ws.Team;
 
 import java.io.*;
+import java.util.ArrayList;
 
 /**
  * Created by zhengyu on 10/07/2017.
  */
 public class FilePersistConnection {
+
+    public boolean isStageExist(int id) {
+        File file = new File("stages/" + id + ".txt");
+        return file.exists();
+    }
+
+    public void persistStage(int id, String responseString) {
+        persistToFile(responseString, "stages/" + id + ".txt");
+    }
+
+    public String getStage(int id) {
+        return getFromFile("stages/" + id + ".txt");
+    }
+
+    public ArrayList<String> getAllStages() {
+        ArrayList<String> stages = new ArrayList<>();
+        File folder = new File("stages");
+        for (File f : folder.listFiles()) {
+            if (f.toString().endsWith("txt")) {
+                stages.add(getFromFile(f.toString()));
+            }
+        }
+
+        return stages;
+    }
+
 
     public boolean isMatchExist(int id) {
         File file = new File("matches/" + id + ".txt");

@@ -1,0 +1,1 @@
+{"info":{"regionCode":"ru","regionName":"Russia","name":"Sergei Semak","dateOfBirth":"1976-02-27T00:00:00.0000000Z","age":41,"position":"AM(R)","height":178,"weight":73,"currentTeamId":560,"currentTeamName":"Zenit St. Petersburg","currentTeamRegionCode":"ru"},"id":3606,"lastModified":"2017-08-01T04:02:40.8489296Z","maxAge":60,"autoRefresh":false}

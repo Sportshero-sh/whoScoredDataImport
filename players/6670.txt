@@ -1,0 +1,1 @@
+{"info":{"regionCode":"de","regionName":"Germany","name":"Patrick Helmes","dateOfBirth":"1984-03-01T00:00:00.0000000Z","age":33,"position":"AM(L),FW","height":182,"weight":82,"currentTeamId":282,"currentTeamName":"FC Cologne","currentTeamRegionCode":"de"},"id":6670,"lastModified":"2017-08-01T03:55:44.4649559Z","maxAge":60,"autoRefresh":false}

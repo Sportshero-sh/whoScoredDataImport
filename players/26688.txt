@@ -1,0 +1,1 @@
+{"info":{"regionCode":"cz","regionName":"Czech Republic","name":"Pavel Horváth","dateOfBirth":"1975-04-21T23:00:00.0000000Z","age":42,"position":"M(C)","height":178,"weight":80,"currentTeamId":1076,"currentTeamName":"Viktoria Plzen","currentTeamRegionCode":"cz"},"id":26688,"lastModified":"2017-08-01T04:10:12.5868881Z","maxAge":60,"autoRefresh":false}

@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Andrea Campagnolo","dateOfBirth":"1978-06-16T23:00:00.0000000Z","age":39,"position":"GK","height":184,"weight":76,"currentTeamId":265,"currentTeamName":"Cesena","currentTeamRegionCode":"it"},"id":17951,"lastModified":"2017-08-01T03:42:32.4758422Z","maxAge":60,"autoRefresh":false}

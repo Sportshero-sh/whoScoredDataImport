@@ -1,0 +1,1 @@
+{"info":{"regionCode":"de","regionName":"Germany","name":"Marc Ziegler","dateOfBirth":"1976-06-12T23:00:00.0000000Z","age":41,"position":"GK","height":193,"weight":92,"currentTeamId":41,"currentTeamName":"VfB Stuttgart","currentTeamRegionCode":"de"},"id":5760,"lastModified":"2017-08-01T02:38:57.2988527Z","maxAge":60,"autoRefresh":false}

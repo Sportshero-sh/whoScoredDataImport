@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Mattia Maggio","dateOfBirth":"1994-02-22T00:00:00.0000000Z","age":23,"position":"FW","height":184,"weight":78,"currentTeamId":38,"currentTeamName":"Hamburger SV","currentTeamRegionCode":"de"},"id":113999,"lastModified":"2017-08-01T03:08:37.7159539Z","maxAge":60,"autoRefresh":false}

@@ -1,0 +1,1 @@
+{"info":{"regionCode":"gb-eng","regionName":"England","name":"Cameron Brannagan","dateOfBirth":"1996-05-08T23:00:00.0000000Z","age":21,"position":"M","height":180,"weight":71,"currentTeamId":3936,"currentTeamName":"Fleetwood","currentTeamRegionCode":"gb-eng"},"id":141513,"lastModified":"2017-08-01T03:29:34.5269408Z","maxAge":60,"autoRefresh":false}

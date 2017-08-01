@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Stefano Pellini","dateOfBirth":"1997-08-05T23:00:00.0000000Z","age":19,"position":"M","height":175,"currentTeamId":13684,"currentTeamName":"Tuttocuoio","currentTeamRegionCode":"it"},"id":300941,"lastModified":"2017-08-01T03:06:45.0353456Z","maxAge":60,"autoRefresh":false}

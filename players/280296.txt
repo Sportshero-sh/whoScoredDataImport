@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Marco Soprano","dateOfBirth":"1996-01-25T00:00:00.0000000Z","age":21,"position":"D","currentTeamId":5550,"currentTeamName":"Bassano Virtus","currentTeamRegionCode":"it"},"id":280296,"lastModified":"2017-08-01T03:05:33.8210578Z","maxAge":60,"autoRefresh":false}

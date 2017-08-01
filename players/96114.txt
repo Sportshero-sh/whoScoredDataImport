@@ -1,0 +1,1 @@
+{"info":{"regionCode":"cr","regionName":"Costa Rica","name":"Erick Cabalceta","dateOfBirth":"1993-01-09T00:00:00.0000000Z","age":24,"position":"D","height":185,"weight":85,"currentTeamId":3567,"currentTeamName":"Deportivo Saprissa","currentTeamRegionCode":"cr"},"id":96114,"lastModified":"2017-08-01T03:18:51.0214300Z","maxAge":60,"autoRefresh":false}

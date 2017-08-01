@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Samuele Massolo","dateOfBirth":"1996-05-03T23:00:00.0000000Z","age":21,"position":"GK","height":185,"weight":76,"currentTeamId":271,"currentTeamName":"Sampdoria","currentTeamRegionCode":"it"},"id":241013,"lastModified":"2017-08-01T03:41:46.2213599Z","maxAge":60,"autoRefresh":false}

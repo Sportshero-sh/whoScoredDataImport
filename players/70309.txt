@@ -1,0 +1,1 @@
+{"info":{"regionCode":"gb-sct","regionName":"Scotland","name":"Jamie Ness","dateOfBirth":"1991-03-02T00:00:00.0000000Z","age":26,"position":"M","height":177,"weight":70,"currentTeamId":186,"currentTeamName":"Scunthorpe","currentTeamRegionCode":"gb-eng"},"id":70309,"lastModified":"2017-08-01T03:07:06.1735240Z","maxAge":60,"autoRefresh":false}

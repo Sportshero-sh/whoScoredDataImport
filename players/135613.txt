@@ -1,0 +1,1 @@
+{"info":{"regionCode":"es","regionName":"Spain","name":"Javi Rey","dateOfBirth":"1991-02-20T00:00:00.0000000Z","age":26,"position":"M","height":183,"weight":76,"currentTeamId":1356,"currentTeamName":"Logrones","currentTeamRegionCode":"es"},"id":135613,"lastModified":"2017-08-01T03:42:54.1912713Z","maxAge":60,"autoRefresh":false}

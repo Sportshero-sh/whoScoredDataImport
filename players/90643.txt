@@ -1,0 +1,1 @@
+{"info":{"regionCode":"es","regionName":"Spain","name":"Roman Golobart","dateOfBirth":"1992-03-21T00:00:00.0000000Z","age":25,"position":"D","height":193,"weight":89,"currentTeamId":813,"currentTeamName":"Erzgebirge Aue","currentTeamRegionCode":"de"},"id":90643,"lastModified":"2017-08-01T03:23:48.7024918Z","maxAge":60,"autoRefresh":false}

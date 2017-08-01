@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Abdou Aziz Thiam","dateOfBirth":"1997-01-15T00:00:00.0000000Z","age":20,"position":"M","height":180,"weight":65,"currentTeamId":248,"currentTeamName":"Monaco","currentTeamRegionCode":"fr"},"id":245644,"lastModified":"2017-08-01T03:34:13.2862021Z","maxAge":60,"autoRefresh":false}

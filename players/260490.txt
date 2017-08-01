@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Julien Benhaim","dateOfBirth":"1996-10-24T23:00:00.0000000Z","age":20,"position":"D","height":180,"weight":75,"currentTeamId":310,"currentTeamName":"SC Bastia","currentTeamRegionCode":"fr"},"id":260490,"lastModified":"2017-08-01T02:56:03.8218505Z","maxAge":60,"autoRefresh":false}

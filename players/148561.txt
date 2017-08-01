@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Jordan Boy","dateOfBirth":"1994-03-20T00:00:00.0000000Z","age":23,"position":"D","height":185,"weight":75,"currentTeamId":873,"currentTeamName":"Louhans Cuiseaux","currentTeamRegionCode":"fr"},"id":148561,"lastModified":"2017-08-01T03:19:12.5171482Z","maxAge":60,"autoRefresh":false}

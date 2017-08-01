@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Sébastien Grax","dateOfBirth":"1984-06-22T23:00:00.0000000Z","age":33,"position":"FW","height":180,"weight":78,"currentTeamId":229,"currentTeamName":"Troyes","currentTeamRegionCode":"fr"},"id":11911,"lastModified":"2017-08-01T03:10:53.3128209Z","maxAge":60,"autoRefresh":false}

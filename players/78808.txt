@@ -1,0 +1,1 @@
+{"info":{"regionCode":"th","regionName":"Thailand","name":"Teerasil Dangda","dateOfBirth":"1988-06-05T23:00:00.0000000Z","age":29,"position":"FW","height":182,"weight":74,"currentTeamId":7117,"currentTeamName":"Muang Thong United","currentTeamRegionCode":"th"},"id":78808,"lastModified":"2017-08-01T02:34:17.0741358Z","maxAge":60,"autoRefresh":false}

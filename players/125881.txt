@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Matteo Colombi","dateOfBirth":"1994-06-12T23:00:00.0000000Z","age":23,"position":"FW","height":189,"weight":86,"currentTeamId":83,"currentTeamName":"Piacenza","currentTeamRegionCode":"it"},"id":125881,"lastModified":"2017-08-01T02:49:09.9803051Z","maxAge":60,"autoRefresh":false}

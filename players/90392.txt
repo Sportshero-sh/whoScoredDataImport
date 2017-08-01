@@ -1,0 +1,1 @@
+{"info":{"regionCode":"km","regionName":"Comoros","name":"Ali M'Madi","dateOfBirth":"1990-04-20T23:00:00.0000000Z","age":27,"position":"FW","height":178,"weight":71,"currentTeamId":940,"currentTeamName":"GFC Ajaccio","currentTeamRegionCode":"fr"},"id":90392,"lastModified":"2017-08-01T04:17:23.7914030Z","maxAge":60,"autoRefresh":false}

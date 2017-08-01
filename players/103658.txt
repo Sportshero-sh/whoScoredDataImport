@@ -1,0 +1,1 @@
+{"info":{"regionCode":"tr","regionName":"Turkey","name":"Aykut Özer","dateOfBirth":"1993-01-01T00:00:00.0000000Z","age":24,"position":"GK","height":189,"weight":80,"currentTeamId":2812,"currentTeamName":"Karabukspor","currentTeamRegionCode":"tr"},"id":103658,"lastModified":"2017-08-01T03:07:27.5308312Z","maxAge":60,"autoRefresh":false}

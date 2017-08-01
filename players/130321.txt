@@ -1,0 +1,1 @@
+{"info":{"regionCode":"sn","regionName":"Senegal","name":"N'Diaye Djiby","dateOfBirth":"1994-01-05T00:00:00.0000000Z","age":23,"position":"M","height":182,"weight":75,"currentTeamId":267,"currentTeamName":"Chievo","currentTeamRegionCode":"it"},"id":130321,"lastModified":"2017-08-01T03:42:31.6047481Z","maxAge":60,"autoRefresh":false}

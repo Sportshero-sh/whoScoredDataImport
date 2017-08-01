@@ -1,0 +1,1 @@
+{"info":{"regionCode":"co","regionName":"Colombia","name":"Juancho","dateOfBirth":"1996-01-24T00:00:00.0000000Z","age":21,"position":"FW","height":178,"weight":75,"currentTeamId":64,"currentTeamName":"Rayo Vallecano","currentTeamRegionCode":"es"},"id":302697,"lastModified":"2017-08-01T02:56:46.5975021Z","maxAge":60,"autoRefresh":false}

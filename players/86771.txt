@@ -1,0 +1,1 @@
+{"info":{"regionCode":"br","regionName":"Brazil","name":"Diogo Campos","dateOfBirth":"1990-12-31T00:00:00.0000000Z","age":26,"position":"FW","height":174,"weight":73,"currentTeamId":2327,"currentTeamName":"Evian Thonon Gaillard","currentTeamRegionCode":"fr"},"id":86771,"lastModified":"2017-08-01T04:10:57.3126316Z","maxAge":60,"autoRefresh":false}

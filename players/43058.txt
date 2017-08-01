@@ -1,0 +1,1 @@
+{"info":{"regionCode":"ar","regionName":"Argentina","name":"Luciano Becchio","dateOfBirth":"1983-12-28T00:00:00.0000000Z","age":33,"position":"FW","height":187,"weight":86,"currentTeamId":210,"currentTeamName":"Rotherham","currentTeamRegionCode":"gb-eng"},"id":43058,"lastModified":"2017-08-01T02:41:11.2575811Z","maxAge":60,"autoRefresh":false}

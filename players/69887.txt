@@ -1,0 +1,1 @@
+{"info":{"regionCode":"ua","regionName":"Ukraine","name":"Olexandr Volovyk","dateOfBirth":"1985-10-28T00:00:00.0000000Z","age":31,"position":"D","height":185,"weight":68,"currentTeamId":1406,"currentTeamName":"Oud-Heverlee","currentTeamRegionCode":"be"},"id":69887,"lastModified":"2017-08-01T03:49:03.9960206Z","maxAge":60,"autoRefresh":false}

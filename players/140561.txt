@@ -1,0 +1,1 @@
+{"info":{"regionCode":"es","regionName":"Spain","name":"Dani Romera","dateOfBirth":"1995-08-22T23:00:00.0000000Z","age":21,"position":"FW","height":170,"weight":66,"currentTeamId":65,"currentTeamName":"Barcelona","currentTeamRegionCode":"es"},"id":140561,"lastModified":"2017-08-01T03:47:55.9480448Z","maxAge":60,"autoRefresh":false}

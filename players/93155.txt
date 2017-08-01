@@ -1,0 +1,1 @@
+{"info":{"regionCode":"de","regionName":"Germany","name":"Markus Mendler","dateOfBirth":"1993-01-07T00:00:00.0000000Z","age":24,"position":"M","height":173,"weight":72,"currentTeamId":138,"currentTeamName":"Stuttgarter Kickers","currentTeamRegionCode":"de"},"id":93155,"lastModified":"2017-08-01T02:47:58.1258849Z","maxAge":60,"autoRefresh":false}

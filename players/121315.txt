@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Max Reinthaler","dateOfBirth":"1995-03-22T00:00:00.0000000Z","age":22,"position":"M","height":193,"weight":83,"currentTeamId":86,"currentTeamName":"Udinese","currentTeamRegionCode":"it"},"id":121315,"lastModified":"2017-08-01T03:07:54.2688294Z","maxAge":60,"autoRefresh":false}

@@ -1,0 +1,1 @@
+{"info":{"regionCode":"hr","regionName":"Croatia","name":"Ante Rukavina","dateOfBirth":"1986-06-17T23:00:00.0000000Z","age":31,"position":"FW","height":187,"weight":77,"currentTeamId":9,"currentTeamName":"Viborg","currentTeamRegionCode":"dk"},"id":29228,"lastModified":"2017-08-01T03:53:35.1427136Z","maxAge":60,"autoRefresh":false}

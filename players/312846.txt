@@ -1,0 +1,1 @@
+{"info":{"regionCode":"gb-eng","regionName":"England","name":"George Dobson","dateOfBirth":"1997-11-15T00:00:00.0000000Z","age":19,"position":"M","currentTeamId":173,"currentTeamName":"Walsall","currentTeamRegionCode":"gb-eng"},"id":312846,"lastModified":"2017-08-01T03:40:16.3800740Z","maxAge":60,"autoRefresh":false}

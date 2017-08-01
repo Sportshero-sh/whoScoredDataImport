@@ -1,0 +1,1 @@
+{"info":{"regionCode":"si","regionName":"Slovenia","name":"Mitja Viler","dateOfBirth":"1986-08-31T23:00:00.0000000Z","age":30,"position":"D(L)","height":180,"weight":75,"currentTeamId":595,"currentTeamName":"Maribor","currentTeamRegionCode":"si"},"id":29075,"lastModified":"2017-08-01T03:56:13.4689174Z","maxAge":60,"autoRefresh":false}

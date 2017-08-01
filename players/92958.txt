@@ -1,0 +1,1 @@
+{"info":{"regionCode":"pl","regionName":"Poland","name":"Rafal Wolski","dateOfBirth":"1992-11-10T00:00:00.0000000Z","age":24,"position":"M","height":180,"weight":70,"currentTeamId":3763,"currentTeamName":"Lechia Gdansk","currentTeamRegionCode":"pl"},"id":92958,"lastModified":"2017-08-01T02:49:09.9959160Z","maxAge":60,"autoRefresh":false}

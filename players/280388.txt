@@ -1,0 +1,1 @@
+{"info":{"regionCode":"es","regionName":"Spain","name":"Sanz","dateOfBirth":"1993-06-04T23:00:00.0000000Z","age":24,"position":"M","currentTeamId":6151,"currentTeamName":"Real Sociedad B","currentTeamRegionCode":"es"},"id":280388,"lastModified":"2017-08-01T03:43:16.0652532Z","maxAge":60,"autoRefresh":false}

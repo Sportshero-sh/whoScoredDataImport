@@ -1,0 +1,1 @@
+{"info":{"regionCode":"bg","regionName":"Bulgaria","name":"Hristo Zlatinski","dateOfBirth":"1985-01-22T00:00:00.0000000Z","age":32,"position":"DM(C)","height":179,"weight":73,"currentTeamId":13732,"currentTeamName":"CS Universitatea Craiova","currentTeamRegionCode":"ro"},"id":14400,"lastModified":"2017-08-01T02:55:16.9588237Z","maxAge":60,"autoRefresh":false}

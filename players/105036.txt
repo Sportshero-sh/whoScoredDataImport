@@ -1,0 +1,1 @@
+{"info":{"regionCode":"ml","regionName":"Mali","name":"Sidy Koné","dateOfBirth":"1992-06-05T23:00:00.0000000Z","age":25,"position":"M","height":185,"weight":73,"currentTeamId":228,"currentTeamName":"Lyon","currentTeamRegionCode":"fr"},"id":105036,"lastModified":"2017-08-01T03:42:09.2029666Z","maxAge":60,"autoRefresh":false}

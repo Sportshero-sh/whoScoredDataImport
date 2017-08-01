@@ -1,0 +1,1 @@
+{"info":{"regionCode":"ch","regionName":"Switzerland","name":"Cephas Malele","dateOfBirth":"1994-01-08T00:00:00.0000000Z","age":23,"position":"FW","height":182,"weight":76,"currentTeamId":1282,"currentTeamName":"Varzim","currentTeamRegionCode":"pt"},"id":122965,"lastModified":"2017-08-01T03:44:02.1481792Z","maxAge":60,"autoRefresh":false}

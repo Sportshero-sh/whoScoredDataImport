@@ -1,0 +1,1 @@
+{"info":{"regionCode":"es","regionName":"Spain","name":"Casado","dateOfBirth":"1993-07-05T23:00:00.0000000Z","age":24,"position":"D","height":188,"weight":80,"currentTeamId":58,"currentTeamName":"Valladolid","currentTeamRegionCode":"es"},"id":123225,"lastModified":"2017-08-01T03:28:01.8324282Z","maxAge":60,"autoRefresh":false}

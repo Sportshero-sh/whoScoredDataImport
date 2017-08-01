@@ -1,0 +1,1 @@
+{"info":{"regionCode":"ar","regionName":"Argentina","name":"Ignacio Fideleff","dateOfBirth":"1989-07-03T23:00:00.0000000Z","age":28,"position":"D","height":187,"weight":81,"currentTeamId":1942,"currentTeamName":"Ergotelis","currentTeamRegionCode":"gr"},"id":38581,"lastModified":"2017-08-01T03:07:52.9902435Z","maxAge":60,"autoRefresh":false}

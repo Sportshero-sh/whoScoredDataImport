@@ -1,0 +1,1 @@
+{"info":{"regionCode":"es","regionName":"Spain","name":"Borja Galán","dateOfBirth":"1993-04-25T23:00:00.0000000Z","age":24,"position":"FW","height":190,"weight":82,"currentTeamId":8292,"currentTeamName":"Getafe B","currentTeamRegionCode":"es"},"id":126167,"lastModified":"2017-08-01T02:56:47.2215322Z","maxAge":60,"autoRefresh":false}

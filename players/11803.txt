@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Davide Succi","dateOfBirth":"1981-10-10T23:00:00.0000000Z","age":35,"position":"FW","height":184,"weight":78,"currentTeamId":265,"currentTeamName":"Cesena","currentTeamRegionCode":"it"},"id":11803,"lastModified":"2017-08-01T02:54:54.2919231Z","maxAge":60,"autoRefresh":false}

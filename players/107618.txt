@@ -1,0 +1,1 @@
+{"info":{"regionCode":"es","regionName":"Spain","name":"Pol","dateOfBirth":"1991-08-21T23:00:00.0000000Z","age":25,"position":"GK","height":191,"weight":80,"currentTeamId":833,"currentTeamName":"Elche","currentTeamRegionCode":"es"},"id":107618,"lastModified":"2017-08-01T02:52:39.4596639Z","maxAge":60,"autoRefresh":false}

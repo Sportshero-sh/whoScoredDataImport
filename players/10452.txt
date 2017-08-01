@@ -1,0 +1,1 @@
+{"info":{"regionCode":"cg","regionName":"Congo","name":"Hérita Ilunga","dateOfBirth":"1982-02-25T00:00:00.0000000Z","age":35,"position":"D(C)","height":180,"weight":74,"currentTeamId":410,"currentTeamName":"Creteil","currentTeamRegionCode":"fr"},"id":10452,"lastModified":"2017-08-01T04:17:02.8827764Z","maxAge":60,"autoRefresh":false}

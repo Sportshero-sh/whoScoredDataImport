@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Fabrice Begeorgi","dateOfBirth":"1987-04-19T23:00:00.0000000Z","age":30,"position":"D(L)","height":177,"weight":70,"currentTeamId":610,"currentTeamName":"AC Ajaccio","currentTeamRegionCode":"fr"},"id":22426,"lastModified":"2017-08-01T02:26:48.5365703Z","maxAge":60,"autoRefresh":false}

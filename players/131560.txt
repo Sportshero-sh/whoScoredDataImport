@@ -1,0 +1,1 @@
+{"info":{"regionCode":"es","regionName":"Spain","name":"Juan Carlos","dateOfBirth":"1991-03-15T00:00:00.0000000Z","age":26,"position":"M","height":175,"weight":72,"currentTeamId":822,"currentTeamName":"Tenerife","currentTeamRegionCode":"es"},"id":131560,"lastModified":"2017-08-01T03:05:14.6011520Z","maxAge":60,"autoRefresh":false}

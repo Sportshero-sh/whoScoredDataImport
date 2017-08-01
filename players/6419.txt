@@ -1,0 +1,1 @@
+{"info":{"regionCode":"dk","regionName":"Denmark","name":"Mikkel Beckmann","dateOfBirth":"1983-10-23T23:00:00.0000000Z","age":33,"position":"FW","height":183,"weight":76,"currentTeamId":1050,"currentTeamName":"Hobro","currentTeamRegionCode":"dk"},"id":6419,"lastModified":"2017-08-01T04:02:41.1765317Z","maxAge":60,"autoRefresh":false}

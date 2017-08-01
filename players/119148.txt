@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Gaetan Varenne","dateOfBirth":"1990-06-23T23:00:00.0000000Z","age":27,"position":"FW","height":187,"weight":80,"currentTeamId":703,"currentTeamName":"Beitar Jerusalem","currentTeamRegionCode":"il"},"id":119148,"lastModified":"2017-08-01T03:36:52.6262747Z","maxAge":60,"autoRefresh":false}

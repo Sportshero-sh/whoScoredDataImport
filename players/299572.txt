@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Alessandro Livieri","dateOfBirth":"1997-01-21T00:00:00.0000000Z","age":20,"position":"GK","currentTeamId":8183,"currentTeamName":"FeralpiSalo","currentTeamRegionCode":"it"},"id":299572,"lastModified":"2017-08-01T02:46:25.8196289Z","maxAge":60,"autoRefresh":false}

@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Nicolas Lemaitre","dateOfBirth":"1997-01-12T00:00:00.0000000Z","age":20,"position":"GK","currentTeamId":950,"currentTeamName":"Reims","currentTeamRegionCode":"fr"},"id":275036,"lastModified":"2017-08-01T03:13:55.7099824Z","maxAge":60,"autoRefresh":false}

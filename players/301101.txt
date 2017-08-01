@@ -1,0 +1,1 @@
+{"info":{"regionCode":"au","regionName":"Australia","name":"Jordan Lyden","dateOfBirth":"1996-01-30T00:00:00.0000000Z","age":21,"position":"M","height":175,"weight":72,"currentTeamId":24,"currentTeamName":"Aston Villa","currentTeamRegionCode":"gb-eng"},"id":301101,"lastModified":"2017-08-01T02:35:51.9698980Z","maxAge":60,"autoRefresh":false}

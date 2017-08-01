@@ -1,0 +1,1 @@
+{"info":{"regionCode":"gb-eng","regionName":"England","name":"Matthias Fanimo","dateOfBirth":"1994-01-28T00:00:00.0000000Z","age":23,"position":"M","height":173,"weight":71,"currentTeamId":6106,"currentTeamName":"Eastleigh","currentTeamRegionCode":"gb-eng"},"id":122171,"lastModified":"2017-08-01T03:23:47.7820359Z","maxAge":60,"autoRefresh":false}

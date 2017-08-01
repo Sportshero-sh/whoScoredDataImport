@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Gaël Givet","dateOfBirth":"1981-10-08T23:00:00.0000000Z","age":35,"position":"D(C),DM(C)","height":181,"weight":75,"currentTeamId":5317,"currentTeamName":"Arles-Avignon","currentTeamRegionCode":"fr"},"id":1830,"lastModified":"2017-08-01T02:42:42.2690846Z","maxAge":60,"autoRefresh":false}

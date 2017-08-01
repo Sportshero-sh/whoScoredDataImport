@@ -1,0 +1,1 @@
+{"info":{"regionCode":"at","regionName":"Austria","name":"Marko Stankovic","dateOfBirth":"1986-02-17T00:00:00.0000000Z","age":31,"position":"M","height":178,"weight":79,"currentTeamId":399,"currentTeamName":"Ried","currentTeamRegionCode":"at"},"id":17680,"lastModified":"2017-08-01T03:09:24.0010373Z","maxAge":60,"autoRefresh":false}

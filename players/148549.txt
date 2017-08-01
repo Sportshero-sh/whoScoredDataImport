@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Matteo Cipriani","dateOfBirth":"1996-11-04T00:00:00.0000000Z","age":20,"position":"GK","height":185,"weight":79,"currentTeamId":1286,"currentTeamName":"Livorno","currentTeamRegionCode":"it"},"id":148549,"lastModified":"2017-08-01T03:21:53.3094921Z","maxAge":60,"autoRefresh":false}

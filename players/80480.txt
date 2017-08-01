@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Matthieu Sans","dateOfBirth":"1988-06-15T23:00:00.0000000Z","age":29,"position":"D","height":191,"weight":81,"currentTeamId":149,"currentTeamName":"Niort","currentTeamRegionCode":"fr"},"id":80480,"lastModified":"2017-08-01T03:10:54.3735948Z","maxAge":60,"autoRefresh":false}

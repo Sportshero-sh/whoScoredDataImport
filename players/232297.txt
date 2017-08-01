@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Valentin Lavigne","dateOfBirth":"1994-06-03T23:00:00.0000000Z","age":23,"position":"FW","height":171,"weight":72,"currentTeamId":146,"currentTeamName":"Lorient","currentTeamRegionCode":"fr"},"id":232297,"lastModified":"2017-08-01T02:51:19.5397972Z","maxAge":60,"autoRefresh":false}

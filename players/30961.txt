@@ -1,0 +1,1 @@
+{"info":{"regionCode":"ro","regionName":"Romania","name":"Eduard Stancioiu","dateOfBirth":"1981-03-03T00:00:00.0000000Z","age":36,"position":"GK","height":183,"weight":75,"currentTeamId":1202,"currentTeamName":"FC FCSB","currentTeamRegionCode":"ro"},"id":30961,"lastModified":"2017-08-01T04:11:26.0441196Z","maxAge":60,"autoRefresh":false}

@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Daniele Borra","dateOfBirth":"1995-07-27T23:00:00.0000000Z","age":22,"position":"GK","height":192,"weight":88,"currentTeamId":1289,"currentTeamName":"Arezzo","currentTeamRegionCode":"it"},"id":141527,"lastModified":"2017-08-01T02:50:59.1814871Z","maxAge":60,"autoRefresh":false}

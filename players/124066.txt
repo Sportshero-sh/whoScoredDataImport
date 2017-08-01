@@ -1,0 +1,1 @@
+{"info":{"regionCode":"al","regionName":"Albania","name":"Elvis Kabashi","dateOfBirth":"1994-02-20T00:00:00.0000000Z","age":23,"position":"M","height":177,"weight":70,"currentTeamId":118,"currentTeamName":"FC Den Bosch","currentTeamRegionCode":"nl"},"id":124066,"lastModified":"2017-08-01T03:15:03.2744184Z","maxAge":60,"autoRefresh":false}

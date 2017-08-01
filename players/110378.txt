@@ -1,0 +1,1 @@
+{"info":{"regionCode":"gb-eng","regionName":"England","name":"Adil Nabi","dateOfBirth":"1994-02-28T00:00:00.0000000Z","age":23,"position":"FW","height":172,"weight":68,"currentTeamId":215,"currentTeamName":"Peterborough","currentTeamRegionCode":"gb-eng"},"id":110378,"lastModified":"2017-08-01T03:17:42.1454625Z","maxAge":60,"autoRefresh":false}

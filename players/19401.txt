@@ -1,0 +1,1 @@
+{"info":{"regionCode":"gb-eng","regionName":"England","name":"Aaron McLean","dateOfBirth":"1983-05-24T23:00:00.0000000Z","age":34,"position":"FW","height":171,"weight":77,"currentTeamId":206,"currentTeamName":"Barnet","currentTeamRegionCode":"gb-eng"},"id":19401,"lastModified":"2017-08-01T03:41:00.7025101Z","maxAge":60,"autoRefresh":false}

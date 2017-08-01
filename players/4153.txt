@@ -1,0 +1,1 @@
+{"info":{"regionCode":"br","regionName":"Brazil","name":"Moisés Hurtado","dateOfBirth":"1981-02-20T00:00:00.0000000Z","age":36,"position":"D(C),M(CR)","height":185,"weight":84,"currentTeamId":925,"currentTeamName":"Granada","currentTeamRegionCode":"es"},"id":4153,"lastModified":"2017-08-01T04:00:25.8919743Z","maxAge":60,"autoRefresh":false}

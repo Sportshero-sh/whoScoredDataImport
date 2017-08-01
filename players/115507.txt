@@ -1,0 +1,1 @@
+{"info":{"regionCode":"de","regionName":"Germany","name":"Philip Sprint","dateOfBirth":"1993-06-26T23:00:00.0000000Z","age":24,"position":"GK","height":196,"weight":98,"currentTeamId":47,"currentTeamName":"Hertha Berlin","currentTeamRegionCode":"de"},"id":115507,"lastModified":"2017-08-01T03:58:45.6140596Z","maxAge":60,"autoRefresh":false}

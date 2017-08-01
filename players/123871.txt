@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"David Douline","dateOfBirth":"1993-05-27T23:00:00.0000000Z","age":24,"position":"D","height":181,"weight":77,"currentTeamId":9551,"currentTeamName":"Monts Or Azergues","currentTeamRegionCode":"fr"},"id":123871,"lastModified":"2017-08-01T02:58:18.2328454Z","maxAge":60,"autoRefresh":false}

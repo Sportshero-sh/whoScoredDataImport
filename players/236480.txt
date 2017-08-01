@@ -1,0 +1,1 @@
+{"info":{"regionCode":"cd","regionName":"Congo, DR","name":"Jordan N'Kololo","dateOfBirth":"1992-11-09T00:00:00.0000000Z","age":24,"position":"M","height":183,"weight":71,"currentTeamId":152,"currentTeamName":"Laval","currentTeamRegionCode":"fr"},"id":236480,"lastModified":"2017-08-01T02:23:59.5883713Z","maxAge":60,"autoRefresh":false}

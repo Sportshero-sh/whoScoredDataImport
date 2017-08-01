@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Marco Albertoni","dateOfBirth":"1995-08-04T23:00:00.0000000Z","age":21,"position":"GK","height":188,"weight":82,"currentTeamId":1495,"currentTeamName":"Lucchese","currentTeamRegionCode":"it"},"id":142165,"lastModified":"2017-08-01T02:51:06.2174473Z","maxAge":60,"autoRefresh":false}

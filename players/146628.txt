@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Edoardo Oneto","dateOfBirth":"1996-02-23T00:00:00.0000000Z","age":21,"position":"FW","height":182,"weight":71,"currentTeamId":271,"currentTeamName":"Sampdoria","currentTeamRegionCode":"it"},"id":146628,"lastModified":"2017-08-01T04:03:01.9907765Z","maxAge":60,"autoRefresh":false}

@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Aboubakar Kamara","dateOfBirth":"1995-03-07T00:00:00.0000000Z","age":22,"position":"FW","height":177,"weight":76,"currentTeamId":151,"currentTeamName":"Amiens","currentTeamRegionCode":"fr"},"id":243076,"lastModified":"2017-08-01T03:31:28.7512756Z","maxAge":60,"autoRefresh":false}

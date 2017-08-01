@@ -1,0 +1,1 @@
+{"info":{"regionCode":"es","regionName":"Spain","name":"Joan Román","dateOfBirth":"1993-05-17T23:00:00.0000000Z","age":24,"position":"M","height":175,"weight":65,"currentTeamId":1032,"currentTeamName":"Slask Wroclaw","currentTeamRegionCode":"pl"},"id":106528,"lastModified":"2017-08-01T03:09:01.8643965Z","maxAge":60,"autoRefresh":false}

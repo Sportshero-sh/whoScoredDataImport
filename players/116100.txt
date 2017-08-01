@@ -1,0 +1,1 @@
+{"info":{"regionCode":"de","regionName":"Germany","name":"Roussel Ngankam","dateOfBirth":"1993-09-14T23:00:00.0000000Z","age":23,"position":"FW","height":180,"weight":75,"currentTeamId":4828,"currentTeamName":"Sonnenhof Großaspach","currentTeamRegionCode":"de"},"id":116100,"lastModified":"2017-08-01T02:47:57.7518689Z","maxAge":60,"autoRefresh":false}

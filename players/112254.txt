@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Luca Milesi","dateOfBirth":"1993-04-27T23:00:00.0000000Z","age":24,"position":"D","height":185,"weight":75,"currentTeamId":1289,"currentTeamName":"Arezzo","currentTeamRegionCode":"it"},"id":112254,"lastModified":"2017-08-01T04:01:08.2810796Z","maxAge":60,"autoRefresh":false}

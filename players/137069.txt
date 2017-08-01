@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Alessandro Mastalli","dateOfBirth":"1996-02-07T00:00:00.0000000Z","age":21,"position":"M","height":175,"weight":75,"currentTeamId":2891,"currentTeamName":"Juve Stabia","currentTeamRegionCode":"it"},"id":137069,"lastModified":"2017-08-01T02:55:17.3800826Z","maxAge":60,"autoRefresh":false}

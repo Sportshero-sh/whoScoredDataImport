@@ -1,0 +1,1 @@
+{"info":{"regionCode":"de","regionName":"Germany","name":"Markus Miller","dateOfBirth":"1982-04-07T23:00:00.0000000Z","age":35,"position":"GK","height":189,"weight":92,"currentTeamId":110,"currentTeamName":"Hannover 96","currentTeamRegionCode":"de"},"id":29956,"lastModified":"2017-08-01T02:39:17.4396055Z","maxAge":60,"autoRefresh":false}

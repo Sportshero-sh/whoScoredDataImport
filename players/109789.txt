@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Abel Khaled","dateOfBirth":"1992-11-09T00:00:00.0000000Z","age":24,"position":"M","height":180,"weight":70,"currentTeamId":4962,"currentTeamName":"USM Alger","currentTeamRegionCode":"dz"},"id":109789,"lastModified":"2017-08-01T03:40:38.9534501Z","maxAge":60,"autoRefresh":false}

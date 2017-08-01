@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Samuel Grandsir","dateOfBirth":"1996-08-13T23:00:00.0000000Z","age":20,"position":"FW","currentTeamId":229,"currentTeamName":"Troyes","currentTeamRegionCode":"fr"},"id":316670,"lastModified":"2017-08-01T03:31:58.2531861Z","maxAge":60,"autoRefresh":false}

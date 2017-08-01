@@ -1,0 +1,1 @@
+{"info":{"regionCode":"hr","regionName":"Croatia","name":"Frano Mlinar","dateOfBirth":"1992-03-29T23:00:00.0000000Z","age":25,"position":"M","height":184,"weight":75,"currentTeamId":592,"currentTeamName":"FC Wil 1900","currentTeamRegionCode":"ch"},"id":136288,"lastModified":"2017-08-01T02:51:07.6215256Z","maxAge":60,"autoRefresh":false}

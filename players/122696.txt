@@ -1,0 +1,1 @@
+{"info":{"regionCode":"ml","regionName":"Mali","name":"Adama Niane","dateOfBirth":"1993-06-15T23:00:00.0000000Z","age":24,"position":"FW","height":182,"weight":71,"currentTeamId":229,"currentTeamName":"Troyes","currentTeamRegionCode":"fr"},"id":122696,"lastModified":"2017-08-01T03:50:34.1963068Z","maxAge":60,"autoRefresh":false}

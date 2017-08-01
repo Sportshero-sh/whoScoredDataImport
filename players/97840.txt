@@ -1,0 +1,1 @@
+{"info":{"regionCode":"pl","regionName":"Poland","name":"Wojciech Pawlowski","dateOfBirth":"1993-01-18T00:00:00.0000000Z","age":24,"position":"GK","height":190,"weight":80,"currentTeamId":1058,"currentTeamName":"Gornik Zabrze","currentTeamRegionCode":"pl"},"id":97840,"lastModified":"2017-08-01T03:07:54.8617136Z","maxAge":60,"autoRefresh":false}

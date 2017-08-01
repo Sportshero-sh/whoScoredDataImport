@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Ilyes Chaibi","dateOfBirth":"1996-10-11T23:00:00.0000000Z","age":20,"position":"FW","height":176,"weight":65,"currentTeamId":610,"currentTeamName":"AC Ajaccio","currentTeamRegionCode":"fr"},"id":302496,"lastModified":"2017-08-01T02:36:15.3389646Z","maxAge":60,"autoRefresh":false}

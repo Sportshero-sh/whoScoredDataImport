@@ -1,0 +1,1 @@
+{"info":{"regionCode":"pt","regionName":"Portugal","name":"Carlos Martins","dateOfBirth":"1982-04-28T23:00:00.0000000Z","age":35,"position":"AM(C),FW","height":172,"weight":68,"currentTeamId":292,"currentTeamName":"Belenenses","currentTeamRegionCode":"pt"},"id":12382,"lastModified":"2017-08-01T04:15:55.1780670Z","maxAge":60,"autoRefresh":false}

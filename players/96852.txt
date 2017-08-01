@@ -1,0 +1,1 @@
+{"info":{"regionCode":"de","regionName":"Germany","name":"Pelle Jensen","dateOfBirth":"1992-05-23T23:00:00.0000000Z","age":25,"position":"D","height":193,"weight":85,"currentTeamId":1211,"currentTeamName":"Hoffenheim","currentTeamRegionCode":"de"},"id":96852,"lastModified":"2017-08-01T04:15:32.2926269Z","maxAge":60,"autoRefresh":false}

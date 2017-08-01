@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Jonathan Tinhan","dateOfBirth":"1989-05-31T23:00:00.0000000Z","age":28,"position":"M","height":179,"weight":69,"currentTeamId":229,"currentTeamName":"Troyes","currentTeamRegionCode":"fr"},"id":78056,"lastModified":"2017-08-01T02:40:46.6413430Z","maxAge":60,"autoRefresh":false}

@@ -1,0 +1,1 @@
+{"info":{"regionCode":"bg","regionName":"Bulgaria","name":"Martin Petrov","dateOfBirth":"1979-01-15T00:00:00.0000000Z","age":38,"position":"M(CL),FW","height":180,"weight":77,"currentTeamId":697,"currentTeamName":"CSKA Sofia","currentTeamRegionCode":"bg"},"id":2910,"lastModified":"2017-08-01T02:39:41.8218286Z","maxAge":60,"autoRefresh":false}

@@ -1,0 +1,1 @@
+{"info":{"regionCode":"sn","regionName":"Senegal","name":"Deme N'Diaye","dateOfBirth":"1985-02-06T00:00:00.0000000Z","age":32,"position":"AM(C),FW","height":185,"weight":74,"currentTeamId":309,"currentTeamName":"Lens","currentTeamRegionCode":"fr"},"id":19992,"lastModified":"2017-08-01T02:42:40.4282586Z","maxAge":60,"autoRefresh":false}

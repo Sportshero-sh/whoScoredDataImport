@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Francis Kama Massampu","dateOfBirth":"1991-12-26T00:00:00.0000000Z","age":25,"position":"FW","height":178,"weight":75,"currentTeamId":2324,"currentTeamName":"Mantes","currentTeamRegionCode":"fr"},"id":89949,"lastModified":"2017-08-01T03:18:27.0426722Z","maxAge":60,"autoRefresh":false}

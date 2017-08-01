@@ -1,0 +1,1 @@
+{"info":{"regionCode":"es","regionName":"Spain","name":"Samuel","dateOfBirth":"1985-04-25T23:00:00.0000000Z","age":32,"position":"D","height":186,"weight":83,"currentTeamId":58,"currentTeamName":"Valladolid","currentTeamRegionCode":"es"},"id":33593,"lastModified":"2017-08-01T03:20:43.5142325Z","maxAge":60,"autoRefresh":false}

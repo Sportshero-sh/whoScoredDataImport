@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Ludovic Genest","dateOfBirth":"1987-09-17T23:00:00.0000000Z","age":29,"position":"FW","height":173,"weight":64,"currentTeamId":941,"currentTeamName":"Clermont Foot","currentTeamRegionCode":"fr"},"id":26188,"lastModified":"2017-08-01T03:21:06.2124910Z","maxAge":60,"autoRefresh":false}

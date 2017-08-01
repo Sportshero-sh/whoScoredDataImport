@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Soualiho Meité","dateOfBirth":"1994-03-17T00:00:00.0000000Z","age":23,"position":"M","height":187,"weight":80,"currentTeamId":2164,"currentTeamName":"Zulte-Waregem","currentTeamRegionCode":"be"},"id":105161,"lastModified":"2017-08-01T02:23:45.4684559Z","maxAge":60,"autoRefresh":false}

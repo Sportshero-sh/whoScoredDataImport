@@ -1,0 +1,1 @@
+{"info":{"regionCode":"br","regionName":"Brazil","name":"João Victor","dateOfBirth":"1988-11-07T00:00:00.0000000Z","age":28,"position":"D(C),M(CR)","height":181,"weight":75,"currentTeamId":598,"currentTeamName":"Anorthosis","currentTeamRegionCode":"cy"},"id":72079,"lastModified":"2017-08-01T03:34:58.7315861Z","maxAge":60,"autoRefresh":false}

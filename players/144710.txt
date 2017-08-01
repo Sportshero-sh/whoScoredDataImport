@@ -1,0 +1,1 @@
+{"info":{"regionCode":"de","regionName":"Germany","name":"Marvin Friedrich","dateOfBirth":"1995-12-13T00:00:00.0000000Z","age":21,"position":"D","height":193,"weight":80,"currentTeamId":39,"currentTeamName":"Schalke 04","currentTeamRegionCode":"de"},"id":144710,"lastModified":"2017-08-01T02:36:39.3153418Z","maxAge":60,"autoRefresh":false}

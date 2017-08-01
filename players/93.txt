@@ -1,0 +1,1 @@
+{"info":{"regionCode":"gb-eng","regionName":"England","name":"Kieron Dyer","dateOfBirth":"1978-12-29T00:00:00.0000000Z","age":38,"position":"D(C)","height":173,"weight":65,"currentTeamId":21,"currentTeamName":"Middlesbrough","currentTeamRegionCode":"gb-eng"},"id":93,"lastModified":"2017-08-01T03:30:22.2321796Z","maxAge":60,"autoRefresh":false}

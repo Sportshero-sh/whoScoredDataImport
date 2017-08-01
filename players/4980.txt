@@ -1,0 +1,1 @@
+{"info":{"regionCode":"de","regionName":"Germany","name":"Dennis Kruppke","dateOfBirth":"1980-03-31T23:00:00.0000000Z","age":37,"position":"FW","height":179,"weight":77,"currentTeamId":1138,"currentTeamName":"Eintracht Braunschweig","currentTeamRegionCode":"de"},"id":4980,"lastModified":"2017-08-01T02:50:21.1954302Z","maxAge":60,"autoRefresh":false}

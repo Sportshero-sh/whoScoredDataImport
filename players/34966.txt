@@ -1,0 +1,1 @@
+{"info":{"regionCode":"ci","regionName":"Ivory Coast","name":"Kafoumba Coulibaly","dateOfBirth":"1985-10-25T23:00:00.0000000Z","age":31,"position":"D(CR),M(CR)","height":179,"weight":74,"currentTeamId":3475,"currentTeamName":"Kasimpasa","currentTeamRegionCode":"tr"},"id":34966,"lastModified":"2017-08-01T02:26:22.6403278Z","maxAge":60,"autoRefresh":false}

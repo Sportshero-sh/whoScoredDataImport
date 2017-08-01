@@ -1,0 +1,1 @@
+{"info":{"regionCode":"de","regionName":"Germany","name":"Tammo Harder","dateOfBirth":"1994-01-04T00:00:00.0000000Z","age":23,"position":"FW","height":174,"weight":65,"currentTeamId":1206,"currentTeamName":"Holstein Kiel","currentTeamRegionCode":"de"},"id":143529,"lastModified":"2017-08-01T02:41:30.4154235Z","maxAge":60,"autoRefresh":false}

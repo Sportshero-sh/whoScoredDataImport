@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Mirko Esposito","dateOfBirth":"1996-04-07T23:00:00.0000000Z","age":21,"position":"D","height":172,"weight":66,"currentTeamId":779,"currentTeamName":"Crotone","currentTeamRegionCode":"it"},"id":261476,"lastModified":"2017-08-01T02:44:34.1378939Z","maxAge":60,"autoRefresh":false}

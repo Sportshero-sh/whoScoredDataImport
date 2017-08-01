@@ -1,0 +1,1 @@
+{"info":{"regionCode":"es","regionName":"Spain","name":"Nano","dateOfBirth":"1982-04-19T23:00:00.0000000Z","age":35,"position":"D(L)","height":186,"weight":80,"currentTeamId":60,"currentTeamName":"Alaves","currentTeamRegionCode":"es"},"id":10580,"lastModified":"2017-08-01T02:28:28.2231910Z","maxAge":60,"autoRefresh":false}

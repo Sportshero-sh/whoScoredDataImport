@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Elia Bruzzi","dateOfBirth":"1995-04-07T23:00:00.0000000Z","age":22,"position":"FW","height":180,"weight":71,"currentTeamId":1286,"currentTeamName":"Livorno","currentTeamRegionCode":"it"},"id":147883,"lastModified":"2017-08-01T03:21:52.3110972Z","maxAge":60,"autoRefresh":false}

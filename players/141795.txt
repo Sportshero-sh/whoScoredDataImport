@@ -1,0 +1,1 @@
+{"info":{"regionCode":"sn","regionName":"Senegal","name":"Dembel Sall","dateOfBirth":"1994-06-15T23:00:00.0000000Z","age":23,"position":"D","height":183,"weight":78,"currentTeamId":74,"currentTeamName":"Bari","currentTeamRegionCode":"it"},"id":141795,"lastModified":"2017-08-01T03:21:54.6341184Z","maxAge":60,"autoRefresh":false}

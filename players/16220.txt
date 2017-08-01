@@ -1,0 +1,1 @@
+{"info":{"regionCode":"rs","regionName":"Serbia","name":"Stefan Babovic","dateOfBirth":"1987-01-07T00:00:00.0000000Z","age":30,"position":"AM(C)","height":180,"weight":77,"currentTeamId":721,"currentTeamName":"Partizan Belgrade","currentTeamRegionCode":"rs"},"id":16220,"lastModified":"2017-08-01T03:28:00.9589229Z","maxAge":60,"autoRefresh":false}

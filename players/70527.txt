@@ -1,0 +1,1 @@
+{"info":{"regionCode":"es","regionName":"Spain","name":"Dominguez Rivas Alberto","dateOfBirth":"1988-02-11T00:00:00.0000000Z","age":29,"position":"GK","height":181,"weight":77,"currentTeamId":2873,"currentTeamName":"Ponferradina","currentTeamRegionCode":"es"},"id":70527,"lastModified":"2017-08-01T02:39:39.7937911Z","maxAge":60,"autoRefresh":false}

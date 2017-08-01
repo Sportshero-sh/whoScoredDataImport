@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Edgar Alexandre","dateOfBirth":"1996-11-24T00:00:00.0000000Z","age":20,"position":"M","currentTeamId":310,"currentTeamName":"SC Bastia","currentTeamRegionCode":"fr"},"id":298465,"lastModified":"2017-08-01T02:45:20.1122688Z","maxAge":60,"autoRefresh":false}

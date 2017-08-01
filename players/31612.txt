@@ -1,0 +1,1 @@
+{"info":{"regionCode":"tr","regionName":"Turkey","name":"Engin Baytar","dateOfBirth":"1983-07-10T23:00:00.0000000Z","age":34,"position":"M","height":177,"weight":71,"currentTeamId":750,"currentTeamName":"Rizespor","currentTeamRegionCode":"tr"},"id":31612,"lastModified":"2017-08-01T03:37:14.8276542Z","maxAge":60,"autoRefresh":false}

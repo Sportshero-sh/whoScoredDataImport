@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Saverio Madrigali","dateOfBirth":"1995-01-28T00:00:00.0000000Z","age":22,"position":"D","height":190,"weight":81,"currentTeamId":273,"currentTeamName":"Vicenza","currentTeamRegionCode":"it"},"id":122720,"lastModified":"2017-08-01T03:18:05.6872900Z","maxAge":60,"autoRefresh":false}

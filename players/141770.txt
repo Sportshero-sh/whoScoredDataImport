@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Julien Remiti","dateOfBirth":"1994-09-06T23:00:00.0000000Z","age":22,"position":"D","height":175,"weight":62,"currentTeamId":610,"currentTeamName":"AC Ajaccio","currentTeamRegionCode":"fr"},"id":141770,"lastModified":"2017-08-01T03:08:14.8142423Z","maxAge":60,"autoRefresh":false}

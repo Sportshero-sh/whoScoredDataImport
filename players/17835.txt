@@ -1,0 +1,1 @@
+{"info":{"regionCode":"sk","regionName":"Slovakia","name":"Marian Cisovsky","dateOfBirth":"1979-11-02T00:00:00.0000000Z","age":37,"position":"D(C)","height":186,"weight":80,"currentTeamId":1076,"currentTeamName":"Viktoria Plzen","currentTeamRegionCode":"cz"},"id":17835,"lastModified":"2017-08-01T03:33:28.6093545Z","maxAge":60,"autoRefresh":false}

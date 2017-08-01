@@ -1,0 +1,1 @@
+{"info":{"regionCode":"de","regionName":"Germany","name":"Matthias Strohmaier","dateOfBirth":"1994-03-11T00:00:00.0000000Z","age":23,"position":"D","height":188,"weight":81,"currentTeamId":742,"currentTeamName":"FC Vaduz","currentTeamRegionCode":"li"},"id":122061,"lastModified":"2017-08-01T04:01:55.8268568Z","maxAge":60,"autoRefresh":false}

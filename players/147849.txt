@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Simone Caruso","dateOfBirth":"1994-09-08T23:00:00.0000000Z","age":22,"position":"FW","height":171,"weight":64,"currentTeamId":1292,"currentTeamName":"Catania","currentTeamRegionCode":"it"},"id":147849,"lastModified":"2017-08-01T04:10:11.3232715Z","maxAge":60,"autoRefresh":false}

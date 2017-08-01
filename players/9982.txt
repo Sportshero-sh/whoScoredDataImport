@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Luca Anania","dateOfBirth":"1980-06-20T23:00:00.0000000Z","age":37,"position":"GK","height":183,"weight":76,"currentTeamId":1292,"currentTeamName":"Catania","currentTeamRegionCode":"it"},"id":9982,"lastModified":"2017-08-01T02:51:00.4450987Z","maxAge":60,"autoRefresh":false}

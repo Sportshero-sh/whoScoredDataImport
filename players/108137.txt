@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Christophe Vincent","dateOfBirth":"1992-11-08T00:00:00.0000000Z","age":24,"position":"M","height":178,"weight":72,"currentTeamId":885,"currentTeamName":"Cercle Brugge","currentTeamRegionCode":"be"},"id":108137,"lastModified":"2017-08-01T03:10:53.2971797Z","maxAge":60,"autoRefresh":false}

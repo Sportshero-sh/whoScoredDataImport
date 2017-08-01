@@ -1,0 +1,1 @@
+{"info":{"regionCode":"de","regionName":"Germany","name":"Raif Husic","dateOfBirth":"1996-02-05T00:00:00.0000000Z","age":21,"position":"GK","height":190,"weight":80,"currentTeamId":1140,"currentTeamName":"Aalen","currentTeamRegionCode":"de"},"id":146635,"lastModified":"2017-08-01T02:52:14.0469579Z","maxAge":60,"autoRefresh":false}

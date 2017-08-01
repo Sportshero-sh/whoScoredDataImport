@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Roberto Ranieri","dateOfBirth":"1997-04-27T23:00:00.0000000Z","age":20,"position":"M","height":171,"weight":65,"currentTeamId":5855,"currentTeamName":"Alessandria","currentTeamRegionCode":"it"},"id":300832,"lastModified":"2017-08-01T02:37:25.0560294Z","maxAge":60,"autoRefresh":false}

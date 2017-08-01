@@ -1,0 +1,1 @@
+{"info":{"regionCode":"de","regionName":"Germany","name":"Jonas Erwig-Drüppel","dateOfBirth":"1991-07-19T23:00:00.0000000Z","age":26,"position":"M","height":172,"weight":67,"currentTeamId":1139,"currentTeamName":"Wattenscheid","currentTeamRegionCode":"de"},"id":117803,"lastModified":"2017-08-01T03:39:31.2487398Z","maxAge":60,"autoRefresh":false}

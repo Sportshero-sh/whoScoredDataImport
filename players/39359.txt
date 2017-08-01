@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Johan Liebus","dateOfBirth":"1978-11-05T00:00:00.0000000Z","age":38,"position":"GK","height":184,"weight":83,"currentTeamId":950,"currentTeamName":"Reims","currentTeamRegionCode":"fr"},"id":39359,"lastModified":"2017-08-01T03:20:21.0032421Z","maxAge":60,"autoRefresh":false}

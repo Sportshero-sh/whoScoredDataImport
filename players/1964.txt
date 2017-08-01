@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Simone Perrotta","dateOfBirth":"1977-09-16T23:00:00.0000000Z","age":39,"position":"D(C),M(CR),FW","height":178,"weight":72,"currentTeamId":84,"currentTeamName":"Roma","currentTeamRegionCode":"it"},"id":1964,"lastModified":"2017-08-01T03:07:53.1924157Z","maxAge":60,"autoRefresh":false}

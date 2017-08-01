@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Mohamed Camara","dateOfBirth":"1990-09-19T23:00:00.0000000Z","age":26,"position":"FW","height":180,"weight":71,"currentTeamId":229,"currentTeamName":"Troyes","currentTeamRegionCode":"fr"},"id":91276,"lastModified":"2017-08-01T04:16:12.6077916Z","maxAge":60,"autoRefresh":false}

@@ -1,0 +1,1 @@
+{"info":{"regionCode":"uy","regionName":"Uruguay","name":"Henry Giménez","dateOfBirth":"1986-03-13T00:00:00.0000000Z","age":31,"position":"AM(C)","height":180,"weight":68,"currentTeamId":1483,"currentTeamName":"Nacional","currentTeamRegionCode":"uy"},"id":24666,"lastModified":"2017-08-01T03:15:04.8968329Z","maxAge":60,"autoRefresh":false}

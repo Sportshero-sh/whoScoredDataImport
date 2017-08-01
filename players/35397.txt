@@ -1,0 +1,1 @@
+{"info":{"regionCode":"do","regionName":"Dominican Republic","name":"Heinz","dateOfBirth":"1987-07-20T23:00:00.0000000Z","age":30,"position":"D","height":181,"weight":78,"currentTeamId":58,"currentTeamName":"Valladolid","currentTeamRegionCode":"es"},"id":35397,"lastModified":"2017-08-01T02:31:33.0227954Z","maxAge":60,"autoRefresh":false}

@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"David Gigliotti","dateOfBirth":"1985-05-29T23:00:00.0000000Z","age":32,"position":"FW","height":176,"weight":74,"currentTeamId":10368,"currentTeamName":"Marseille Consolat","currentTeamRegionCode":"fr"},"id":12720,"lastModified":"2017-08-01T03:10:53.8275061Z","maxAge":60,"autoRefresh":false}

@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Patrick Fradj","dateOfBirth":"1992-03-11T00:00:00.0000000Z","age":25,"position":"D","height":179,"weight":70,"currentTeamId":10921,"currentTeamName":"Croix","currentTeamRegionCode":"fr"},"id":121985,"lastModified":"2017-08-01T03:19:12.5171482Z","maxAge":60,"autoRefresh":false}

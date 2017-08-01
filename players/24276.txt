@@ -1,0 +1,1 @@
+{"info":{"regionCode":"cm","regionName":"Cameroon","name":"Dorge Kouemaha","dateOfBirth":"1983-06-27T23:00:00.0000000Z","age":34,"position":"AM(L)","height":188,"weight":86,"currentTeamId":123,"currentTeamName":"Lierse","currentTeamRegionCode":"be"},"id":24276,"lastModified":"2017-08-01T03:47:03.2166842Z","maxAge":60,"autoRefresh":false}

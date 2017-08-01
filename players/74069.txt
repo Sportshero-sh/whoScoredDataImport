@@ -1,0 +1,1 @@
+{"info":{"regionCode":"by","regionName":"Belarus","name":"Edgar Olekhnovich","dateOfBirth":"1987-05-16T23:00:00.0000000Z","age":30,"position":"M(C)","height":183,"weight":71,"currentTeamId":1264,"currentTeamName":"Shakhtyor Soligorsk","currentTeamRegionCode":"by"},"id":74069,"lastModified":"2017-08-01T03:56:13.5157194Z","maxAge":60,"autoRefresh":false}

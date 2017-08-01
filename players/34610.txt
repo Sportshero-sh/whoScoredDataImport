@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"François Marque","dateOfBirth":"1983-07-30T23:00:00.0000000Z","age":34,"position":"D(C)","height":187,"weight":83,"currentTeamId":6365,"currentTeamName":"Brunei DPMM","currentTeamRegionCode":"bn"},"id":34610,"lastModified":"2017-08-01T02:58:01.5563013Z","maxAge":60,"autoRefresh":false}

@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Simon Laner","dateOfBirth":"1984-01-28T00:00:00.0000000Z","age":33,"position":"M","height":182,"weight":75,"currentTeamId":1922,"currentTeamName":"FC Chiasso","currentTeamRegionCode":"ch"},"id":44175,"lastModified":"2017-08-01T03:24:54.6755390Z","maxAge":60,"autoRefresh":false}

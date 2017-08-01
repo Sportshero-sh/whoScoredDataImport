@@ -1,0 +1,1 @@
+{"info":{"regionCode":"ga","regionName":"Gabon","name":"Alexander N'Doumbou","dateOfBirth":"1992-01-04T00:00:00.0000000Z","age":25,"position":"M","height":174,"weight":70,"currentTeamId":249,"currentTeamName":"Marseille","currentTeamRegionCode":"fr"},"id":80876,"lastModified":"2017-08-01T04:17:29.4966556Z","maxAge":60,"autoRefresh":false}

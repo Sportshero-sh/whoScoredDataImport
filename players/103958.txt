@@ -1,0 +1,1 @@
+{"info":{"regionCode":"de","regionName":"Germany","name":"Ronny Garbuschewski","dateOfBirth":"1986-02-23T00:00:00.0000000Z","age":31,"position":"M","height":178,"weight":75,"currentTeamId":4813,"currentTeamName":"FSV Zwickau","currentTeamRegionCode":"de"},"id":103958,"lastModified":"2017-08-01T02:38:57.5025989Z","maxAge":60,"autoRefresh":false}

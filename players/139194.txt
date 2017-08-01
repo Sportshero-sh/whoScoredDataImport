@@ -1,0 +1,1 @@
+{"info":{"regionCode":"be","regionName":"Belgium","name":"Andy Kawaya","dateOfBirth":"1996-08-22T23:00:00.0000000Z","age":20,"position":"FW","height":173,"weight":82,"currentTeamId":237,"currentTeamName":"KV Mechelen","currentTeamRegionCode":"be"},"id":139194,"lastModified":"2017-08-01T03:34:13.5982064Z","maxAge":60,"autoRefresh":false}

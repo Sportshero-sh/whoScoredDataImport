@@ -1,0 +1,1 @@
+{"info":{"regionCode":"de","regionName":"Germany","name":"Tim Schraml","dateOfBirth":"1993-03-18T00:00:00.0000000Z","age":24,"position":"D","height":190,"weight":72,"currentTeamId":50,"currentTeamName":"Freiburg","currentTeamRegionCode":"de"},"id":136703,"lastModified":"2017-08-01T03:33:05.4899513Z","maxAge":60,"autoRefresh":false}

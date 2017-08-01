@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Sergio Viotti","dateOfBirth":"1990-03-04T00:00:00.0000000Z","age":27,"position":"GK","height":186,"weight":78,"currentTeamId":8179,"currentTeamName":"Pro Vercelli","currentTeamRegionCode":"it"},"id":57578,"lastModified":"2017-08-01T02:40:04.8164708Z","maxAge":60,"autoRefresh":false}

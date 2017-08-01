@@ -1,0 +1,1 @@
+{"info":{"regionCode":"de","regionName":"Germany","name":"Niklas Lomb","dateOfBirth":"1993-07-27T23:00:00.0000000Z","age":24,"position":"GK","height":187,"weight":84,"currentTeamId":36,"currentTeamName":"Bayer Leverkusen","currentTeamRegionCode":"de"},"id":116104,"lastModified":"2017-08-01T03:31:05.8034968Z","maxAge":60,"autoRefresh":false}

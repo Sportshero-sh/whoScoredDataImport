@@ -1,0 +1,1 @@
+{"info":{"regionCode":"es","regionName":"Spain","name":"Borja Fernández","dateOfBirth":"1995-08-15T23:00:00.0000000Z","age":21,"position":"M","height":177,"weight":71,"currentTeamId":62,"currentTeamName":"Celta Vigo","currentTeamRegionCode":"es"},"id":239052,"lastModified":"2017-08-01T02:22:18.7021154Z","maxAge":60,"autoRefresh":false}

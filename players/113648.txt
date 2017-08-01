@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Momar Bangoura","dateOfBirth":"1994-02-24T00:00:00.0000000Z","age":23,"position":"M","height":176,"weight":65,"currentTeamId":159,"currentTeamName":"Swindon","currentTeamRegionCode":"gb-eng"},"id":113648,"lastModified":"2017-08-01T02:30:00.2173595Z","maxAge":60,"autoRefresh":false}

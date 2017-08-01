@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Werther Carboni","dateOfBirth":"1996-04-03T23:00:00.0000000Z","age":21,"position":"GK","height":184,"weight":67,"currentTeamId":13684,"currentTeamName":"Tuttocuoio","currentTeamRegionCode":"it"},"id":122205,"lastModified":"2017-08-01T02:53:02.4231214Z","maxAge":60,"autoRefresh":false}
