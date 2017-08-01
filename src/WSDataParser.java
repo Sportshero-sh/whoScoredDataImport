@@ -19,6 +19,20 @@ public class WSDataParser {
         mDBConnection = new SQLServerPersistConnection("fhvm-dev.eastasia.cloudapp.azure.com", "footballhero_sa", "password99__**01", "whoscored");
     }
 
+    public void parseStages() {
+        Gson gson = new Gson();
+        ArrayList<String> stages = mFileConnection.getAllStages();
+
+        for (String stageString : stages) {
+            Stage stage = gson.fromJson(stageString, Stage.class);
+
+            System.out.println("Persist stage: " + stage.id);
+            for (Fixture fixture : stage.fixtures) {
+                parserMatch(fixture.id);
+            }
+        }
+    }
+
     public void parserMatch(int id) {
         if (! mFileConnection.isMatchExist(id)) {
             return;
@@ -37,21 +51,15 @@ public class WSDataParser {
             return ;
         }
 
-        if (mDBConnection.isMatchExist(id)) {
-            System.out.println("MatchForPrediction already exist: "+ id);
-            return ;
+        if (!mDBConnection.isMatchExist(id)) {
+            System.out.println("Persist match: " + match.id);
+            mDBConnection.persistMatch(match);
+
+            parserTeam(match.info.homeId, match.info.awayId);
+
+            parserPlayers(match);
+            parserMatchPlayerStats(match);
         }
-
-        System.out.println("Persist match: " + match.id);
-        mDBConnection.persistMatch(match);
-
-        parserTeam(match.info.homeId, match.info.awayId);
-
-        parserPlayers(match);
-        parserMatchPlayerStats(match);
-
-//        updatePlayerStats(match);
-
     }
 
     public void parserTeam(int homeId, int awayId) {

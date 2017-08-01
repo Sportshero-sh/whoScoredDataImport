@@ -42,11 +42,16 @@ public class Main {
                 // Parser WS data
                 WSDataParser parser = new WSDataParser();
                 startAt = 1068829;
-                for (int i = startAt; i > 1068829  ; i --) {
+                for (int i = startAt; i > 1053829  ; i --) {
                     parser.parserMatch(i);
                 }
 
                 parser.close();
+                break;
+
+            case "parser_ws_data_by_stage":
+                parser = new WSDataParser();
+                parser.parseStages();
                 break;
 
             case "create_prediction_match":

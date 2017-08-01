@@ -5,5 +5,7 @@ package ws;
  */
 public class Stage {
     public int id;
+    public String name;
+    public int tournamentId;
     public Fixture[] fixtures;
 }

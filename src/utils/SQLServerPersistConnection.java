@@ -17,6 +17,11 @@ import java.util.Comparator;
 
 public class SQLServerPersistConnection {
 
+    private static final String QUERY_STAGE_SQL = "SELECT * FROM stage WHERE id_ws =?";
+    private static final String INSERT_STAGE_SQL = "INSERT INTO stage"
+            + "(id_ws, name, tournament_Id) VALUES"
+            + "(?,?,?)";
+
     private static final String QUERY_PLAYER_SQL = "SELECT * FROM player WHERE id_ws =? ";
     private static final String QUERY_PLAYERS_SQL = "SELECT * FROM player WHERE id_ws in(";
     private static final String INSERT_PLAYER_SQL = "INSERT INTO player"
@@ -59,6 +64,42 @@ public class SQLServerPersistConnection {
             e.printStackTrace();
         }
     }
+
+    public void persistStage(Stage stage) {
+        try {
+
+            boolean isExist = false;
+
+            PreparedStatement ps = mConnection.prepareStatement(QUERY_STAGE_SQL);
+            ps.setInt(1, stage.id);
+            ResultSet rs = ps.executeQuery();
+
+            while (rs.next()) {
+                isExist = true;
+                break;
+            }
+
+            if (!isExist) {
+                ps = mConnection.prepareStatement(INSERT_STAGE_SQL);
+                ps.setInt(1, stage.id);
+                ps.setString(2, stage.name);
+                ps.setInt(3, stage.tournamentId);
+
+                ps.executeUpdate();
+
+                mConnection.commit();
+            }
+
+        } catch (SQLException e) {
+            try {
+                mConnection.rollback();
+            } catch (SQLException e1) {
+                e1.printStackTrace();
+            }
+            e.printStackTrace();
+        }
+    }
+
 
     public boolean isMatchExist(int id) {
         return getMatch(id) != null;
