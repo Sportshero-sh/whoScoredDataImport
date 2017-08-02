@@ -2,7 +2,11 @@ import com.google.gson.Gson;
 import sh.MatchForPrediction;
 import utils.FilePersistConnection;
 import utils.SQLServerPersistConnection;
+import ws.Fixture;
 import ws.Match;
+import ws.Stage;
+
+import java.util.ArrayList;
 
 /**
  * Created by zhengyu on 11/07/2017.
@@ -58,8 +62,25 @@ public class PredictionDataCreator {
         }
     }
 
-    public void separateSampleTest(String dest, String target1, String target2, float target1Percentage) {
-        mFileConnection.separateToFiles(dest, target1, target2, target1Percentage);
+    public int createPredictionDataByStage(String fileName) {
+        ArrayList<String> stageStrings = mFileConnection.getAllStages();
+        Gson gson = new Gson();
+
+        int totalNumber = 0;
+        for (String stageString : stageStrings) {
+            Stage stage = gson.fromJson(stageString, Stage.class);
+            for (Fixture fixture : stage.fixtures) {
+                if (createPredictionData(fixture.id, fileName)){
+                    totalNumber ++;
+                }
+            }
+        }
+
+        return totalNumber;
+    }
+
+    public void separateSampleTest(String dest, String target1, String target2, float target1Percentage, int itemNumber) {
+        mFileConnection.separateToFiles(dest, target1, target2, target1Percentage, itemNumber);
     }
 
 

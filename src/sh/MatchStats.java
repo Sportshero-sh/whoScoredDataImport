@@ -25,7 +25,7 @@ public class MatchStats {
         }
 
         if (squad.size() < 11) {
-            System.out.println("Match with less than 11 player played.");
+            System.out.println("Match with less than 11 player played: " + id);
         }
 
         return sb.toString();

@@ -87,7 +87,7 @@ public class FilePersistConnection {
         writeToFile(jsonContent, "predictions/" + fileName + ".txt", true);
     }
 
-    public void separateToFiles(String dest, String target1, String target2, float target1Percentage) {
+    public void separateToFiles(String dest, String target1, String target2, float target1Percentage, int itemNumber) {
         try {
             FileReader fileReader = new FileReader(dest);
             BufferedReader bufferedReader = new BufferedReader(fileReader);
@@ -97,14 +97,17 @@ public class FilePersistConnection {
             int target2Num = 0;
             while (line != null) {
 
-                if (Math.random() < target1Percentage) {
-                    writeToFile(line, target1, true);
-                    writeToFile("\n", target1, true);
-                    target1Num ++;
-                } else {
-                    writeToFile(line, target2, true);
-                    writeToFile("\n", target2, true);
-                    target2Num ++;
+                String[] items = line.split(",");
+                if (items.length == itemNumber) {
+                    if (Math.random() < target1Percentage) {
+                        writeToFile(line, target1, true);
+                        writeToFile("\n", target1, true);
+                        target1Num ++;
+                    } else {
+                        writeToFile(line, target2, true);
+                        writeToFile("\n", target2, true);
+                        target2Num ++;
+                    }
                 }
 
                 line = bufferedReader.readLine();

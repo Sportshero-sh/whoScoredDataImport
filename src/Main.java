@@ -1,6 +1,11 @@
+import com.google.gson.Gson;
+import utils.FilePersistConnection;
 import utils.ResponseException;
+import ws.Fixture;
+import ws.Stage;
 
 import java.io.IOException;
+import java.util.ArrayList;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
@@ -43,7 +48,7 @@ public class Main {
                 WSDataParser parser = new WSDataParser();
                 startAt = 1068829;
                 for (int i = startAt; i > 1053829  ; i --) {
-                    parser.parserMatch(i);
+                    parser.parserMatch(i, -1);
                 }
 
                 parser.close();
@@ -52,31 +57,20 @@ public class Main {
             case "parser_ws_data_by_stage":
                 parser = new WSDataParser();
                 parser.parseStages();
+//                parser.updateMatchWithStage();
                 break;
 
             case "create_prediction_match":
                 // Create prediction match data
                 PredictionDataCreator creator = new PredictionDataCreator();
-
-                startAt = 1122333;
-                int totalNumber = 0;
-                for (int i = startAt; i > 1122332  ; i --) {
-                    String fileName = "test";
-//                    if (totalNumber % 50 == 0) {
-//                        fileName = "Test";
-//                    }
-
-                    if (creator.createPredictionData(i, fileName)) {
-                        totalNumber ++;
-                    }
-                }
+                int totalNumber = creator.createPredictionDataByStage("full");
 
                 System.out.println("Total Number is: " + totalNumber);
                 break;
 
             case "separate_sample_test":
                 creator = new PredictionDataCreator();
-                creator.separateSampleTest("predictions/Full.txt","predictions/test.csv", "predictions/training.csv", 0.1f);
+                creator.separateSampleTest("predictions/Full.txt","predictions/test.csv", "predictions/training.csv", 0.1f, 131);
                 break;
 
             default:

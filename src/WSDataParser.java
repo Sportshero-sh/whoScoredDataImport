@@ -28,12 +28,24 @@ public class WSDataParser {
 
             System.out.println("Persist stage: " + stage.id);
             for (Fixture fixture : stage.fixtures) {
-                parserMatch(fixture.id);
+                parserMatch(fixture.id, stage.id);
             }
         }
     }
 
-    public void parserMatch(int id) {
+    public void updateMatchWithStage() {
+        Gson gson = new Gson();
+        ArrayList<String> stages = mFileConnection.getAllStages();
+
+        for (String stageString : stages) {
+            Stage stage = gson.fromJson(stageString, Stage.class);
+
+            System.out.println("Persist stage: " + stage.id);
+            mDBConnection.updateMatchStage(stage);
+        }
+    }
+
+    public void parserMatch(int id, int stageId) {
         if (! mFileConnection.isMatchExist(id)) {
             return;
         }
@@ -53,7 +65,7 @@ public class WSDataParser {
 
         if (!mDBConnection.isMatchExist(id)) {
             System.out.println("Persist match: " + match.id);
-            mDBConnection.persistMatch(match);
+            mDBConnection.persistMatch(match, stageId);
 
             parserTeam(match.info.homeId, match.info.awayId);
 

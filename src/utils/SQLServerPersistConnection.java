@@ -10,9 +10,6 @@ import java.text.DateFormat;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
-import java.util.Collection;
-import java.util.Collections;
-import java.util.Comparator;
 
 
 public class SQLServerPersistConnection {
@@ -34,9 +31,12 @@ public class SQLServerPersistConnection {
             + "(?,?)";
 
     private static final String QUERY_MATCH_SQL = "SELECT * FROM match WHERE id_ws =? ";
+    private static final String QUERY_MATCHS_PRE_SQL = "SELECT top 5 * FROM match WHERE (home_id =? or away_id =?) and startTimeUtc <? ORDER by startTimeUtc desc";
     private static final String INSERT_MATCH_SQL = "INSERT INTO match"
-            + "(id_ws, tournamentName, home_id, away_id, home_name, away_name, home_score, away_score, startTimeUtc) VALUES"
-            + "(?,?,?,?,?,?,?,?,?)";
+            + "(id_ws, tournamentName, home_id, away_id, home_name, away_name, home_score, away_score, startTimeUtc, stage_id) VALUES"
+            + "(?,?,?,?,?,?,?,?,?,?)";
+    private static final String UPDATE_MATCH_STAGE_SQL = "UPDATE match set stage_id =? where id_ws =?";
+
 
     private static final String QUERY_MATCH_PLAYER_STATS_SQL = "SELECT * FROM match_player_stats WHERE match_id =? and player_id = ?";
     private static final String QUERY_MATCH_PLAYER_STATSES_SQL = "SELECT * FROM match_player_stats WHERE match_id =? and player_id in(";
@@ -46,6 +46,15 @@ public class SQLServerPersistConnection {
             " penalty_missed, minutes_played, shots_blocked, was_dribbled, interceptions, was_fouled, offsides, dispossessed, turnovers, crosses," +
             " long_balls, through_balls, shotsOnTarget, yellow, red, secondYellow, penaltySave, error_lead_to_goal, last_man_tackle, clearance_off_line, hit_woodwork) VALUES"
             + "(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)";
+    private static final String UPDATE_PLAYER_STATS_SQL = "update match_player_stats set man_of_the_match=?, formation_place=?, total_sub_on=?, total_sub_off=?, totalPasses=?, passAccuracy=?, aerialsWon=?, touches=?," +
+            "fouls=?, shots=?, dribblesWon=?, tackles=?, saves=?, assist=?, goal_penalty=?, goals=?, goal_own=?, penalty_missed=?, minutes_played=?, shots_blocked=?, was_dribbled=?," +
+            "interceptions=?, was_fouled=?, offsides=?, dispossessed=?, turnovers=?, crosses=?, long_balls=?, through_balls=?, shotsOnTarget=?, yellow=?, red=?, secondYellow=?, " +
+            "penaltySave=?, error_lead_to_goal=?, last_man_tackle=?, clearance_off_line=?, hit_woodwork=? " +
+            "where match_id =? and player_id =?";
+    private static final String QUERY_MATCH_STATS_PRE_SQL = "SELECT * FROM match_player_stats " +
+            "WHERE isSub = 'false' and match_id in (" +
+            "SELECT top 5 id_ws FROM match WHERE (home_id =? or away_id =?) and startTimeUtc <? ORDER by startTimeUtc desc" +
+            ") and team_id =?";
 
     private Connection mConnection = null;
 
@@ -136,7 +145,7 @@ public class SQLServerPersistConnection {
         return match;
     }
 
-    public void persistMatch(Match match) {
+    public void persistMatch(Match match, int stageId) {
         try {
 
             boolean isExist = false;
@@ -162,6 +171,7 @@ public class SQLServerPersistConnection {
                 ps.setInt(7, info.homeScore);
                 ps.setInt(8, info.awayScore);
                 ps.setTimestamp(9, getTimeStamp(info.startTimeUtc));
+                ps.setInt(10, stageId);
 
                 ps.executeUpdate();
 
@@ -176,6 +186,27 @@ public class SQLServerPersistConnection {
             }
             e.printStackTrace();
         } catch (ParseException e) {
+            e.printStackTrace();
+        }
+    }
+
+    public void updateMatchStage(Stage stage) {
+        int stageId = stage.id;
+
+        try {
+            PreparedStatement batchUpdate = mConnection.prepareStatement(UPDATE_MATCH_STAGE_SQL);
+            for (Fixture fixture : stage.fixtures) {
+
+                batchUpdate.setInt(1, stageId);
+                batchUpdate.setInt(2, fixture.id);
+
+                batchUpdate.addBatch();
+            }
+
+            batchUpdate.executeBatch();
+            batchUpdate.close();
+            mConnection.commit();
+        } catch (SQLException e) {
             e.printStackTrace();
         }
     }
@@ -413,11 +444,11 @@ public class SQLServerPersistConnection {
     }
 
     public ArrayList<MatchStats> getMatchStatsPreMatch(Match match, int teamId) {
-        String matchSql = "select top 5 * from match where (home_id =? or away_id =?) and startTimeUtc <?";
+
         ArrayList<MatchStats> matchStats = new ArrayList<>();
 
         try {
-            PreparedStatement ps = mConnection.prepareStatement(matchSql);
+            PreparedStatement ps = mConnection.prepareStatement(QUERY_MATCHS_PRE_SQL);
 
             ps.setInt(1, teamId);
             ps.setInt(2, teamId);
@@ -449,14 +480,8 @@ public class SQLServerPersistConnection {
             return new ArrayList<MatchStats>();
         }
 
-
-        String sql = "select * from match_player_stats " +
-                "where isSub = 'false' and match_id in (" +
-                "select top 5 id_ws from match where (home_id =? or away_id =?) and startTimeUtc <?" +
-                ") and team_id =?";
-
         try {
-            PreparedStatement ps = mConnection.prepareStatement(sql);
+            PreparedStatement ps = mConnection.prepareStatement(QUERY_MATCH_STATS_PRE_SQL);
             ps.setInt(1, teamId);
             ps.setInt(2, teamId);
             ps.setDate(3, match.info.startTimeDate);
@@ -522,14 +547,9 @@ public class SQLServerPersistConnection {
     }
 
     public void updatePlayerStats(int matchId, ArrayList<PlayerLiveStatistics> stats) {
-        String sql = "update match_player_stats set man_of_the_match=?, formation_place=?, total_sub_on=?, total_sub_off=?, totalPasses=?, passAccuracy=?, aerialsWon=?, touches=?," +
-                "fouls=?, shots=?, dribblesWon=?, tackles=?, saves=?, assist=?, goal_penalty=?, goals=?, goal_own=?, penalty_missed=?, minutes_played=?, shots_blocked=?, was_dribbled=?," +
-                "interceptions=?, was_fouled=?, offsides=?, dispossessed=?, turnovers=?, crosses=?, long_balls=?, through_balls=?, shotsOnTarget=?, yellow=?, red=?, secondYellow=?, " +
-                "penaltySave=?, error_lead_to_goal=?, last_man_tackle=?, clearance_off_line=?, hit_woodwork=? " +
-                "where match_id =? and player_id =?";
 
         try {
-            PreparedStatement batchUpdate = mConnection.prepareStatement(sql);
+            PreparedStatement batchUpdate = mConnection.prepareStatement(UPDATE_PLAYER_STATS_SQL);
             for (PlayerLiveStatistics playerLiveStatistics: stats) {
                 PlayerLiveStatisticsDetail detail = playerLiveStatistics.stats;
 
