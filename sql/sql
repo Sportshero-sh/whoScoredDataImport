@@ -1,0 +1,46 @@
+select avg(result.rating) from(
+	select top 10 mps.match_id, mps.player_id, mps.position, mps.rating, m.startTimeUtc from match_player_stats mps 
+	join match m on mps.match_id = m.id_ws
+	where mps.player_id = 105962
+	order by m.startTimeUtc DESC
+) as result group by result.player_id
+
+
+select top 10 mps.match_id, mps.player_id, mps.position, mps.rating, m.* from match_player_stats mps 
+join match m on mps.match_id = m.id_ws
+where mps.player_id = 105962
+order by m.startTimeUtc DESC
+
+select * from player where name = 'Benjamin Mendy'
+
+select * from team where name = 'Juventus' or name = 'Monaco'
+
+select * from match where home_id = 87 and away_id = 248
+
+select player_id from match_player_stats where match_id = 1184132
+
+select * from match_player_stats 
+where team_id = 87 and rating > 0 and match_id in (
+	select top 10 id_ws from match m
+	where (home_id = 87 or away_id = 87) and tournamentName = 'UEFA Champions League' and startTimeUtc <'2017-05-09' 
+	order by m.startTimeUtc desc
+) 
+
+select * from player where id_ws = 5780
+
+
+select player_id, count(player_id), avg(rating) from match_player_stats 
+where team_id = 87 and rating > 0 and match_id in (
+	select top 10 id_ws from match m
+	where (home_id = 87 or away_id = 87) and tournamentName = 'UEFA Champions League' and startTimeUtc <'2017-05-09' 
+	order by m.startTimeUtc desc
+) and player_id in (
+	select player_id from match_player_stats where match_id = 1184132
+)
+group by player_id order by count(player_id) desc
+
+
+select match_id, count(match_id) from match_player_stats
+group by match_id
+
+select id_ws from match where (home_id = 87 or away_id = 87) and tournamentName = 'UEFA Champions League' and startTimeUtc <'2017-05-09' order by startTimeUtc desc

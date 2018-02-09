@@ -70,7 +70,12 @@ public class Main {
 
             case "separate_sample_test":
                 creator = new PredictionDataCreator();
-                creator.separateSampleTest("predictions/Full.txt","predictions/test.csv", "predictions/training.csv", 0.1f, 131);
+                creator.separateSampleTest("predictions/Full.txt","predictions/test.csv", "predictions/training.csv", 0.1f, 73);
+                break;
+
+            case "team_name_translate":
+                TeamNameTranslator translator = new TeamNameTranslator();
+                translator.startTranslate("teamNames/Korea.txt");
                 break;
 
             default:

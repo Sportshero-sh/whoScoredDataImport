@@ -40,7 +40,6 @@ public class PredictionDataCreator {
         }
 
         // Create the match prediction data.
-        System.out.println("Create match for prediction: " + id);
         MatchForPrediction matchForPrediction = new MatchForPrediction();
         matchForPrediction.homeId = match.info.homeId;
         matchForPrediction.awayId = match.info.awayId;
@@ -50,10 +49,11 @@ public class PredictionDataCreator {
         matchForPrediction.awayScore = match.info.awayScore;
 
         Match matchFromDB = mDBConnection.getMatch(id);
-        matchForPrediction.homeMatchStats = mDBConnection.getMatchStatsPreMatch(matchFromDB, matchFromDB.info.homeId);
-        matchForPrediction.awayMatchStats = mDBConnection.getMatchStatsPreMatch(matchFromDB, matchFromDB.info.awayId);
+        matchForPrediction.homePlayerRating = mDBConnection.getPastPlayerRating(matchFromDB, matchFromDB.info.homeId);
+        matchForPrediction.awayPlayerRating = mDBConnection.getPastPlayerRating(matchFromDB, matchFromDB.info.awayId);
 
-        if (matchForPrediction.homeMatchStats.size() > 0 && matchForPrediction.awayMatchStats.size() > 0) {
+        if (matchForPrediction.isValid()) {
+            System.out.println("Create match for prediction: " + id);
             mFileConnection.persistPredictionMatch(fileName, matchForPrediction.toString());
 
             return true;
@@ -72,6 +72,11 @@ public class PredictionDataCreator {
             for (Fixture fixture : stage.fixtures) {
                 if (createPredictionData(fixture.id, fileName)){
                     totalNumber ++;
+
+                    // TODO to remove.
+                    if (totalNumber >= 1000) {
+                        return totalNumber;
+                    }
                 }
             }
         }
@@ -79,12 +84,10 @@ public class PredictionDataCreator {
         return totalNumber;
     }
 
+
+
     public void separateSampleTest(String dest, String target1, String target2, float target1Percentage, int itemNumber) {
         mFileConnection.separateToFiles(dest, target1, target2, target1Percentage, itemNumber);
     }
 
-
-    public void test() {
-
-    }
 }

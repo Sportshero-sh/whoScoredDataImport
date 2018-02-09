@@ -1,0 +1,13 @@
+[{ "zh": "蔚山现代", "en": "Ulsan Hyundai FC"},
+{ "zh": "浦项制铁", "en": "Pohang Steelers"},
+{ "zh": "全北现代", "en": "Jeonbuk Hyundai Motors"},
+{ "zh": "大邱FC", "en": "Daegu FC"},
+{ "zh": "尚州尚武", "en": "Sangju Sangmu Phoenix"},
+{ "zh": "仁川联队", "en": "Incheon United"},
+{ "zh": "水原三星", "en": "Suwon Samsung Bluewings"},
+{ "zh": "全南天龙", "en": "Chunnam Dragons"},
+{ "zh": "FC首尔", "en": "FC Seoul"},
+{ "zh": "济州联队", "en": "Jeju United"},
+{ "zh": "江原FC", "en": "Gangwon FC"},
+{ "zh": "光州FC", "en": "Gwangju Football Club"}
+]

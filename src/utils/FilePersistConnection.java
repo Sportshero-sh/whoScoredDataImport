@@ -123,6 +123,10 @@ public class FilePersistConnection {
         }
     }
 
+    public String getRowText(String path) {
+        return getFromFile(path);
+    }
+
     public void test() {
         try {
             FileReader fileReader = new FileReader("predictions/full_rating.txt");

@@ -1,6 +1,8 @@
 package utils;
 
 import sh.MatchStats;
+import sh.NameTranslate;
+import sh.PlayerRating;
 import sh.TeamSquad;
 import ws.*;
 
@@ -13,6 +15,9 @@ import java.util.ArrayList;
 
 
 public class SQLServerPersistConnection {
+
+    private static final int HOME_AWAY_STATS_MATCH_NUMBER = 5;
+    private static final int LAST_MEETINGS_MATCH_NUMBER = 5;
 
     private static final String QUERY_STAGE_SQL = "SELECT * FROM stage WHERE id_ws =?";
     private static final String INSERT_STAGE_SQL = "INSERT INTO stage"
@@ -31,7 +36,8 @@ public class SQLServerPersistConnection {
             + "(?,?)";
 
     private static final String QUERY_MATCH_SQL = "SELECT * FROM match WHERE id_ws =? ";
-    private static final String QUERY_MATCHS_PRE_SQL = "SELECT top 5 * FROM match WHERE (home_id =? or away_id =?) and startTimeUtc <? ORDER by startTimeUtc desc";
+    private static final String QUERY_MATCH_PRE_SQL = "SELECT top " + HOME_AWAY_STATS_MATCH_NUMBER + " * FROM match WHERE (home_id =? or away_id =?) and startTimeUtc <? ORDER by startTimeUtc desc";
+    private static final String QUERY_LAST_MEETINGS_SQL = "SELECT top " + LAST_MEETINGS_MATCH_NUMBER + " * FROM match WHERE ((home_id =? and away_id =?) or (home_id =? and away_id =?)) and startTimeUtc <? ORDER by startTimeUtc desc";
     private static final String INSERT_MATCH_SQL = "INSERT INTO match"
             + "(id_ws, tournamentName, home_id, away_id, home_name, away_name, home_score, away_score, startTimeUtc, stage_id) VALUES"
             + "(?,?,?,?,?,?,?,?,?,?)";
@@ -53,8 +59,22 @@ public class SQLServerPersistConnection {
             "where match_id =? and player_id =?";
     private static final String QUERY_MATCH_STATS_PRE_SQL = "SELECT * FROM match_player_stats " +
             "WHERE isSub = 'false' and match_id in (" +
-            "SELECT top 5 id_ws FROM match WHERE (home_id =? or away_id =?) and startTimeUtc <? ORDER by startTimeUtc desc" +
-            ") and team_id =?";
+            "SELECT top " + HOME_AWAY_STATS_MATCH_NUMBER + " id_ws FROM match WHERE (home_id =? or away_id =?) and startTimeUtc <? ORDER by startTimeUtc desc" +
+            ")";
+    private static final String QUERY_LAST_MEETING_STATS_SQL = "SELECT * FROM match_player_stats " +
+            "WHERE isSub = 'false' and match_id in (" +
+            "SELECT top " + LAST_MEETINGS_MATCH_NUMBER + " id_ws FROM match WHERE ((home_id =? and away_id =?) or (home_id =? and away_id =?)) and startTimeUtc <? ORDER by startTimeUtc desc" +
+            ")";
+    private static final String QUERY_PLAYER_AVG_RATING_SQL =
+            "select player_id, count(player_id), avg(rating) from match_player_stats " +
+            "where team_id = ? and rating > 0 and match_id in (" +
+                "select top 10 id_ws from match m " +
+                "where (home_id = ? or away_id = ?) and startTimeUtc < ? " +
+                "order by m.startTimeUtc desc" +
+            ") and player_id in (" +
+                "select player_id from match_player_stats where match_id = ? and team_id = ?" +
+            ")" +
+            "group by player_id order by count(player_id) desc";
 
     private Connection mConnection = null;
 
@@ -448,7 +468,7 @@ public class SQLServerPersistConnection {
         ArrayList<MatchStats> matchStats = new ArrayList<>();
 
         try {
-            PreparedStatement ps = mConnection.prepareStatement(QUERY_MATCHS_PRE_SQL);
+            PreparedStatement ps = mConnection.prepareStatement(QUERY_MATCH_PRE_SQL);
 
             ps.setInt(1, teamId);
             ps.setInt(2, teamId);
@@ -476,7 +496,7 @@ public class SQLServerPersistConnection {
         }
 
         // Return if there is not enough matches.
-        if (matchStats.size() < 5) {
+        if (matchStats.size() < HOME_AWAY_STATS_MATCH_NUMBER) {
             return new ArrayList<MatchStats>();
         }
 
@@ -485,7 +505,6 @@ public class SQLServerPersistConnection {
             ps.setInt(1, teamId);
             ps.setInt(2, teamId);
             ps.setDate(3, match.info.startTimeDate);
-            ps.setInt(4, teamId);
 
             ResultSet rs = ps.executeQuery();
 
@@ -530,10 +549,15 @@ public class SQLServerPersistConnection {
                 squad.hit_woodwork = rs.getInt("hit_woodwork");
 
                 int matchId = rs.getInt("match_id");
+                int thisTeamId = rs.getInt("team_id");
 
                 for (MatchStats stats: matchStats) {
                     if (stats.id == matchId) {
-                        stats.squad.add(squad);
+                        if (thisTeamId == teamId) {
+                            stats.mySquad.add(squad);
+                        } else {
+                            stats.againstSquad.add(squad);
+                        }
                         break;
                     }
                 }
@@ -544,6 +568,154 @@ public class SQLServerPersistConnection {
         }
 
         return matchStats;
+    }
+
+
+    public ArrayList<MatchStats> getLastMeetingsStats(Match match) {
+        ArrayList<MatchStats> matchStats = new ArrayList<>();
+
+        try {
+            PreparedStatement ps = mConnection.prepareStatement(QUERY_LAST_MEETINGS_SQL);
+
+            ps.setInt(1, match.info.homeId);
+            ps.setInt(2, match.info.awayId);
+            ps.setInt(3, match.info.awayId);
+            ps.setInt(4, match.info.homeId);
+            ps.setDate(5, match.info.startTimeDate);
+
+            ResultSet rs = ps.executeQuery();
+
+            int index = 0;
+            while(rs.next()) {
+                MatchStats stats = new MatchStats();
+
+                stats.id = rs.getInt("id_ws");
+                if (rs.getInt("home_id") == match.info.homeId) {
+                    stats.goal = rs.getInt("home_score");
+                    stats.conceded = rs.getInt("away_score");
+                } else if (rs.getInt("away_id") == match.info.homeId) {
+                    stats.goal = rs.getInt("away_score");
+                    stats.conceded = rs.getInt("home_score");
+                }
+
+                matchStats.add(stats);
+                index ++;
+                if (index >= LAST_MEETINGS_MATCH_NUMBER) {
+                    break;
+                }
+            }
+
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
+
+        // Return if there is not enough matches.
+        if (matchStats.size() < LAST_MEETINGS_MATCH_NUMBER) {
+            return new ArrayList<MatchStats>();
+        }
+
+        try {
+            PreparedStatement ps = mConnection.prepareStatement(QUERY_LAST_MEETING_STATS_SQL);
+            ps.setInt(1, match.info.homeId);
+            ps.setInt(2, match.info.awayId);
+            ps.setInt(3, match.info.awayId);
+            ps.setInt(4, match.info.homeId);
+            ps.setDate(5, match.info.startTimeDate);
+
+            ResultSet rs = ps.executeQuery();
+
+            while(rs.next()) {
+                TeamSquad squad = new TeamSquad();
+                squad.rating = rs.getFloat("rating");
+                squad.man_of_the_match = rs.getInt("man_of_the_match");
+                squad.formation_place = rs.getInt("formation_place");
+                squad.totalPasses = rs.getInt("totalPasses");
+                squad.passAccuracy = rs.getInt("passAccuracy");
+                squad.aerialsWon = rs.getInt("aerialsWon");
+                squad.touches = rs.getInt("touches");
+                squad.fouls = rs.getInt("fouls");
+                squad.shots = rs.getInt("shots");
+                squad.dribblesWon = rs.getInt("dribblesWon");
+                squad.tackles = rs.getInt("tackles");
+                squad.saves = rs.getInt("saves");
+                squad.assist = rs.getInt("assist");
+                squad.goal_penalty = rs.getInt("goal_penalty");
+                squad.goals = rs.getInt("goals");
+                squad.goal_own = rs.getInt("goal_own");
+                squad.penalty_missed = rs.getInt("penalty_missed");
+                squad.minutes_played = rs.getInt("minutes_played");
+                squad.shots_blocked = rs.getInt("shots_blocked");
+                squad.was_dribbled = rs.getInt("was_dribbled");
+                squad.interceptions = rs.getInt("interceptions");
+                squad.was_fouled = rs.getInt("was_fouled");
+                squad.offsides = rs.getInt("offsides");
+                squad.dispossessed = rs.getInt("dispossessed");
+                squad.turnovers = rs.getInt("turnovers");
+                squad.crosses = rs.getInt("crosses");
+                squad.long_balls = rs.getInt("long_balls");
+                squad.through_balls = rs.getInt("through_balls");
+                squad.shotsOnTarget = rs.getInt("shotsOnTarget");
+                squad.yellow = rs.getInt("yellow");
+                squad.red = rs.getInt("red");
+                squad.secondYellow = rs.getInt("secondYellow");
+                squad.penaltySave = rs.getInt("penaltySave");
+                squad.error_lead_to_goal = rs.getInt("error_lead_to_goal");
+                squad.last_man_tackle = rs.getInt("last_man_tackle");
+                squad.clearance_off_line = rs.getInt("clearance_off_line");
+                squad.hit_woodwork = rs.getInt("hit_woodwork");
+
+                int matchId = rs.getInt("match_id");
+                int thisTeamId = rs.getInt("team_id");
+
+                for (MatchStats stats: matchStats) {
+                    if (stats.id == matchId) {
+                        if (thisTeamId == match.info.homeId) {
+                            stats.mySquad.add(squad);
+                        } else {
+                            stats.againstSquad.add(squad);
+                        }
+                        break;
+                    }
+                }
+            }
+
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
+
+        return matchStats;
+    }
+
+    public ArrayList<PlayerRating> getPastPlayerRating(Match match, int teamId) {
+        ArrayList<PlayerRating> pastRatings = new ArrayList<>();
+
+        try {
+            PreparedStatement ps = mConnection.prepareStatement(QUERY_PLAYER_AVG_RATING_SQL);
+
+            ps.setInt(1, teamId);
+            ps.setInt(2, teamId);
+            ps.setInt(3, teamId);
+            ps.setDate(4, match.info.startTimeDate);
+            ps.setInt(5, match.id);
+            ps.setInt(6, teamId);
+
+            ResultSet rs = ps.executeQuery();
+
+            while(rs.next()) {
+                PlayerRating stats = new PlayerRating();
+
+                stats.id = rs.getInt(1);
+                stats.appearance = rs.getInt(2);
+                stats.avgRating = rs.getFloat(3);
+
+                pastRatings.add(stats);
+            }
+
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
+
+        return pastRatings;
     }
 
     public void updatePlayerStats(int matchId, ArrayList<PlayerLiveStatistics> stats) {
@@ -605,6 +777,62 @@ public class SQLServerPersistConnection {
         } catch (SQLException e) {
             e.printStackTrace();
         }
+    }
+
+    public int getTeamIdWithName(String name) {
+        try {
+            PreparedStatement ps = mConnection.prepareStatement("select id, Name from team where Name = ?");
+
+            ps.setString(1, name);
+
+            ResultSet rs = ps.executeQuery();
+
+            while(rs.next()) {
+                return rs.getInt(1);
+            }
+
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
+
+        return -1;
+    }
+
+    public String getTranslationWithTeamId(int id) {
+        try {
+            PreparedStatement ps = mConnection.prepareStatement("select zh from translation where ObjectType = 'Team' and ObjectId = ?");
+
+            ps.setInt(1, id);
+
+            ResultSet rs = ps.executeQuery();
+
+            while(rs.next()) {
+                return rs.getString(1);
+            }
+
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
+
+        return null;
+    }
+
+    public void setTranslationWithTeamId(int id, String translatedString) {
+        try {
+            PreparedStatement batchInsert = mConnection.prepareStatement("insert into translation (ObjectType, ObjectId, zh) values (?, ?, ?)");
+
+            batchInsert.setString(1,"Team");
+            batchInsert.setInt(2, id);
+            batchInsert.setString(3, translatedString);
+            batchInsert.addBatch();
+
+            batchInsert.executeBatch();
+            batchInsert.close();
+            mConnection.commit();
+        } catch (SQLException e) {
+
+        }
+
     }
 
 
