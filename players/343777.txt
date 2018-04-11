@@ -1,0 +1,1 @@
+{"info":{"regionCode":"sk","regionName":"Slovakia","name":"Simon Stefanec","dateOfBirth":"1998-09-04T23:00:00.0000000Z","age":19,"position":"M","height":178,"weight":73,"currentTeamId":76,"currentTeamName":"Verona","currentTeamRegionCode":"it"},"id":343777,"lastModified":"2018-03-21T09:33:10.2073925Z","maxAge":60,"autoRefresh":false}

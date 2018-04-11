@@ -1,0 +1,1 @@
+{"info":{"regionCode":"es","regionName":"Spain","name":"Moha Ramos","dateOfBirth":"2000-04-12T23:00:00.0000000Z","age":17,"position":"GK","height":188,"weight":88,"currentTeamId":52,"currentTeamName":"Real Madrid","currentTeamRegionCode":"es"},"id":346736,"lastModified":"2018-03-21T09:32:42.0669887Z","maxAge":60,"autoRefresh":false}

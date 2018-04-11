@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Antonio Santurro","dateOfBirth":"1992-02-29T00:00:00.0000000Z","age":26,"position":"GK","height":192,"weight":86,"currentTeamId":71,"currentTeamName":"Bologna","currentTeamRegionCode":"it"},"id":91182,"lastModified":"2018-03-21T09:33:07.0289014Z","maxAge":60,"autoRefresh":false}

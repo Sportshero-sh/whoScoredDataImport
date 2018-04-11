@@ -1,0 +1,1 @@
+{"info":{"regionCode":"de","regionName":"Germany","name":"Louis Beyer","dateOfBirth":"2000-05-18T23:00:00.0000000Z","age":17,"position":"D","height":178,"currentTeamId":134,"currentTeamName":"Borussia M.Gladbach","currentTeamRegionCode":"de"},"id":353412,"lastModified":"2018-03-21T09:34:17.1282896Z","maxAge":60,"autoRefresh":false}

@@ -1,0 +1,1 @@
+{"info":{"regionCode":"gb-eng","regionName":"England","name":"Jermaine Grandison","dateOfBirth":"1990-12-05T00:00:00.0000000Z","age":27,"position":"D","height":193,"weight":84,"currentTeamId":207,"currentTeamName":"Shrewsbury","currentTeamRegionCode":"gb-eng"},"id":304005,"lastModified":"2018-02-23T09:43:31.3660844Z","maxAge":60,"autoRefresh":false}

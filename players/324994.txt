@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Giovanni Volpicelli","dateOfBirth":"1999-09-23T23:00:00.0000000Z","age":18,"position":"M","height":175,"weight":67,"currentTeamId":1503,"currentTeamName":"Benevento","currentTeamRegionCode":"it"},"id":324994,"lastModified":"2018-03-21T09:34:09.5497815Z","maxAge":60,"autoRefresh":false}

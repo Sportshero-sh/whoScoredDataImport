@@ -1,0 +1,1 @@
+{"info":{"regionCode":"gb-eng","regionName":"England","name":"Steve Seddon","dateOfBirth":"1997-12-25T00:00:00.0000000Z","age":20,"position":"D","currentTeamId":157,"currentTeamName":"Birmingham","currentTeamRegionCode":"gb-eng"},"id":352815,"lastModified":"2018-03-21T09:32:04.8961361Z","maxAge":60,"autoRefresh":false}

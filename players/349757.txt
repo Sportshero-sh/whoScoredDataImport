@@ -1,0 +1,1 @@
+{"info":{"regionCode":"de","regionName":"Germany","name":"Justin Hoffmans","dateOfBirth":"1997-02-26T00:00:00.0000000Z","age":21,"position":"D","height":176,"weight":70,"currentTeamId":134,"currentTeamName":"Borussia M.Gladbach","currentTeamRegionCode":"de"},"id":349757,"lastModified":"2018-03-21T09:32:23.1283630Z","maxAge":60,"autoRefresh":false}

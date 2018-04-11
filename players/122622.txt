@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Riccardo Piscitelli","dateOfBirth":"1993-10-09T23:00:00.0000000Z","age":24,"position":"GK","height":185,"weight":80,"currentTeamId":1503,"currentTeamName":"Benevento","currentTeamRegionCode":"it"},"id":122622,"lastModified":"2018-03-21T09:33:07.1693053Z","maxAge":60,"autoRefresh":false}

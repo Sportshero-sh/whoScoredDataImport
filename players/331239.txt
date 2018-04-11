@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Alessio Donnarumma","dateOfBirth":"1998-02-16T00:00:00.0000000Z","age":20,"position":"M","height":182,"weight":72,"currentTeamId":1503,"currentTeamName":"Benevento","currentTeamRegionCode":"it"},"id":331239,"lastModified":"2018-03-21T09:33:05.7456888Z","maxAge":60,"autoRefresh":false}

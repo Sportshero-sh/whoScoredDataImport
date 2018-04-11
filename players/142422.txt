@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Alessandro Bellemo","dateOfBirth":"1995-08-06T23:00:00.0000000Z","age":22,"position":"M","height":184,"weight":82,"currentTeamId":1502,"currentTeamName":"SPAL 2013","currentTeamRegionCode":"it"},"id":142422,"lastModified":"2018-03-21T09:33:07.1537030Z","maxAge":60,"autoRefresh":false}

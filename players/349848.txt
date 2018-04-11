@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Manuel Lombardoni","dateOfBirth":"1998-12-19T00:00:00.0000000Z","age":19,"position":"D","currentTeamId":75,"currentTeamName":"Inter","currentTeamRegionCode":"it"},"id":349848,"lastModified":"2018-03-21T09:33:21.8623745Z","maxAge":60,"autoRefresh":false}

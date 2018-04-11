@@ -1,0 +1,1 @@
+{"info":{"regionCode":"dk","regionName":"Denmark","name":"Alexander Molberg","dateOfBirth":"1999-05-23T23:00:00.0000000Z","age":18,"position":"D","height":185,"weight":75,"currentTeamId":78,"currentTeamName":"Cagliari","currentTeamRegionCode":"it"},"id":346326,"lastModified":"2018-03-21T09:33:11.8941773Z","maxAge":60,"autoRefresh":false}

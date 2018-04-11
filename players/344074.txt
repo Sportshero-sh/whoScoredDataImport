@@ -1,0 +1,1 @@
+{"info":{"regionCode":"ar","regionName":"Argentina","name":"Nicolas Sessa","dateOfBirth":"1996-03-23T00:00:00.0000000Z","age":21,"position":"M","height":170,"weight":68,"currentTeamId":41,"currentTeamName":"VfB Stuttgart","currentTeamRegionCode":"de"},"id":344074,"lastModified":"2018-03-21T09:32:11.8060871Z","maxAge":60,"autoRefresh":false}

@@ -17,7 +17,7 @@ public class WSMultiFetcher {
 
     public WSMultiFetcher(int startAt, int length, int batchSize) {
 
-        mToFetchList = Collections.synchronizedList(new ArrayList<>());
+        mToFetchList = Collections.synchronizedList(new ArrayList<Integer>());
 
         for (int i = startAt; i > startAt - length  ; i --) {
             mToFetchList.add(i);
@@ -45,9 +45,9 @@ public class WSMultiFetcher {
         ArrayList<Future<CallResult>> results = new ArrayList<Future<CallResult>>();
 
         for (int i = 0; i < batchSize && mToFetchList.size() > 0; i ++) {
-            int id = mToFetchList.remove(0);
+            final int id = mToFetchList.remove(0);
 
-            WSFetcher fetcher = new WSFetcher();
+            final WSFetcher fetcher = new WSFetcher();
             results.add(mExec.submit(new Callable<CallResult>() {
                 @Override
                 public CallResult call() throws Exception {

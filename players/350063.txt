@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Aldo Caiazza","dateOfBirth":"1999-03-20T00:00:00.0000000Z","age":19,"position":"D","currentTeamId":86,"currentTeamName":"Udinese","currentTeamRegionCode":"it"},"id":350063,"lastModified":"2018-03-21T09:34:17.9120690Z","maxAge":60,"autoRefresh":false}

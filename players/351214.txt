@@ -1,0 +1,1 @@
+{"info":{"regionCode":"de","regionName":"Germany","name":"Florian Mayer","dateOfBirth":"1998-03-04T00:00:00.0000000Z","age":20,"position":"D","height":190,"weight":80,"currentTeamId":134,"currentTeamName":"Borussia M.Gladbach","currentTeamRegionCode":"de"},"id":351214,"lastModified":"2018-03-21T09:32:24.6137790Z","maxAge":60,"autoRefresh":false}

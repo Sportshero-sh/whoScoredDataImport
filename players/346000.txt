@@ -1,0 +1,1 @@
+{"info":{"regionName":"Undefined","name":"Bruno Jordao","dateOfBirth":"1998-10-11T23:00:00.0000000Z","age":19,"position":"M","height":180,"weight":73,"currentTeamId":77,"currentTeamName":"Lazio","currentTeamRegionCode":"it"},"id":346000,"lastModified":"2018-03-21T09:33:11.9253774Z","maxAge":60,"autoRefresh":false}

@@ -1,0 +1,1 @@
+{"info":{"regionCode":"gb-eng","regionName":"England","name":"Dominic Smith","dateOfBirth":"1996-02-09T00:00:00.0000000Z","age":22,"position":"D","height":183,"currentTeamId":207,"currentTeamName":"Shrewsbury","currentTeamRegionCode":"gb-eng"},"id":134262,"lastModified":"2018-02-23T09:43:35.0320844Z","maxAge":60,"autoRefresh":false}

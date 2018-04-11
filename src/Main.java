@@ -39,7 +39,10 @@ public class Main {
 //                for (int i = 7228; i <= 7228; i ++) {
 //                    fetcher.fetchStage(i);
 //                }
-
+//                int[] stageList = {15151 , 15617, 15404 ,15375, 15243, 15177,15619};
+//                for(Integer i : stageList){
+//                    fetcher.fetchStage(i);
+//                }
                 new WSMultiFetcher(fetcher.getMatchesFromStages(), 16);
                 break;
 

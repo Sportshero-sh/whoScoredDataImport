@@ -1,0 +1,1 @@
+{"info":{"regionName":"Undefined","name":"Raoul Bellanova","dateOfBirth":"2000-05-16T23:00:00.0000000Z","age":17,"position":"D","height":185,"weight":78,"currentTeamId":80,"currentTeamName":"AC Milan","currentTeamRegionCode":"it"},"id":349184,"lastModified":"2018-03-21T09:33:19.4353295Z","maxAge":60,"autoRefresh":false}

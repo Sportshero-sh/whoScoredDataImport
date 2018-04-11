@@ -1,0 +1,1 @@
+{"info":{"regionCode":"gb-wls","regionName":"Wales","name":"Ashley Baker","dateOfBirth":"1996-10-30T00:00:00.0000000Z","age":21,"position":"D","currentTeamId":25,"currentTeamName":"Sheffield Wednesday","currentTeamRegionCode":"gb-eng"},"id":342833,"lastModified":"2018-03-21T09:31:55.7454583Z","maxAge":60,"autoRefresh":false}

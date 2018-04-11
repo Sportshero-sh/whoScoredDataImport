@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Simone Muratore","dateOfBirth":"1998-05-29T23:00:00.0000000Z","age":19,"position":"M","height":186,"weight":74,"currentTeamId":87,"currentTeamName":"Juventus","currentTeamRegionCode":"it"},"id":333196,"lastModified":"2018-03-21T09:33:47.0112493Z","maxAge":60,"autoRefresh":false}

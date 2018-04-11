@@ -1,0 +1,1 @@
+{"info":{"regionCode":"ua","regionName":"Ukraine","name":"Oleh Kudryk","dateOfBirth":"1996-10-16T23:00:00.0000000Z","age":21,"position":"GK","height":187,"weight":82,"currentTeamId":1706,"currentTeamName":"Shakhtar Donetsk","currentTeamRegionCode":"ua"},"id":322831,"lastModified":"2018-03-21T09:34:20.8237256Z","maxAge":60,"autoRefresh":false}

@@ -1,0 +1,1 @@
+{"info":{"regionCode":"fr","regionName":"France","name":"Elliot Grandin","dateOfBirth":"1987-10-16T23:00:00.0000000Z","age":30,"position":"D(C),M(C),FW","height":178,"weight":67,"currentTeamId":5792,"currentTeamName":"Ermis Aradippou","currentTeamRegionCode":"cy"},"id":23324,"lastModified":"2018-02-23T09:43:35.3440886Z","maxAge":60,"autoRefresh":false}

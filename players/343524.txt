@@ -1,0 +1,1 @@
+{"info":{"regionCode":"it","regionName":"Italy","name":"Giacomo Poluzzi","dateOfBirth":"1988-02-25T00:00:00.0000000Z","age":30,"position":"GK","height":186,"weight":74,"currentTeamId":1502,"currentTeamName":"SPAL 2013","currentTeamRegionCode":"it"},"id":343524,"lastModified":"2018-03-21T09:33:08.3389391Z","maxAge":60,"autoRefresh":false}

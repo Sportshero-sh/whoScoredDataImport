@@ -1,0 +1,1 @@
+{"info":{"regionCode":"de","regionName":"Germany","name":"Christian Früchtl","dateOfBirth":"2000-01-28T00:00:00.0000000Z","age":18,"position":"GK","height":193,"weight":71,"currentTeamId":37,"currentTeamName":"Bayern Munich","currentTeamRegionCode":"de"},"id":342549,"lastModified":"2018-03-21T09:32:10.5958121Z","maxAge":60,"autoRefresh":false}

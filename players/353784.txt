@@ -1,0 +1,1 @@
+{"info":{"regionCode":"pl","regionName":"Poland","name":"Marcel Lizak","dateOfBirth":"1996-07-14T23:00:00.0000000Z","age":21,"position":"GK","height":192,"weight":78,"currentTeamId":2783,"currentTeamName":"Girona","currentTeamRegionCode":"es"},"id":353784,"lastModified":"2018-03-21T09:32:57.2085741Z","maxAge":60,"autoRefresh":false}

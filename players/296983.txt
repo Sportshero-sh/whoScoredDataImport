@@ -1,0 +1,1 @@
+{"info":{"regionCode":"de","regionName":"Germany","name":"Timo Hübers","dateOfBirth":"1996-07-19T23:00:00.0000000Z","age":21,"position":"D","height":190,"weight":82,"currentTeamId":110,"currentTeamName":"Hannover 96","currentTeamRegionCode":"de"},"id":296983,"lastModified":"2018-03-21T09:32:19.1449190Z","maxAge":60,"autoRefresh":false}

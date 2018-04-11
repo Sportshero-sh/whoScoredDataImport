@@ -1,0 +1,1 @@
+{"info":{"regionCode":"es","regionName":"Spain","name":"Javi Jiménez","dateOfBirth":"1997-03-11T00:00:00.0000000Z","age":21,"position":"D","height":182,"weight":74,"currentTeamId":55,"currentTeamName":"Valencia","currentTeamRegionCode":"es"},"id":344046,"lastModified":"2018-03-21T09:32:34.1881381Z","maxAge":60,"autoRefresh":false}

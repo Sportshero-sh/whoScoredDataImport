@@ -1,0 +1,1 @@
+{"info":{"regionCode":"ie","regionName":"Ireland","name":"Aaron Drinan","dateOfBirth":"1998-05-05T23:00:00.0000000Z","age":19,"position":"FW","currentTeamId":165,"currentTeamName":"Ipswich","currentTeamRegionCode":"gb-eng"},"id":351188,"lastModified":"2018-03-21T09:31:56.6658241Z","maxAge":60,"autoRefresh":false}
