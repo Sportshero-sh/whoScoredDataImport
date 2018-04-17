@@ -16,8 +16,8 @@ public class MatchForPrediction {
     public ArrayList<MatchStats> homeMatchStats;
     public ArrayList<MatchStats> awayMatchStats;
 
-    public static final int MAX_TEAM_PLAYER_NUMBER = 18;
-    public static final int MIN_TEAM_PLAYER_NUMBER = 18;
+    public static final int MAX_TEAM_PLAYER_NUMBER = 14;
+    public static final int MIN_TEAM_PLAYER_NUMBER = 14;
     public ArrayList<PlayerRating> homePlayerRating;
     public ArrayList<PlayerRating> awayPlayerRating;
 

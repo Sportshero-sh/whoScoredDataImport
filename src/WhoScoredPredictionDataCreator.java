@@ -11,12 +11,12 @@ import java.util.ArrayList;
 /**
  * Created by zhengyu on 11/07/2017.
  */
-public class PredictionDataCreator {
+public class WhoScoredPredictionDataCreator {
 
     private FilePersistConnection mFileConnection;
     private SQLServerPersistConnection mDBConnection;
 
-    public PredictionDataCreator() {
+    public WhoScoredPredictionDataCreator() {
         mFileConnection = new FilePersistConnection();
         mDBConnection = new SQLServerPersistConnection("fhvm-dev.eastasia.cloudapp.azure.com", "footballhero_sa", "password99__**01", "whoscored");
     }
@@ -63,7 +63,8 @@ public class PredictionDataCreator {
     }
 
     public int createPredictionDataByStage(String fileName) {
-        ArrayList<String> stageStrings = mFileConnection.getAllStages();
+//        ArrayList<String> stageStrings = mFileConnection.getAllStages();
+        ArrayList<String> stageStrings = mFileConnection.getRequiredStages(new String[]{ "15375", "13955", "12647", "11363", "7920", "6652" });
         Gson gson = new Gson();
 
         int totalNumber = 0;
@@ -72,11 +73,6 @@ public class PredictionDataCreator {
             for (Fixture fixture : stage.fixtures) {
                 if (createPredictionData(fixture.id, fileName)){
                     totalNumber ++;
-
-                    // TODO to remove.
-                    if (totalNumber >= 1000) {
-                        return totalNumber;
-                    }
                 }
             }
         }
@@ -86,8 +82,8 @@ public class PredictionDataCreator {
 
 
 
-    public void separateSampleTest(String dest, String target1, String target2, float target1Percentage, int itemNumber) {
-        mFileConnection.separateToFiles(dest, target1, target2, target1Percentage, itemNumber);
+    public void separateSampleTest(String dest, String target1, String target2, float target1Percentage, int columnNum) {
+        mFileConnection.separateToFiles(dest, target1, target2, target1Percentage, columnNum);
     }
 
 }

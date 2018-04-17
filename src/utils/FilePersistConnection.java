@@ -37,6 +37,22 @@ public class FilePersistConnection {
         return stages;
     }
 
+    public ArrayList<String> getRequiredStages(String[] fileNameList) {
+        ArrayList<String> stages = new ArrayList<>();
+        File folder = new File("stages");
+        for (File f : folder.listFiles()) {
+            for (String fileName : fileNameList) {
+                if (f.toString().contains(fileName)) {
+                    stages.add(getFromFile(f.toString()));
+
+                    break;
+                }
+            }
+        }
+
+        return stages;
+    }
+
 
     public boolean isMatchExist(int id) {
         File file = new File("matches/" + id + ".txt");
@@ -87,7 +103,7 @@ public class FilePersistConnection {
         writeToFile(jsonContent, "predictions/" + fileName + ".txt", true);
     }
 
-    public void separateToFiles(String dest, String target1, String target2, float target1Percentage, int itemNumber) {
+    public void separateToFiles(String dest, String target1, String target2, float target1Percentage, int columnNum) {
         try {
             FileReader fileReader = new FileReader(dest);
             BufferedReader bufferedReader = new BufferedReader(fileReader);
@@ -98,7 +114,7 @@ public class FilePersistConnection {
             while (line != null) {
 
                 String[] items = line.split(",");
-                if (items.length == itemNumber) {
+                if (items.length == columnNum) {
                     if (Math.random() < target1Percentage) {
                         writeToFile(line, target1, true);
                         writeToFile("\n", target1, true);

@@ -1,9 +1,6 @@
 package utils;
 
-import sh.MatchStats;
-import sh.NameTranslate;
-import sh.PlayerRating;
-import sh.TeamSquad;
+import sh.*;
 import ws.*;
 
 import java.sql.*;
@@ -12,6 +9,8 @@ import java.text.DateFormat;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.Map;
 
 
 public class SQLServerPersistConnection {
@@ -842,6 +841,68 @@ public class SQLServerPersistConnection {
         } catch (SQLException e) {
             e.printStackTrace();
         }
+    }
+
+    public Map<Integer, MatchOdds> getMatchOdds(int amount) {
+        Map<Integer, MatchOdds> matchOdds = new HashMap<>();
+
+        String statement = "select TOP " + amount + " * from games g\n" +
+                "join leagues l on g.League_Id = l.id\n" +
+                "where ScoreString is not null and l.isTop = 'false'\n" +
+                "order by StartTime DESC";
+
+        try {
+            PreparedStatement ps = mConnection.prepareStatement(statement);
+
+            ResultSet rs = ps.executeQuery();
+
+            while(rs.next()) {
+                MatchOdds odds = new MatchOdds();
+
+                odds.id = rs.getInt("id");
+                odds.goal = rs.getInt("homeGoals");
+                odds.conceded = rs.getInt("awayGoals");
+
+                matchOdds.put(odds.id, odds);
+            }
+
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
+
+
+        statement = "select * from FHOdds f\n" +
+                "join markets m on f.Market_Id = m.id\n" +
+                "where m.Game_Id in (\n" +
+                "\tselect TOP " + amount + " g.id from games g\n" +
+                "\tjoin leagues l on g.League_Id = l.id\n" +
+                "\twhere ScoreString is not null and l.isTop = 'false'\n" +
+                "\torder by StartTime DESC\n" +
+                ") and Outcome_Id in (1, 2, 3)";
+        try {
+
+
+            PreparedStatement ps = mConnection.prepareStatement(statement);
+
+            ResultSet rs = ps.executeQuery();
+
+            while(rs.next()) {
+                Odd odd = new Odd();
+                odd.outcome = rs.getInt("Outcome_Id");
+                odd.odds = rs.getFloat("Odd");
+                odd.time = rs.getTimestamp("FetchedWhen");
+
+                int matchId = rs.getInt("Game_Id");
+                if (matchOdds.containsKey(matchId)) {
+                    matchOdds.get(matchId).addOdds(odd.outcome, odd);
+                }
+            }
+
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
+
+        return matchOdds;
     }
 
     public void test() {

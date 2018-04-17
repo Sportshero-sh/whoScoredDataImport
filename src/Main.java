@@ -1,13 +1,6 @@
-import com.google.gson.Gson;
-import utils.FilePersistConnection;
 import utils.ResponseException;
-import ws.Fixture;
-import ws.Stage;
 
 import java.io.IOException;
-import java.util.ArrayList;
-import java.util.concurrent.ExecutorService;
-import java.util.concurrent.Executors;
 
 public class Main {
 
@@ -65,15 +58,18 @@ public class Main {
 
             case "create_prediction_match":
                 // Create prediction match data
-                PredictionDataCreator creator = new PredictionDataCreator();
-                int totalNumber = creator.createPredictionDataByStage("full");
+//                WhoScoredPredictionDataCreator creator = new WhoScoredPredictionDataCreator();
+//                int totalNumber = creator.createPredictionDataByStage("full");
 
-                System.out.println("Total Number is: " + totalNumber);
+                SHPredictionDataCreator creator = new SHPredictionDataCreator();
+                int amount = creator.createPredictionData("sh_full");
+
+                System.out.println("Total Number is: " + amount);
                 break;
 
             case "separate_sample_test":
-                creator = new PredictionDataCreator();
-                creator.separateSampleTest("predictions/Full.txt","predictions/test.csv", "predictions/training.csv", 0.1f, 73);
+                creator = new SHPredictionDataCreator();
+                creator.separateSampleTest("predictions/sh_full.txt","predictions/test.csv", "predictions/training.csv", 0.1f, 4);
                 break;
 
             case "team_name_translate":
