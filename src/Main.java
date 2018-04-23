@@ -62,14 +62,14 @@ public class Main {
 //                int totalNumber = creator.createPredictionDataByStage("full");
 
                 SHPredictionDataCreator creator = new SHPredictionDataCreator();
-                int amount = creator.createPredictionData("sh_full");
+                int amount = creator.createPredictionData("sh_full", 10000);
 
                 System.out.println("Total Number is: " + amount);
                 break;
 
             case "separate_sample_test":
                 creator = new SHPredictionDataCreator();
-                creator.separateSampleTest("predictions/sh_full.txt","predictions/test.csv", "predictions/training.csv", 0.1f, 4);
+                creator.separateSampleTest("predictions/sh_full.txt","predictions/test.csv", "predictions/training.csv", 0.1f, 19);
                 break;
 
             case "team_name_translate":

@@ -10,6 +10,7 @@ import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.Iterator;
 import java.util.Map;
 
 
@@ -848,7 +849,7 @@ public class SQLServerPersistConnection {
 
         String statement = "select TOP " + amount + " * from games g\n" +
                 "join leagues l on g.League_Id = l.id\n" +
-                "where ScoreString is not null and l.isTop = 'false'\n" +
+                "where ScoreString is not null and l.Sport_Id = 1\n" +
                 "order by StartTime DESC";
 
         try {
@@ -862,6 +863,9 @@ public class SQLServerPersistConnection {
                 odds.id = rs.getInt("id");
                 odds.goal = rs.getInt("homeGoals");
                 odds.conceded = rs.getInt("awayGoals");
+                odds.home_id = rs.getInt("HomeTeam_Id");
+                odds.away_id = rs.getInt("AwayTeam_Id");
+                odds.time = rs.getTimestamp("StartTime");
 
                 matchOdds.put(odds.id, odds);
             }
@@ -876,7 +880,7 @@ public class SQLServerPersistConnection {
                 "where m.Game_Id in (\n" +
                 "\tselect TOP " + amount + " g.id from games g\n" +
                 "\tjoin leagues l on g.League_Id = l.id\n" +
-                "\twhere ScoreString is not null and l.isTop = 'false'\n" +
+                "\twhere ScoreString is not null and l.Sport_Id = 1\n" +
                 "\torder by StartTime DESC\n" +
                 ") and Outcome_Id in (1, 2, 3)";
         try {
@@ -900,6 +904,44 @@ public class SQLServerPersistConnection {
 
         } catch (SQLException e) {
             e.printStackTrace();
+        }
+
+
+        statement = "SELECT top 5 * FROM games " +
+                "WHERE ((HomeTeam_id =? and AwayTeam_Id =?) or (HomeTeam_id =? and AwayTeam_Id =?)) " +
+                "and startTime <? " +
+                "ORDER by startTime desc";
+
+        int index = 0;
+        Iterator<MatchOdds> it = matchOdds.values().iterator();
+        while (it.hasNext()) {
+            MatchOdds odds = it.next();
+            try {
+                PreparedStatement ps = mConnection.prepareStatement(statement);
+                ps.setInt(1, odds.home_id);
+                ps.setInt(2, odds.away_id);
+                ps.setInt(3, odds.away_id);
+                ps.setInt(4, odds.home_id);
+                ps.setTimestamp(5, odds.time);
+
+                ResultSet rs = ps.executeQuery();
+
+                while(rs.next()) {
+                    LastMeeting last = new LastMeeting();
+                    last.time = rs.getTimestamp("StartTime");
+                    last.goal = rs.getInt("homeGoals");
+                    last.conceded = rs.getInt("awayGoals");
+                    last.home_id = rs.getInt("HomeTeam_Id");
+                    last.away_id = rs.getInt("AwayTeam_Id");
+
+                    odds.addLastMeeting(last);
+                }
+
+            } catch (SQLException e) {
+                e.printStackTrace();
+            }
+            index ++;
+            System.out.println(index);
         }
 
         return matchOdds;

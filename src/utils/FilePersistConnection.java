@@ -99,6 +99,16 @@ public class FilePersistConnection {
     }
 
 
+    public boolean deleteFile(String fileName) {
+        File file = new File("predictions/" + fileName + ".txt");
+
+        if (!file.exists()) {
+            return true;
+        }
+
+        return file.delete();
+    }
+
     public void persistPredictionMatch(String fileName, String jsonContent) {
         writeToFile(jsonContent, "predictions/" + fileName + ".txt", true);
     }

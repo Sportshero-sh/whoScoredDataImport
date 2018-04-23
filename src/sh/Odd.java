@@ -5,6 +5,6 @@ package sh;
  */
 public class Odd {
     public int outcome;
-    public float odds;
+    public float odds = -1.0f;
     public java.sql.Timestamp time;
 }
